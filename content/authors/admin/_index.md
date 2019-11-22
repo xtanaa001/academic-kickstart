@@ -52,22 +52,22 @@ social:
 # link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en
+  link: 
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Xiaoqi_Tan
+  link: 
 - icon: dblp
   icon_pack: ai
-  link: https://dblp.org/pers/hd/t/Tan:Xiaoqi
+  link: 
 # - icon: github
 #  icon_pack: fab
-#  link: https://github.com/gcushen
+#  link: 
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
