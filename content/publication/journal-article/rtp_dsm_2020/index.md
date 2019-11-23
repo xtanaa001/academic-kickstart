@@ -10,7 +10,7 @@ authors:
   - et al.
 tags: []
 categories: []
-date: 2019-11-15T09:14:50-05:00
+date: 2019-11-21T09:14:50-05:00
 lastmod: 2019-11-18T09:14:50-05:00
 featured: false
 draft: false
@@ -36,7 +36,7 @@ url_video: ''
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Preprint"
 publication_short: ""
 
 abstract: "This paper aims at quantifying the value of a lifetime-constrained battery energy storage system (BESS) operated by a consumer who faces fluctuating electricity prices. We define the lifetime of the BESS as the serving duration within which the BESSs capacity stays above a certain threshold of its initial capacity and define the value of the BESS as the total peak-shaving value within its entire lifetime. Under the assumption that the price dynamics are Markovian, we show that maximizing the average value of the BESS can be formulated as a stochastic shortest path (SSP) problem, and the average lifetime corresponds to the average number of steps before being absorbed in the SSP problem. We propose an efficient parallel value iteration algorithm to solve the proposed SSP problem with guarantees of achieving optimality and a fast convergence. We also derive a closed form expression for the average lifetime based on the principle of an embedded absorbing Markov chain. We validate our model and algorithm on a practical BESS via real price data sets from two different markets. Comparison of the computational efficiency between the standard Gauss-Seidel value iteration and our parallel algorithm is also illustrated through extensive simulation."

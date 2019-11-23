@@ -39,18 +39,20 @@ subtitle = ""
   icon = "project-diagram"
   icon_pack = "fas"
   name = "Networks"
-  description = "My research aims to understand and optimize the design and operation of networks in the face of dynamics, ranging from changing and possibly strategic user behaviors to network connectivity and resource availability. Examples of current application areas include communication networks, cloud/edge computing and smart grid."
+  description = "My research aims to understand and optimize the design and operation of networks in the face of dynamics, ranging from changing and possibly strategic user behaviors to network connectivity and resource availability."
+
+ # Examples of current application areas include communication networks, cloud/edge computing and smart grid.
   
 [[feature]]
   icon = "subscript"
   icon_pack = "fas"
   name = "Algorithms"
-  description = "My research features interdisciplinarity and uses tools from mathematics and economics such as online algorithms, algorithmic game theory/mechanism design, and optimization."  
+  description = "My research focuses on algorithm design with tools from mathematics such as online algorithms, optimization, stochastic models and analysis. The goal is to exploit the structure of the problem and derive efficient algorithms. " 
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Economics"
-  description = "To achieve this, my research features interdisciplinarity and uses tools from mathematics and economics such as online algorithms, algorithmic game theory/mechanism design, and optimization."
+  description = "My research often uses tools from economics such as  game theory and mechanism design. In particular, I am interested in algorithmic economics, which sits at the intersection between economics and computation. "
 
 +++

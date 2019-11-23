@@ -1,6 +1,6 @@
 ---
 # Display name
-name: ABC DEF
+name: Xiaoqi Tan
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: XYZ XYZ
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -52,22 +52,22 @@ social:
 # link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: 
+  link: https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en
 - icon: researchgate
   icon_pack: ai
-  link: 
+  link: https://www.researchgate.net/profile/Xiaoqi_Tan
 - icon: dblp
   icon_pack: ai
-  link: 
+  link: https://dblp.org/pers/hd/t/Tan:Xiaoqi
 # - icon: github
 #  icon_pack: fab
-#  link: 
+#  link: https://github.com/gcushen
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
   icon_pack: ai
-  link:
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -78,3 +78,11 @@ email: ""
 # - Researchers
 # - Visitors
 ---
+
+### This website is still under construction!! Some information and hyperlinks may be irrelevant!!###
+
+I am currently a Postdoctoral Fellow at the Dept. of Electrical & Computer Engineering, [University of Toronto](http://someurl), hosted by Professor [Alberto Leon-Garcia](https://www.nal.utoronto.ca/). 
+
+I received my Ph.D. in Electronic and Computer Engineering from [Hong Kong University of Science and Technology](https://www.ust.hk), advised by Professor [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/). From Oct. 2015 to April 2016, I was also affiliated with the School of Engineering and Applied Science, [Harvard University](https://www.harvard.edu/), hosted by Professor [Na (Lina) Li](https://nali.seas.harvard.edu/).
+
+My research lies in [algorithmic and economics aspects of networks](/research), with particular applications to communication and energy networks. 

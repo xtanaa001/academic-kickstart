@@ -1,63 +1,71 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
 title: "Posted-Price Retailing of Transactive Energy: An Optimal Online Mechanism without Prediction"
-subtitle: ""
-summary: ""
-authors:
-  - "**Xiaoqi Tan**"
-  - Alberto Leon-Garcia
-  - Yuan Wu
-  - Danny H.K. Tsang
+event: XXX XXX XXX
+event_url: https://xxxx.org
+
+location: XXX University, XXX, XXX
+address:
+  street: 360 XXX XXX
+  city: XXX
+  region: XXX
+  postcode: 'XXXX'
+  country: XXX XXX
+
+summary: An example talk using Academic's Markdown slides feature.
+abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: "2020-01-06T13:00:00Z"
+date_end: "2020-01-06T15:00:00Z"
+all_day: false
+
+# Schedule page publish date (NOT talk date).
+publishDate: "2017-01-01T00:00:00Z"
+
+authors: [Xiaoqi Tan]
 tags: []
-categories: []
-date: 2019-10-15T09:14:50-05:00
-lastmod: 2019-11-18T09:14:50-05:00
+
+# Is this a featured talk? (true/false)
 featured: true
-draft: false
+
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  focal_point: Right
 
 links:
- - name: "arXiv Technical Report"
-   url: "http://arxiv.org/pdf/1512.04133v1"
- - name: "IEEE Xplore"
-   url: "http://arxiv.org/pdf/1512.04133v1"
+url_code: ""
+url_pdf: "https://xiaoqitan.org/document/slides/"
+url_slides: "https://xiaoqitan.org/document/slides/"
+url_video: "https://xiaoqitan.org/document/slides/"
 
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["2"]
-
-# Publication name and optional abbreviated publication name.
-publication: "IEEE Journal of Selected Areas in Communication"
-publication_short: ""
-
-abstract: "In this paper, we study a general transactive energy (TE) retailing problem in smart grids: A TE retailer (e.g., a utility company) publishes the energy price, which may vary over time. TE customers arrive in an arbitrary manner and may choose to either purchase a certain amount of energy based on the posted price, or leave without buying. Typical examples of such a setup include a transactive electric vehicle charging platform, or a general market-based demand-side management program, etc. We consider the setting where the customer arrival information is unknown (i.e., without prediction), and focus on maximizing the social welfare of the TE system through a posted-price mechanism (PPM) that runs in an online fashion with causal information only. We quantify the performance of the proposed PPM in the competitive analysis framework, and show that our proposed PPM is optimal in the sense that no other online mechanisms can achieve a better competitive ratio. We evaluate our theoretic results for the case of transactive electric vehicle charging. Our extensive experimental results show that the proposed PPM is competitive and robust against system uncertainties, and outperforms several existing benchmarks."
-
-# Summary. An optional shortened abstract.
-# summary: We study the mechanism design for online allocation of resources. A single supplier who allocates capacity-limited resources (e.g., computing cycles, network bandwidth, energy, etc. ) to requests that arrive in a sequential and arbitrary manner.
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ""
-  focal_point:
-  preview_only: true
+# Markdown Slides (optional).
+#   Associate this talk with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides: example
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects:
+- internal-project
+
+# Enable math on this page?
+math: true
 ---
+
+{{% alert note %}}
+Click on the **Slides** button above to view the built-in slides feature.
+{{% /alert %}}
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic's [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.

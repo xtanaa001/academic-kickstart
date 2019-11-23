@@ -1,64 +1,71 @@
 ---
 title: "Resource Allocation in Communication Networks: Online Algorithms, Dynamic Link Metrics and Bounded Efficiency Loss"
-authors:
- - "**Xiaoqi Tan**"
- - Alberto Leon-Garcia
-date: "2019-11-18T00:00:00Z"
-# doi: ""
+event: XXX XXX XXX
+event_url: https://xxxx.org
 
-# Schedule page publish date (NOT publication's date).
-# publishDate: "2019-12-01T00:00:00Z"
+location: XXX University, XXX, XXX
+address:
+  street: 360 XXX XXX
+  city: XXX
+  region: XXX
+  postcode: 'XXXX'
+  country: XXX XXX
 
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+summary: An example talk using Academic's Markdown slides feature.
+abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
-# Publication name and optional abbreviated publication name.
-publication: "Preprint"
-publication_short: ""
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: "2020-01-06T13:00:00Z"
+date_end: "2020-01-06T15:00:00Z"
+all_day: false
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+# Schedule page publish date (NOT talk date).
+publishDate: "2017-01-01T00:00:00Z"
 
-# Summary. An optional shortened abstract.
-# summary: We study the mechanism design for online allocation of resources. A single supplier who allocates capacity-limited resources (e.g., computing cycles, network bandwidth, energy, etc. ) to requests that arrive in a sequential and arbitrary manner.
+authors: [Xiaoqi Tan]
+tags: []
 
-# tags:
-# - Source Themes
+# Is this a featured talk? (true/false)
 featured: true
 
-links:
- - name: "arXiv"
-   url: "http://arxiv.org/pdf/1512.04133v1"
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption:
-  focal_point: ""
-  preview_only: true
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  focal_point: Right
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-# projects: []
+links:
+url_code: ""
+url_pdf: "https://xiaoqitan.org/document/slides/"
+url_slides: "https://xiaoqitan.org/document/slides/"
+url_video: "https://xiaoqitan.org/document/slides/"
 
-# Slides (optional).
-#   Associate this publication with Markdown slides.
+# Markdown Slides (optional).
+#   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-# slides: example
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides: example
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects:
+- internal-project
+
+# Enable math on this page?
+math: true
 ---
 
+{{% alert note %}}
+Click on the **Slides** button above to view the built-in slides feature.
+{{% /alert %}}
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic's [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.

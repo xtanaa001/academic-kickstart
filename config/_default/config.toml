@@ -13,7 +13,7 @@ baseurl = "http://localhost:1313/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "&copy; 2018-{year} XXX YYY ZZZ"
+copyright = "Xiaoqi Tan &copy; 2018-{year}"
 
 ############################
 ## Advanced options below ##
