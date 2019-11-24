@@ -22,7 +22,7 @@ links:
   name: IEEE Xplore
   url: "https://ieeexplore.ieee.org/document/7286849"
 
-url_pdf: "/file/pdf"
+url_pdf: /files/papers/ssp_tsg_2017.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

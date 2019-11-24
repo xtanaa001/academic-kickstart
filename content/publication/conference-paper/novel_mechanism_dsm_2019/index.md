@@ -1,5 +1,5 @@
 ---
-title: "A Novel Online Mechanism for Demand-Side Flexibility Management under Arbitrary Arrivals"
+title: A Novel Online Mechanism for Demand-Side Flexibility Management under Arbitrary Arrivals
 authors:
  - "**Xiaoqi Tan**"
  - Alberto Leon-Garcia

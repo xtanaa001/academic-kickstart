@@ -26,7 +26,7 @@ links:
  - name: "Elsevier"
    url: "https://www.sciencedirect.com/science/article/pii/S0166531617303905"
 
-url_pdf: "/file/pdf"
+url_pdf: files/papers/asymptotic_bscs_2018.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

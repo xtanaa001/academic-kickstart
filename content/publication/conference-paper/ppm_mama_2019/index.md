@@ -1,5 +1,5 @@
 ---
-title: "Optimal Posted Prices for Online Resource Allocation with Supply Costs"
+title: Optimal Posted Prices for Online Resource Allocation with Supply Costs
 authors:
  - "**Xiaoqi Tan**"
  - Alberto Leon-Garcia

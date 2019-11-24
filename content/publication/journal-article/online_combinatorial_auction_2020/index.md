@@ -41,7 +41,7 @@ links:
     name: arXiv Report
     url: "http://arxiv.org/pdf/1512.04133v1"
 
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf:  /files/papers/online_combinatorial_auction_2020.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

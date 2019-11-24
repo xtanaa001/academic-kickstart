@@ -1,5 +1,5 @@
 ---
-title: "Economic Analysis of Lifetime-Constrained Battery Storage under Dynamic Pricing"
+title: Economic Analysis of Lifetime-Constrained Battery Storage under Dynamic Pricing
 authors:
  - "**Xiaoqi Tan**"
  - Yuan Wu
@@ -18,7 +18,7 @@ date: "2013-11-10T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "2013 IEEE SmartGridComm"
+publication: "2013 IEEE International Conference on Smart Grid Communications (SmartGridComm)"
 publication_short: ""
 
 abstract: Battery Energy Storage System (BESS), as one type of the storage systems, serves as a particularly important role for future power grid systems. However, since both the capital cost of BESS and the potential economic value vary dramatically for large-scale systems, the total cost induced by BESS remains a major source of uncertainty for potential power system operators when the limited lifetime of BESS is taken into account. Therefore, appropriate configuration and operation of BESS are of paramount importance for its deployments in practice. In this paper, we propose a novel model for BESS that attempts to capture the fact of limited lifetime and to exploit the potential economic value. We develop a finite horizon optimization model for BESS operators with unknown stopping-time. The stopping-time is determined by the policy itself, which makes the problem technically challenging. We first propose an algorithm called Forward-iteration of relaxed-Linear Programming (FirLP), which solves the problem by iterating on every time instance and achieves the optimality. Subsequently, we observe that some time instances are not necessary to be iterated on. Thus, we propose Jump-iteration of relaxed-Linear Programming (JirLP). By utilizing a well defined jump step, we can avoid exhaustive iteration on those unnecessary time instances. We examine our model and algorithms with the real price data. The computational results further validate our model, and shows that our proposed JirLP can achieve optimality and reduce the unnecessary iterations by 50% in comparison with the FirLP.

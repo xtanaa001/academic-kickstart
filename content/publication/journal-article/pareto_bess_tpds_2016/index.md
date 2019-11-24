@@ -12,7 +12,7 @@ tags: []
 categories: []
 date: 2016-07-15T09:14:50-05:00
 lastmod: 2019-11-18T09:14:50-05:00
-featured: true
+featured: false
 draft: false
 
 
@@ -22,7 +22,7 @@ links:
    name: IEEE Xplore
    url: "https://ieeexplore.ieee.org/document/7265089"
 
-url_pdf: "/file/pdf"
+url_pdf: /files/papers/pareto_bess_tpds_2016.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

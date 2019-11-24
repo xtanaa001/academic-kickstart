@@ -18,10 +18,12 @@ draft: false
 
 
 links:
- - name: "IEEE Xplore"
+ - icon: ieee
+   icon_pack: ai
+   name: IEEE Xplore
    url: "https://ieeexplore.ieee.org/document/7460201"
 
-url_pdf: "/file/pdf"
+url_pdf: /files/papers/discrete_EV_charging_2018.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -1,5 +1,5 @@
 ---
-title: “Optimal Energy Trading with Battery Energy Storage under Dynamic Pricing”
+title: Optimal Energy Trading with Battery Energy Storage under Dynamic Pricing
 authors:
  - "**Xiaoqi Tan**"
  - Yuan Wu
@@ -18,7 +18,7 @@ date: "2014-11-10T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "2014 IEEE SmartGridComm"
+publication: "2014 IEEE International Conference on Smart Grid Communications (SmartGridComm)"
 publication_short: ""
 
 abstract: This paper proposes a mathematical framework for finding the optimal energy trading policy with battery energy storage (BES) under a dynamic pricing environment. We have previously shown that finding the arbitrage value of BES with known historical price data can be solved by iterative linear programming. The objective of the present paper is to show that, when the price information remains unknown, finding the optimal economic value of lifetime-constrained BES falls within the purview of stochastic shortest path problems, and the optimal policy presents the property of a threshold structure. To overcome the dimensionality difficulty, we propose a structure-based aggregation method, i.e., Layer and Group, to construct optimal trading policies. The elegance of this approach lies in its circumventing of the need for exhausted value iteration over the entire state space. Instead, the approach works in a hierarchical and parallel fashion, thus significantly speeding up the convergence to the optimality. Extensive experimental results show that this approach can dramatically reduce the computational complexity, thus contributing to the computationally tractable optimality without requiring any approximation. Numerical simulation also demonstrates the validity of the proposed framework, and various trading insights for practical BES systems have been formed.

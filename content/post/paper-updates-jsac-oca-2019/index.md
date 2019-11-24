@@ -9,9 +9,13 @@ diagram: true
 markup: mmark
 image:
   placement: 3
-  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
+  caption:
   preview_only: true
 ---
+
+**Abstract** of this paper is [here](/publication/journal-article/online_combinatorial_auction_2020).
+
+
 
 Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.
 

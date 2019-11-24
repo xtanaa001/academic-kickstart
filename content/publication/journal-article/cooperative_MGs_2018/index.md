@@ -1,6 +1,4 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
 title: "Energy Management of Cooperative Microgrids: A Distributed Optimization Approach"
 subtitle: ""
 summary: ""
@@ -22,7 +20,7 @@ links:
  - name: "Elsevier"
    url: "https://www.sciencedirect.com/science/article/abs/pii/S0142061517300133"
 
-url_pdf: "/file/pdf"
+url_pdf: /files/papers/cooperative_MGs_2018.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

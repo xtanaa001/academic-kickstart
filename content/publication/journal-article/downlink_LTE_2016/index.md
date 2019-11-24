@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Asymptotic Performance Evaluation of Battery Swapping and Charging Station for Electric Vehicles"
+title: "Optimal Downlink Scheduling for Heterogeneous Traffic Types in LTE-A Based on MDP and Chance-Constrained Approaches"
 subtitle: ""
 summary: ""
 authors:
@@ -10,7 +10,7 @@ authors:
   - Danny H.K. Tsang
 tags: []
 categories: []
-date: 2015-09-15T09:14:50-05:00
+date: 2016-06-15T09:14:50-05:00
 lastmod: 2019-11-18T09:14:50-05:00
 featured: false
 draft: false
@@ -22,7 +22,7 @@ links:
    name: Springer
    url: "https://link.springer.com/article/10.1007/s11036-015-0645-9"
 
-url_pdf: "/file/pdf"
+url_pdf: /files/papers/downlink_LTE_2016.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

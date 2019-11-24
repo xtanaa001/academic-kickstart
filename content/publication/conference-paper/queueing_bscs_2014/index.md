@@ -1,5 +1,5 @@
 ---
-title: “Queueing Network Models for Electric Vehicle Charging Station with Battery Swapping"
+title: Queueing Network Models for Electric Vehicle Charging Station with Battery Swapping
 authors:
  - "**Xiaoqi Tan**"
  - B. Sun
@@ -18,7 +18,7 @@ date: "2014-11-10T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "2014 IEEE SmartGridComm"
+publication: "2014 IEEE International Conference on Smart Grid Communications (SmartGridComm)"
 publication_short: ""
 
 abstract: Electric Vehicle (EV) charging stations with battery swapping, as one promising energy supplement solution to cope with the increasing in EVs, demand a theoretical performance analysis framework. In this paper, we propose a queueing network model to serve as such a framework for battery swapping stations with a locally-charging mode. The model is a mixed queueing network with an open queue of EVs and a closed queue of batteries. Based on mild assumptions, we show the equilibrium equations for the queueing system, and the steady-state distribution is the solution of these finite equilibrium equations. In order to show the uniqueness of the solution, we prove the ergodicity of the system. Meanwhile, by leveraging the embedded Markov chain, we present an alternative yet much easier way to compute the steady-state distribution. Based on the steady-state distribution, various important performance indicators have been analytically determined. Simulation results demonstrate the validity of the queueing network model and reveal rich insights for the infrastructure planning of practical battery swapping stations.

@@ -9,10 +9,13 @@ title: Publications
 #   4 = Citation
 view: 4
 
+# Most publications here are available electronically. Links to their correponding publishers are also provided if you have digital subsriptions. 
+
+
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
   image: ""
 ---
 
-Most publications below are directly available electronically. Links to publishers are also provided if you have their digital subsriptions. For list of selected and featured publications, please visit [here](/#selected).
+Please click [here](/#selected) to return to the list of Recent & Selected Publications.

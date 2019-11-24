@@ -20,10 +20,12 @@ draft: false
 
 
 links:
- - name: "IEEE"
-   url: "https://ieeexplore.ieee.org/document/7265089"
+ - icon: ieee
+   icon_pack: ai
+   name: "IEEE Xplore"
+   url: "https://ieeexplore.ieee.org/abstract/document/7094306"
 
-url_pdf: "/file/pdf"
+url_pdf: /files/papers/hybrid_energy_market_2015.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
