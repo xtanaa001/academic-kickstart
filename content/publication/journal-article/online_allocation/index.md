@@ -32,10 +32,7 @@ summary: This paper proposes an approach that unifies the design of online mecha
 # - Source Themes
 featured: true
 
-#links:
-# - name: "Conference Version in ACM Sigmetrics"
-#   url: "http://arxiv.org/pdf/1512.04133v1"
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: /files/papers/online_allocation_2019.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -65,13 +62,3 @@ projects: ["network_resource_allocation"]
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).

@@ -17,10 +17,12 @@ featured: false
 draft: false
 
 links:
- - name: "IEEE"
+ - icon: ieee
+   icon_pack: ai
+   name: IEEE Xplore
    url: "https://ieeexplore.ieee.org/document/8241419"
 
-url_pdf: "/file/pdf"
+url_pdf: /files/papers/contract_frequency_tii_2018.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

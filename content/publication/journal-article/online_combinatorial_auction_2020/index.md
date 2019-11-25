@@ -35,11 +35,11 @@ links:
   -  icon: ieee
      icon_pack: ai
      name: IEEE Xplore
-     url: "http://arxiv.org/pdf/1512.04133v1"
+     url: ""
   - icon: arxiv
     icon_pack: ai
     name: arXiv Report
-    url: "http://arxiv.org/pdf/1512.04133v1"
+    url: ""
 
 url_pdf:  /files/papers/online_combinatorial_auction_2020.pdf
 url_code: ''

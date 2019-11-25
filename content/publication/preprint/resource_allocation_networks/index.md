@@ -26,7 +26,7 @@ abstract: This paper is concerned about designing dynamic link metrics for onlin
 
 # tags:
 # - Source Themes
-featured: true
+featured: false
 
 links:
  - name: "arXiv"

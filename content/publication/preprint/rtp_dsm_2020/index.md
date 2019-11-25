@@ -16,11 +16,7 @@ featured: false
 draft: false
 
 
-links:
- - name: "IEEE"
-   url: "https://ieeexplore.ieee.org/document/7286849"
-
-url_pdf: "/file/pdf"
+url_pdf:
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -57,5 +53,5 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [transactive_energy]
 ---

@@ -17,16 +17,16 @@ featured: true
 draft: false
 
 links:
- - icon: arxiv
-   icon_pack: ai
-   name: arXiv Report
-   url: "http://arxiv.org/pdf/1512.04133v1"
  - icon: ieee
    icon_pack: ai
    name: IEEE Xplore
-   url: "http://arxiv.org/pdf/1512.04133v1"
+   url: ""
+ - icon: arxiv
+   icon_pack: ai
+   name: arXiv Report
+   url: ""
 
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: files/papers/posted_price_retailing_2020.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

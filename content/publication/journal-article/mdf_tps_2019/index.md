@@ -22,7 +22,7 @@ links:
    name: "IEEE Xplore"
    url: "https://ieeexplore.ieee.org/document/8411183"
 
-url_pdf: "/files/papers/mdf_tps_2019.pdf"
+url_pdf: /files/papers/mdf_tps_2019.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

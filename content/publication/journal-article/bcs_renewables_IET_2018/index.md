@@ -21,7 +21,7 @@ links:
  - name: "IEEE Xplore"
    url: "https://ieeexplore.ieee.org/document/8320550"
 
-url_pdf: "/file/pdf"
+url_pdf: /files/papers/bcs_renewables_IET_2018.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

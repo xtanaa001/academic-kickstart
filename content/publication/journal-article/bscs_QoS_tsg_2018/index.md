@@ -22,7 +22,7 @@ links:
   name: IEEE Xplore
   url: "https://ieeexplore.ieee.org/document/7286849"
 
-url_pdf: "/file/pdf"
+url_pdf: /files/papers/bscs_QoS_tsg_2018.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
