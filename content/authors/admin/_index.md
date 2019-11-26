@@ -77,12 +77,14 @@ email: ""
 # user_groups:
 # - Researchers
 # - Visitors
----
 
 ### This website is still under construction!! Some information and hyperlinks may be irrelevant!!###
+---
+
+
 
 I am currently a Postdoctoral Fellow at the Dept. of Electrical & Computer Engineering, [University of Toronto](http://someurl), hosted by Professor [Alberto Leon-Garcia](https://www.nal.utoronto.ca/). 
 
 I received my Ph.D. in Electronic and Computer Engineering from [Hong Kong University of Science and Technology](https://www.ust.hk), advised by Professor [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/). From Oct. 2015 to April 2016, I was also affiliated with the School of Engineering and Applied Science, [Harvard University](https://www.harvard.edu/), hosted by Professor [Na (Lina) Li](https://nali.seas.harvard.edu/).
 
-My research lies in [algorithmic and economic aspects of networks](/research), with particular applications to communication and energy networks. 
+My research lies in [algorithmic and economic aspects of networks](/research), with particular applications to communication and energy networks.

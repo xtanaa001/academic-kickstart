@@ -39,18 +39,32 @@ subtitle = ""
   icon = "project-diagram"
   icon_pack = "fas"
   name = "Networks"
-  description = "My research aims to understand and optimize the design and operation of networks in the face of dynamics, ranging from changing and possibly strategic user behaviors to network connectivity and resource availability. Examples of current application areas include communication networks, cloud/edge computing and smart grid."
+  description = "Communication and Energy Networks"
+
+ # Modeling, analysis and optimization of networks, with particular applications to
+ # communication and energy networks. e.g., wireless networks, cloud/edge computing and smart grid.   . (communication and energy networks in particular) in the face of dynamics, ranging from changing user behaviors to network connectivity and resource availability My research aims to optimize the design and operation of 
+
+ # ranging from changing user behaviors to network connectivity and resource availability
   
 [[feature]]
   icon = "subscript"
   icon_pack = "fas"
   name = "Algorithms"
-  description = "My research features interdisciplinarity and uses tools from mathematics and economics such as online algorithms, algorithmic game theory/mechanism design, and optimization."  
+  description = "Online and Distributed Algorithms."
+# sequential decision-making." 
+# in the face of dynamics, ranging from changing user behaviors to network connectivity and resource availability
+
+#  (e.g., online algorithms) based on tools from optimization, machine learning and stochastic models I  and develop 
+# in the face of dynamics, ranging from changing user behaviors to network connectivity and resource availability.  My research features 
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Economics"
-  description = "To achieve this, my research features interdisciplinarity and uses tools from mathematics and economics such as online algorithms, algorithmic game theory/mechanism design, and optimization."
+  description = "Network and Energy Economics. "
+
+# algorithmic game theory/mechanism design for  for resource allocation with strategic user behaviors.
+# Design of economic mechanisms for resource allocation with strategic user behaviors.
 
 +++
+

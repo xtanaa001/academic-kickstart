@@ -39,20 +39,33 @@ subtitle = ""
   icon = "project-diagram"
   icon_pack = "fas"
   name = "Networks"
-  description = "My research aims to understand and optimize the design and operation of networks in the face of dynamics, ranging from changing and possibly strategic user behaviors to network connectivity and resource availability."
+  description = "Communication and Energy Networks"
 
- # Examples of current application areas include communication networks, cloud/edge computing and smart grid.
+ # Modeling, analysis and optimization of networks, with particular applications to
+ # communication and energy networks. e.g., wireless networks, cloud/edge computing and smart grid.   . (communication and energy networks in particular) in the face of dynamics, ranging from changing user behaviors to network connectivity and resource availability My research aims to optimize the design and operation of 
+
+ # ranging from changing user behaviors to network connectivity and resource availability
   
 [[feature]]
   icon = "subscript"
   icon_pack = "fas"
   name = "Algorithms"
-  description = "My research focuses on algorithm design with tools from mathematics such as online algorithms, optimization, stochastic models and analysis. The goal is to exploit the structure of the problem and derive efficient algorithms. " 
+  description = "Online and Distributed Algorithms."
+# sequential decision-making." 
+# in the face of dynamics, ranging from changing user behaviors to network connectivity and resource availability
+
+#  (e.g., online algorithms) based on tools from optimization, machine learning and stochastic models I  and develop 
+# in the face of dynamics, ranging from changing user behaviors to network connectivity and resource availability.  My research features 
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Economics"
-  description = "My research often uses tools from economics such as  game theory and mechanism design. In particular, I am interested in algorithmic economics, which sits at the intersection between economics and computation. "
+  description = "Network and Energy Economics. "
+
+# algorithmic game theory/mechanism design for  for resource allocation with strategic user behaviors.
+# Design of economic mechanisms for resource allocation with strategic user behaviors.
 
 +++
+
+My research features algorithmic and economic aspects of networks, with major focus on communication and energy networks.
