@@ -77,11 +77,9 @@ email: ""
 # user_groups:
 # - Researchers
 # - Visitors
-
-### This website is still under construction!! Some information and hyperlinks may be irrelevant!!###
 ---
 
-
+### This website is still under construction!! Some information and hyperlinks may be irrelevant!!###
 
 I am currently a Postdoctoral Fellow at the Dept. of Electrical & Computer Engineering, [University of Toronto](http://someurl), hosted by Professor [Alberto Leon-Garcia](https://www.nal.utoronto.ca/). 
 
