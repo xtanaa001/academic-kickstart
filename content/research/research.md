@@ -39,8 +39,11 @@ subtitle = ""
   icon = "project-diagram"
   icon_pack = "fas"
   name = "Networks"
-  description = "Communication and Energy Networks"
+  description = "My research lies in algorithmic and economic aspects of communication and energy networks."
 
+  
+
+ # Communication and Energy Networks.
  # Modeling, analysis and optimization of networks, with particular applications to
  # communication and energy networks. e.g., wireless networks, cloud/edge computing and smart grid.   . (communication and energy networks in particular) in the face of dynamics, ranging from changing user behaviors to network connectivity and resource availability My research aims to optimize the design and operation of 
 
@@ -50,22 +53,32 @@ subtitle = ""
   icon = "subscript"
   icon_pack = "fas"
   name = "Algorithms"
-  description = "Online and Distributed Algorithms."
-# sequential decision-making." 
-# in the face of dynamics, ranging from changing user behaviors to network connectivity and resource availability
+  description = "I develop online and distributed algorithms to optimize the performance of networks."
 
+
+# for efficient decision making in the face of dynamics and uncertain future information
+# in the face of dynamics,  I develop online and distributed algorithms for network optimization in the face of dynamics, ranging from changing user behaviors to network connectivity and resource availability
+
+# I develop online and distributed algorithms for network optimization  ranging from changing user behaviors to network connectivity and resource availability in the face of dynamics, ranging from changing user behaviors to network connectivity and resource availability
+
+# I develop online and distributed algorithms for network optimization in the face of dynamics, ranging from changing user behaviors to network connectivity and resource availability
+
+# ranging from changing user behaviors to network connectivity and resource availability
 #  (e.g., online algorithms) based on tools from optimization, machine learning and stochastic models I  and develop 
-# in the face of dynamics, ranging from changing user behaviors to network connectivity and resource availability.  My research features 
+#  My research features 
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Economics"
-  description = "Network and Energy Economics. "
+  description = "I study algorithmic mechanism design and game theory in network and energy economics."
+
+# network and energy economics network and energy economics, and focus on
 
 # algorithmic game theory/mechanism design for  for resource allocation with strategic user behaviors.
 # Design of economic mechanisms for resource allocation with strategic user behaviors.
 
-+++
+# the intersection between economics and computation
 
-My research features algorithmic and economic aspects of networks, with major focus on communication and energy networks.
+# My research features algorithmic and economic aspects of networks, with major focus on communication and energy networks.
++++

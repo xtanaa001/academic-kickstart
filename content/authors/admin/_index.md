@@ -24,11 +24,11 @@ organizations:
 
 interests:
   - Online Algorithms
-  - Algorithmic Game Theory
   - Network Optimization
-  - Network Resource Allocation
+  - Network Economics
+  - Energy Economics
+  - Algorithmic Mechanism Design
   - Communication Networks
-  - Smart Grid
 
 education:
   courses:
