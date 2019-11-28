@@ -39,9 +39,8 @@ subtitle = ""
   icon = "project-diagram"
   icon_pack = "fas"
   name = "Networks"
-  description = "My research aims to address the challenges emerging from the algorithmic and economic aspects of communication and energy networks."
+  description = "My research is application driven and primarily lies in communication and energy networks."
 
- # 
  # ranging from changing user behaviors to network connectivity and resource availability
  # Communication and Energy Networks.
  # Modeling, analysis and optimization of networks, with particular applications to
@@ -52,7 +51,7 @@ subtitle = ""
   icon = "subscript"
   icon_pack = "fas"
   name = "Algorithms"
-  description = "I develop algorithms for the optimization of networked systems, with particular emphasis on online algorithms and distributed algorithms."
+  description = "I develop online and distributed algorithms for the optimization of networked systems."
 
 
 # for efficient decision making in the face of dynamics and uncertain future information
@@ -67,7 +66,7 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Economics"
-  description = "I study algorithmic economics, and specialize in algorithmic mechanism design for resource allocation and pricing in strategic environments."
+  description = "I study algorithmic economics, with particular focus on algorithmic mechanism design."
 
 # network and energy economics network and energy economics, and focus on
 # algorithmic game theory/mechanism design for  for resource allocation with strategic user behaviors.
