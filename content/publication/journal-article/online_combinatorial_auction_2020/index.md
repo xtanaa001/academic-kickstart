@@ -5,6 +5,8 @@ authors:
  - Alberto Leon-Garcia
  - Yuan Wu
  - Danny H.K. Tsang
+tags: ["Algorithmic Economics", "Algorithmic Mechanism Design", "Online Algorithms", "Cloud/Edge Computing"]
+categories: []
 date: "2019-10-17T00:00:00Z"
 # doi: ""
 

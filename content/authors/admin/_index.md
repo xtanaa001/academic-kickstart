@@ -24,11 +24,11 @@ organizations:
 
 interests:
   - Online Algorithms
-  - Network Optimization
-  - Network Economics
-  - Energy Economics
   - Algorithmic Mechanism Design
-  - Communication Networks
+  - Distributed Optimization
+  - Energy Economics
+  - Network Economics
+  - Cloud/Edge Computing
 
 education:
   courses:
@@ -85,4 +85,4 @@ I am currently a Postdoctoral Fellow at the Dept. of Electrical & Computer Engin
 
 I received my Ph.D. in Electronic and Computer Engineering from [Hong Kong University of Science and Technology](https://www.ust.hk), advised by Professor [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/). From Oct. 2015 to April 2016, I was also affiliated with the School of Engineering and Applied Science, [Harvard University](https://www.harvard.edu/), hosted by Professor [Na (Lina) Li](https://nali.seas.harvard.edu/).
 
-My research lies in [algorithmic and economic aspects of networks](/research), with particular applications to communication and energy networks.
+I am interested in [algorithmic and economic aspects of networks](/research), with particular applications to communication and energy networks.

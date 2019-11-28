@@ -9,7 +9,7 @@ authors:
   - Bo Sun
   - Yuan Wu
   - Danny H.K. Tsang
-tags: ["networks"]
+tags: ["Energy Economics", "Queueing Networks"]
 categories: []
 date: 2018-03-15T09:14:50-05:00
 lastmod: 2019-11-18T09:14:50-05:00

@@ -10,7 +10,7 @@ authors:
   - Bo Sun
   - Na Li
   - Danny H.K. Tsang
-tags: []
+tags: ["Energy Economics", "Optimization"]
 categories: []
 date: 2019-09-15T09:14:50-05:00
 lastmod: 2019-11-18T09:14:50-05:00
@@ -43,7 +43,7 @@ publication_types: ["2"]
 publication: "IEEE Transactions on Smart Grid"
 publication_short: ""
 
-abstract: "A battery charging station (BCS) is a charging facility that supplies electric energy for recharging electric vehicles’  depleted  batteries  (DBs).  A  BCS  has  a  certain  numberof  charging  bays  and  maintains  a  dynamic  inventory  of  fullycharged  batteries  (FBs).  This  paper  studies  a  BCS  schedul-ing  (BCSS)  problem  whose  target  is  to  schedule  the  chargingprocesses of the charging bays such that the charging cost is min-imized  while  satisfying  the  FB  demand.  Specifically,  the  BCSSproblem  has  two  types  of  operations:  1)  loading  DBs  into  thecharging  bays  and  then  unloading  them  to  the  FB  inventorywhen they are fully charged and 2) controlling the charging rateof  each  charging  bay.  We  formulate  the  BCSS  problem  as  amixed-integer program with quadratic battery degradation cost.A generalized benders decomposition algorithm is then developedto  solve  the  problem  efficiently.  The  salience  of  the  developedalgorithm is that: 1) each charging bay can solve its own subprob-lem separately and 2) each subproblem can be further partitionedinto  multiple  independent  and  identically  structured  quadraticprogramming  problems,  and  thus  the  algorithm  facilitates  anefficient parallel implementation. We perform extensive real datasimulation  to  validate  the  optimization  model  and  demonstratethe  efficiency  of  the proposed  algorithm."
+abstract: "A battery charging station (BCS) is a charging facility that supplies electric energy for recharging electric vehicles' depleted batteries (DBs). A BCS has a certain number of charging bays and maintains a dynamic inventory of fully charged batteries (FBs). This paper studies a BCS scheduling (BCSS) problem whose target is to schedule the charging processes of the charging bays such that the charging cost is minimized while satisfying the FB demand. Specifically, the BCSS problem has two types of operations: 1) loading DBs into the charging bays and then unloading them to the FB inventory when they are fully charged and 2) controlling the charging rate of each charging bay. We formulate the BCSS problem as a mixed-integer program with quadratic battery degradation cost. A generalized benders decomposition algorithm is then developed to solve the problem efficiently. The salience of the developed algorithm is that: 1) each charging bay can solve its own subproblem separately and 2) each subproblem can be further partitioned into multiple independent and identically structured quadratic programming problems, and thus the algorithm facilitates an efficient parallel implementation. We perform extensive real data simulation to validate the optimization model and demonstrate the efficiency of the proposed algorithm."
 
 # Summary. An optional shortened abstract.
 # summary: We study the mechanism design for online allocation of resources. A single supplier who allocates capacity-limited resources (e.g., computing cycles, network bandwidth, energy, etc. ) to requests that arrive in a sequential and arbitrary manner.
