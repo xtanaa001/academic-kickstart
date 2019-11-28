@@ -39,13 +39,13 @@ subtitle = ""
   icon = "project-diagram"
   icon_pack = "fas"
   name = "Networks"
-  description = "My research aims to address algorithmic and economic challenges emerging from  communication and energy networks."
+  description = "My research aims to address the challenges emerging from the algorithmic and economic aspects of communication and energy networks."
 
+ # 
  # ranging from changing user behaviors to network connectivity and resource availability
  # Communication and Energy Networks.
  # Modeling, analysis and optimization of networks, with particular applications to
  # communication and energy networks. e.g., wireless networks, cloud/edge computing and smart grid.   . (communication and energy networks in particular) in the face of dynamics, ranging from changing user behaviors to network connectivity and resource availability My research aims to optimize the design and operation of 
-
  # ranging from changing user behaviors to network connectivity and resource availability
   
 [[feature]]

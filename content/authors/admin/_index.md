@@ -25,9 +25,9 @@ organizations:
 interests:
   - Online Algorithms
   - Algorithmic Mechanism Design
-  - Distributed Optimization
   - Algorithmic Economics
-  - Energy Economics
+  - Distributed Optimization
+  - Network + Energy Economics
   - Communication Networks
 
 education:
