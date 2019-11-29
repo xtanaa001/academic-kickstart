@@ -18,4 +18,4 @@ header:
   image: ""
 ---
 
-Please click [here](/#selected) to return to the list of Recent & Selected Publications.
+Return to the list of [Recent & Selected Publications](/#selected).
