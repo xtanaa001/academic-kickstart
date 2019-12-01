@@ -25,9 +25,9 @@ organizations:
 interests:
   - Online Algorithms
   - Algorithmic Mechanism Design
+  - Distributed Optimization
   - Algorithmic Economics
-  - Network + Energy Economics
-  - Network Optimization
+  - Energy Economics
   - Communication Networks
 
 education:
@@ -35,7 +35,7 @@ education:
   - course: Ph.D. in Electronic and Computer Engineering
     institution: Hong Kong University of Science and Technology
     year: 2012/09-2018/01
-  - course: B.Eng. in Information Engineering
+  - course: B.Eng. in Information and Communication Engineering
     institution: Xi'an Jiaotong University
     year: 2008/09-2012/06
 

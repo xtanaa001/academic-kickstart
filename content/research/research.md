@@ -41,6 +41,7 @@ subtitle = ""
   name = "Networks"
   description = "My research is application driven and centers on communication and energy networks."
 
+ # My research centers on how
  # ranging from changing user behaviors to network connectivity and resource availability
  # Communication and Energy Networks.
  # Modeling, analysis and optimization of networks, with particular applications to
@@ -51,8 +52,7 @@ subtitle = ""
   icon = "subscript"
   icon_pack = "fas"
   name = "Algorithms"
-  description = "I develop online and distributed algorithms for the optimization of networked systems."
-
+  description = "I develop algorithms for online/distributed optimization and machine learning."
 
 # for efficient decision making in the face of dynamics and uncertain future information
 # in the face of dynamics,  I develop online and distributed algorithms for network optimization in the face of dynamics, ranging from changing user behaviors to network connectivity and resource availability
