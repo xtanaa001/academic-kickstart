@@ -39,9 +39,10 @@ subtitle = ""
   icon = "project-diagram"
   icon_pack = "fas"
   name = "Networks"
-  description = "My research is application driven and centers on communication and energy networks."
+  description = "My research is driven by applications in communication and energy networks."
 
- # My research centers on how
+# Networks in the face of changing and possibly unpredictable and strategic environments
+ # My research is application driven and centers on communication and energy networks
  # ranging from changing user behaviors to network connectivity and resource availability
  # Communication and Energy Networks.
  # Modeling, analysis and optimization of networks, with particular applications to
@@ -66,7 +67,7 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Economics"
-  description = "I study algorithmic economics, with particular focus on algorithmic mechanism design."
+  description = "I study algorithmic mechanism design for resource allocation and pricing."
 
 # network and energy economics network and energy economics, and focus on
 # algorithmic game theory/mechanism design for  for resource allocation with strategic user behaviors.
