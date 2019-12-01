@@ -25,7 +25,7 @@ organizations:
 interests:
   - "**Algorithms**: online and distributed algorithms"
   - "**Economics**: pricing, auction, and mechanism design" 
-  - "**Networking**: cloud computing, IoT, NFV and SDN"
+  - "**Networking**: cloud  and edge computing, IoT, NFV and SDN"
   - "**Energy**: smart grid and green IT"
 
 education:
