@@ -52,7 +52,7 @@ subtitle = ""
   icon = "subscript"
   icon_pack = "fas"
   name = "Algorithms"
-  description = "I develop algorithms for online/distributed optimization and machine learning."
+  description = "I develop online/distributed algorithms for optimization and machine learning."
 
 # for efficient decision making in the face of dynamics and uncertain future information
 # in the face of dynamics,  I develop online and distributed algorithms for network optimization in the face of dynamics, ranging from changing user behaviors to network connectivity and resource availability
