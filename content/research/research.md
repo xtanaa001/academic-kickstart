@@ -67,7 +67,7 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Economics"
-  description = "I study algorithmic mechanism design for resource allocation and pricing."
+  description = "I study mechanism design for resource allocation and pricing in network and energy economics."
 
 # network and energy economics network and energy economics, and focus on
 # algorithmic game theory/mechanism design for  for resource allocation with strategic user behaviors.
