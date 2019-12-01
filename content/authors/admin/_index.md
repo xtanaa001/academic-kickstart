@@ -24,10 +24,10 @@ organizations:
 
 interests:
   - Online Algorithms
-  - Algorithmic Mechanism Design
-  - Network Economics
-  - Energy Economics
-  - "Networking: cloud/edge computing, IoT,  NFV and SDN"
+  - Mechanism Design
+  - Algorithmic Economics
+  - Cloud/edge computing
+  - IoT, NFV and SDN
   - Smart grid
   #- "**Algorithms**: online/distributed algorithms."
   #- "**Economics**: mechanism design, network economics, and energy economics." 
