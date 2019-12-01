@@ -39,7 +39,7 @@ subtitle = ""
   icon = "project-diagram"
   icon_pack = "fas"
   name = "Networks"
-  description = "I study how communication/energy networks cope with dynamics or even unpredictability."
+  description = "I study how communication/energy networks cope with dynamics and strategic user behaviors."
 
 # Networks in the face of changing and possibly unpredictable and strategic environments
  # My research is application driven and centers on communication and energy networks

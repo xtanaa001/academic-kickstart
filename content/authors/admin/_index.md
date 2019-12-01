@@ -91,4 +91,4 @@ I am currently a Postdoctoral Fellow at the Dept. of Electrical & Computer Engin
 
 I received my Ph.D. in Electronic and Computer Engineering from [Hong Kong University of Science and Technology](https://www.ust.hk), advised by Professor [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/). From Oct. 2015 to April 2016, I was also affiliated with the School of Engineering and Applied Science, [Harvard University](https://www.harvard.edu/), hosted by Professor [Na (Lina) Li](https://nali.seas.harvard.edu/).
 
-My research lies in [networks, algorithms and economics](/research). Specifically, I develop algorithms and economic mechanisms for [communication/energy networks](/research/#projects) to cope with dynamics and strategic user behaviors. 
+My research lies in [networks, algorithms and economics](/research). Specifically, I develop algorithms and economic mechanisms for [communication and energy networks](/research/#projects) to cope with dynamics and strategic user behaviors. 
