@@ -67,7 +67,7 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Economics"
-  description = "I develop computationally-efficient economic mechanisms for resource allocation and pricing."
+  description = "I design computationally-efficient economic mechanisms for resource allocation and pricing."
 
 # network and energy economics network and energy economics, and focus on
 # algorithmic game theory/mechanism design for  for resource allocation with strategic user behaviors.
