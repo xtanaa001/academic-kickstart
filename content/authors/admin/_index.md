@@ -24,15 +24,14 @@ organizations:
 
 interests:
   - Online Algorithms
-  - Distributed Optimization
-  - Algorithmic Economics
+  - Distributed Algorithms
   - Mechanism Design
-  # - Economics and Computation
-  # - Network Optimization
-  - Networking/Communication
-  # - Cloud Computing
+  # - Algorithmic Economics
+  - Algorithmic Economics
+  - Energy Economics
+  - Cloud/Edge Computing
+  - Networking
   # - IoT, NFV and SDN
-  - Smart Grid
   #- "**Algorithms**: online/distributed algorithms."
   #- "**Economics**: mechanism design, network economics, and energy economics." 
   #- "**Networks**: communication and energy networks."
