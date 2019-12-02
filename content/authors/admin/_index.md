@@ -25,11 +25,11 @@ organizations:
 interests:
   - Online Algorithms
   - Distributed Algorithms
-  - Algorithmic Mechanism Design
   - Algorithmic Economics
-  - Cloud Computing
+  - Algorithmic Mechanism Design
+  - Smart Grid and Green IT
+  - Cloud and Edge Computing
   - IoT, NFV and SDN 
-  - Smart Grid
   #- "**Algorithms**: online/distributed algorithms."
   #- "**Economics**: mechanism design, network economics, and energy economics." 
   #- "**Networks**: communication and energy networks."
@@ -86,10 +86,13 @@ email: ""
 
 ### This website is still under construction!! Some information and hyperlinks may be irrelevant!!###
 # My research centers on the development of algorithms for networks in the face of changing and possibly unpredictable and strategic environments.
+
+# Specifically, I develop algorithms and economic mechanisms for 
 ---
 
 I am currently a Postdoctoral Fellow at the Dept. of Electrical & Computer Engineering, [University of Toronto](http://someurl), hosted by Professor [Alberto Leon-Garcia](https://www.nal.utoronto.ca/). 
 
 I received my Ph.D. in Electronic and Computer Engineering from [Hong Kong University of Science and Technology](https://www.ust.hk), advised by Professor [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/). From Oct. 2015 to April 2016, I was also affiliated with the School of Engineering and Applied Science, [Harvard University](https://www.harvard.edu/), hosted by Professor [Na (Lina) Li](https://nali.seas.harvard.edu/).
 
-My research lies in [networks, algorithms and economics](/research). Specifically, I develop algorithms and economic mechanisms for [communication and energy networks](/research/#projects) to cope with dynamics and strategic user behaviors. 
+My research lies in [networks, algorithms and economics](/research). I am particularly interested in understanding how to optimize the performance of [communication and energy networks](/research/#projects) in the presence of dynamic and strategic user behaviors. 
+
