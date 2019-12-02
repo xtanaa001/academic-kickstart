@@ -53,7 +53,7 @@ subtitle = ""
   icon = "subscript"
   icon_pack = "fas"
   name = "Algorithms"
-  description = "I develop online/distributed algorithms for optimization and machine learning."
+  description = "I specialize in the design of online/distributed algorithms in optimization and machine learning."
 
 # for efficient decision making in the face of dynamics and uncertain future information
 # in the face of dynamics,  I develop online and distributed algorithms for network optimization in the face of dynamics, ranging from changing user behaviors to network connectivity and resource availability
@@ -67,7 +67,7 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Economics"
-  description = "I study algorithmic economics, and particularly focus on algorithmic mechanism design."
+  description = "I develop computationally-efficient economic mechanisms for resource allocation and pricing."
 
 # network and energy economics network and energy economics, and focus on
 # algorithmic game theory/mechanism design for  for resource allocation with strategic user behaviors.
