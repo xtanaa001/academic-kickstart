@@ -27,7 +27,7 @@ interests:
   - Distributed Algorithms
   - Algorithmic Mechanism Design
   - Algorithmic Economics
-  - "Networking: cloud/edge computing, IoT, NFV and SDN" 
+  - Cloud/Edge Computing, NFV and SDN 
   - "Energy: economics + sustainability"
   #- "**Algorithms**: online/distributed algorithms."
   #- "**Economics**: mechanism design, network economics, and energy economics." 
