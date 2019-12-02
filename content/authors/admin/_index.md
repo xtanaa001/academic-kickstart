@@ -25,7 +25,7 @@ organizations:
 interests:
   - Online Algorithms
   - Distributed Algorithms
-  - Mechanism Design
+  - Algorithmic Mechanism Design
   - Algorithmic Economics
   - Cloud Computing
   - IoT, NFV and SDN 
