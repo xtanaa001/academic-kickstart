@@ -26,13 +26,14 @@ interests:
   - Online and Distributed Algorithms
   # - Distributed Algorithms
   # - Algorithmic 
-  - Algorithmic Game Theory/Mechanism Design
+  - Mechanism Design
+  - Algorithmic Game Theory 
   # - Algorithmic Game Theory
   # - Distributed Algorithms
   # - Online Machine Learning
   # - Network Optimization
-  - Communication Networks
-  - Energy Economics
+  - Communication and Energy Networks
+  # - Energy Economics
   # - Network Economics
   # - Network Optimization
   # - Network/Energy Economics
