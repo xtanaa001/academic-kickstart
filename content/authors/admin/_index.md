@@ -23,13 +23,15 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Online Algorithms
+  - Online Algorithms in Optimization and Learning
   - Algorithmic Mechanism Design
-  - Distributed Algorithms
-  # - Distributed Optimization
+  # - Algorithmic 
+  - Algorithmic Game Theory
   # - Online Machine Learning
-  - Network Optimization
-  - Networking/Communication
+  # - Distributed Algorithms
+  # - Online Machine Learning
+  # - Network Optimization
+  - Communication Networks
   - Energy Economics
   # - Network Economics
   # - Network Optimization
@@ -105,6 +107,6 @@ email: ""
 # I am interested in [algorithms and economics of networks](/research), with particular focus on [communication and energy networks](/research/#projects).
 ---
 
-I am currently a Postdoctoral Fellow at the Dept. of Electrical & Computer Engineering, [University of Toronto](http://someurl), hosted by Professor [Alberto Leon-Garcia](https://www.nal.utoronto.ca/). 
+I am currently a Postdoctoral Fellow at the Dept. of Electrical & Computer Engineering, [University of Toronto](http://someurl), hosted by Prof. [Alberto Leon-Garcia](https://www.nal.utoronto.ca/). 
 
-I received my Ph.D. in Electronic and Computer Engineering from [Hong Kong University of Science and Technology](https://www.ust.hk), advised by Professor [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/). From Oct. 2015 to April 2016, I was also affiliated with the School of Engineering and Applied Science, [Harvard University](https://www.harvard.edu/), hosted by Professor [Na (Lina) Li](https://nali.seas.harvard.edu/).
+I received my Ph.D. degree in Electronic and Computer Engineering from [Hong Kong University of Science and Technology](https://www.ust.hk), advised by Prof. [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/). From Oct. 2015 to April 2016, I was also affiliated with the School of Engineering and Applied Science, [Harvard University](https://www.harvard.edu/), hosted by Prof. [Na (Lina) Li](https://nali.seas.harvard.edu/).
