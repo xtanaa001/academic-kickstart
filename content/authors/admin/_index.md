@@ -31,7 +31,7 @@ interests:
   # - Distributed Algorithms
   # - Online Machine Learning
   # - Network Optimization
-  - Netoworking/Communication 
+  - Communication Networks
   - Energy Economics
   # - Energy Economics
   # - Network Economics

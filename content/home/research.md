@@ -39,7 +39,7 @@ subtitle = ""
   icon = "project-diagram"
   icon_pack = "fas"
   name = "Networks"
-  description = "I study how communication/energy networks cope with dynamic and strategic user behaviors."
+  description = "I study how **communication/energy networks** cope with dynamic and strategic user behaviors."
 
 # Networks in the face of changing and possibly unpredictable and strategic environments
  # My research is application driven and centers on communication and energy networks
@@ -53,7 +53,7 @@ subtitle = ""
   icon = "subscript"
   icon_pack = "fas"
   name = "Algorithms"
-  description = "I develop online/distributed algorithms for optimization and machine learning problems."
+  description = "I develop **online/distributed algorithms** for optimization and machine learning of networks."
 
 # for optimization and machine learning problems
 # for efficient decision making in the face of dynamics and uncertain future information
@@ -68,7 +68,7 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Economics"
-  description = "I study algorithmic economics for resource allocation and pricing in strategic environments."
+  description = "I study algorithmic economics for **resource allocation and pricing** in networks and markets."
 
 # I design computationally-efficient economic mechanisms for resource allocation and pricing
 # algorithmic game theory/mechanism design for  for resource allocation with strategic user behaviors.
