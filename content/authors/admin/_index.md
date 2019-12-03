@@ -24,14 +24,21 @@ organizations:
 
 interests:
   - Online Algorithms
-  - Distributed Algorithms
-  - Mechanism Design
+  # - Distributed Algorithms
+  -  Mechanism Design
+  # - Network Optimization
+  # - Network/Energy Economics
   - Algorithmic Economics
-  - Network Economics
-  - Networking/Communication 
-  - Smart Grid
-  # - Communication Networks
+  - Energy Economics
+  #- Network Economics
+  - Networking
+  - Communication
+  # - Network/Energy Economics
+  # - Communication
+  # - "Networking: IoT, NFV and SDN"
+  # - Communication
   # - Smart Grid
+  # - Communication Networks
   # - Cloud/Edge Computing
   # - IoT, NFV and SDN
   #- "**Algorithms**: online/distributed algorithms."
@@ -91,12 +98,12 @@ email: ""
 ### This website is still under construction!! Some information and hyperlinks may be irrelevant!!###
 # My research centers on the development of algorithms for networks in the face of changing and possibly unpredictable and strategic environments.
 
-# Specifically, I develop algorithms and economic mechanisms for 
+# ranging from changing and possibly unpredictable and strategic user behaviors, to network connectivity and resource availability (e.g., intermittency of renewable energy) [communication/energy networks](/research/#projects)
 ---
 
 I am currently a Postdoctoral Fellow at the Dept. of Electrical & Computer Engineering, [University of Toronto](http://someurl), hosted by Professor [Alberto Leon-Garcia](https://www.nal.utoronto.ca/). 
 
 I received my Ph.D. in Electronic and Computer Engineering from [Hong Kong University of Science and Technology](https://www.ust.hk), advised by Professor [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/). From Oct. 2015 to April 2016, I was also affiliated with the School of Engineering and Applied Science, [Harvard University](https://www.harvard.edu/), hosted by Professor [Na (Lina) Li](https://nali.seas.harvard.edu/).
 
-My research lies in [networks, algorithms and economics](/research). I am particularly interested in understanding how to optimize the performance of [communication and energy networks](/research/#projects) in the presence of dynamic and strategic user behaviors. 
+I am interested in [algorithms and economics of networks](/research). My current research centers on optimizing the performance of [communication/energy networks](/research/#projects) in the presence of dynamic and possibly unpredictable and strategic user behaviors.  
 
