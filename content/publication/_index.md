@@ -18,4 +18,4 @@ header:
   image: ""
 ---
 
-[Selected Publications](/#selected) and  [Recent Publications](/#publications).
+Return to [Selected Publications](/#selected).

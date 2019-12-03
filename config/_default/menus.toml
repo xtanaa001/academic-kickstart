@@ -19,12 +19,6 @@
   weight = 30
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 35
-
-
-[[main]]
   name = "Talks"
   url = "/#talks"
   weight = 40
