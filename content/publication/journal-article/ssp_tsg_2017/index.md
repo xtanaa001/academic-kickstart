@@ -12,7 +12,7 @@ tags: ["Energy Economics", "Optimization"]
 categories: []
 date: 2017-03-15T09:14:50-05:00
 lastmod: 2019-11-18T09:14:50-05:00
-featured: false
+featured: true
 draft: false
 
 
