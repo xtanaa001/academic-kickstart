@@ -1,5 +1,5 @@
 ---
-title: Market Mechanisms for Integration of Transactive Energy
+title: Transactive Energy
 summary: An example of using the in-built project page.
 tags:
 - Energy

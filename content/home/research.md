@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 11  # Order that this section will appear.
 
-title = "Research Areas"
+title = "Research Summary"
 subtitle = ""
 
 # Showcase personal skills or business features.

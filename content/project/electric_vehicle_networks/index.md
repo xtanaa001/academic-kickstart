@@ -1,9 +1,9 @@
 ---
-title: "Electric Vehicle Networks: Modeling, Analysis, and Optimization"
+title: "Electric Vehicle Networks"
 summary: An example of using the in-built project page.
 tags:
-- Networks
 - Energy
+- Algorithms
 date: "2018-09-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

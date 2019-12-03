@@ -1,9 +1,10 @@
 ---
-title: "Distributed Battery Energy Storage Systems in Smart Grid"
-summary: An example of using the in-built project page.
+title: "Distributed BESS"
+summary: 
 tags:
 - Energy
-- Smart Grid
+- Economics
+- Algorithms
 date: "2018-09-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

@@ -1,10 +1,11 @@
 ---
-title: Electric Mobility-on-Demand in Smart Cities
+title: Electric Mobility-on-Demand Systems
 summary: An example of using the in-built project page.
 
 tags:
-- Networks
-- Pricing
+- Energy
+- Economics
+- Algorithms
 date: "2018-09-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

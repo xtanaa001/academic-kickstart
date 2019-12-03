@@ -1,9 +1,10 @@
 ---
-title: Network Resource Allocation with Dynamic Link Metrics
+title: Network Resource Allocation
 summary: An example of using the in-built project page.
 tags:
-- Networks
-- Pricing
+- Networking
+- Economics
+- Algorithms
 date: "2018-09-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
