@@ -26,7 +26,8 @@ interests:
   - Online and Distributed Algorithms
   # - Distributed Algorithms
   # - Algorithmic 
-  - Algorithmic Game Theory and Mechanism Design
+  - Algorithmic Game Theory/Mechanism Design
+  # - Algorithmic Game Theory
   # - Distributed Algorithms
   # - Online Machine Learning
   # - Network Optimization
