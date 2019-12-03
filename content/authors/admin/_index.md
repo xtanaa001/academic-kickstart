@@ -23,16 +23,16 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Online and Distributed Algorithms
-  # - Distributed Algorithms
-  # - Algorithmic 
-  - Mechanism Design
+  - Online Algorithms
+  - Distributed Algorithms
+  - Algorithmic Mechanism Design
   - Algorithmic Game Theory 
   # - Algorithmic Game Theory
   # - Distributed Algorithms
   # - Online Machine Learning
   # - Network Optimization
-  - Communication and Energy Networks
+  - Netoworking/Communication 
+  - Energy Economics
   # - Energy Economics
   # - Network Economics
   # - Network Optimization
