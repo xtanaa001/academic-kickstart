@@ -25,7 +25,7 @@ organizations:
 interests:
   - Online Algorithms
   - Distributed Algorithms
-  - Algorithmic Mechanism Design
+  - Mechanism Design
   - Algorithmic Game Theory 
   # - Algorithmic Game Theory
   # - Distributed Algorithms
