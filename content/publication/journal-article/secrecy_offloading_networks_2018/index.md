@@ -12,7 +12,7 @@ authors:
   - Haibo Zhou
   - "**Xiaoqi Tan**"
   - Danny H.K. Tsang
-tags: ["Cloud/Edge Computing", "Optimization"]
+tags: ["Cloud/Edge Computing"]
 categories: []
 date: 2018-05-15T09:14:50-05:00
 lastmod: 2019-11-18T09:14:50-05:00

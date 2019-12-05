@@ -8,7 +8,10 @@ authors:
   - "**Xiaoqi Tan**"
   - Alberto Leon-Garcia
   - et al.
-tags: []
+tags: 
+  - Smart Grid
+  - Mechanism Design
+  - Algorithmic Game Theory
 categories: []
 date: 2019-11-21T09:14:50-05:00
 lastmod: 2019-11-18T09:14:50-05:00

@@ -3,12 +3,11 @@
 
 title: "A Stochastic Shortest Path Framework for Quantifying the Value and Lifetime of Battery Energy Storage Under Dynamic Pricing"
 subtitle: ""
-summary: ""
 authors:
   - "**Xiaoqi Tan**"
   - Yuan Wu
   - Danny H.K. Tsang
-tags: ["Energy Economics", "Optimization"]
+tags: ["Smart Grid", "Optimization"]
 categories: []
 date: 2017-03-15T09:14:50-05:00
 lastmod: 2019-11-18T09:14:50-05:00
@@ -44,7 +43,7 @@ publication_short: ""
 abstract: "This paper aims at quantifying the value of a lifetime-constrained battery energy storage system (BESS) operated by a consumer who faces fluctuating electricity prices. We define the lifetime of the BESS as the serving duration within which the BESSs capacity stays above a certain threshold of its initial capacity and define the value of the BESS as the total peak-shaving value within its entire lifetime. Under the assumption that the price dynamics are Markovian, we show that maximizing the average value of the BESS can be formulated as a stochastic shortest path (SSP) problem, and the average lifetime corresponds to the average number of steps before being absorbed in the SSP problem. We propose an efficient parallel value iteration algorithm to solve the proposed SSP problem with guarantees of achieving optimality and a fast convergence. We also derive a closed form expression for the average lifetime based on the principle of an embedded absorbing Markov chain. We validate our model and algorithm on a practical BESS via real price data sets from two different markets. Comparison of the computational efficiency between the standard Gauss-Seidel value iteration and our parallel algorithm is also illustrated through extensive simulation."
 
 # Summary. An optional shortened abstract.
-# summary: We study the mechanism design for online allocation of resources. A single supplier who allocates capacity-limited resources (e.g., computing cycles, network bandwidth, energy, etc. ) to requests that arrive in a sequential and arbitrary manner.
+summary: This paper proposes a stochastic shortest path model for quantifying the value of a lifetime-constrained battery energy storage system under fluctuating electricity prices.
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

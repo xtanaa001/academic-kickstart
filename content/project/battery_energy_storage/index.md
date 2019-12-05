@@ -1,10 +1,8 @@
 ---
-title: "Distributed BESS"
+title: "Distributed Battery Energy Storage Systems in Smart Grid"
 summary: 
 tags:
-- Energy
-- Economics
-- Algorithms
+- Smart Grid
 date: "2018-09-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

@@ -11,7 +11,7 @@ authors:
   - Danny H.K. Tsang
   - Wen-Zhan Song
   - Li Yu
-tags: ["Energy Economics", "Optimization"]
+tags: ["Smart Grid", "Optimization"]
 categories: []
 date: 2015-12-15T09:14:50-05:00
 lastmod: 2019-11-18T09:14:50-05:00

@@ -1,9 +1,9 @@
 ---
-title: "Electric Vehicle Networks"
+title: "Electric Vehicle Networks: Models, Analysis and Optimization"
 summary: An example of using the in-built project page.
 tags:
-- Energy
-- Algorithms
+- Smart Grid
+- Online Algorithms
 date: "2018-09-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

@@ -1,15 +1,12 @@
 ---
-title: Energy-efficient Resource Allocation and Channel Assignment for NOMA-based Mobile Edge Computing
+title: "Aggregation of Demand-Side Flexibility in Electricity Markets: Negative Impact Analysis and Mitigation Method"
 authors:
- - Lina Liu
- - Bo Sun
+ - Su Wang
  - "**Xiaoqi Tan**"
- - Yu Sing Xiao
+ - Tian Liu
  - Danny H.K. Tsang
-date: "2019-04-10T00:00:00Z"
-tags: 
- - Cloud/Edge Computing
- - Networking
+date: "2019-11-10T00:00:00Z"
+# doi: ""
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2019-11-10T00:00:00Z"
@@ -18,13 +15,13 @@ tags:
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "2019 IEEE Wireless Communications and Networking Conference (WCNC)"
+publication: "Preprint"
 publication_short: ""
 
-abstract: In this paper, we study resource allocation (including power and computation resources) and channel assignment in an uplink Non-orthogonal Multiple Access (NOMA)-based Mobile Edge Computing (MEC) system. Our objective is to minimize the total energy consumption of all users. The problem, however, is a non-convex combinatorial optimization problem. We first investigate the hidden convexity by reformulating the resource allocation problem when the channel assignment is given, and propose an efficient algorithm to allocate the resources by dual decomposition methods. Furthermore, we design a heuristic algorithm to decide the channel assignment leveraging the structural property in the reformulation. Extensive simulations verify that NOMA has great advantages over Orthogonal Multiple Access (OMA) in multi-user latency-intensive MEC systems.
+abstract: Distributed energy resources (DERs) such as renewable generation, energy storage and flexible loads have been acknowledged as the key drivers to transform the passive distribution networks into proactive players in the electricity market. In order to reduce the communication and computational complexity of integrating the huge number of DERs into the power system operation, the distribution system operator (DSO) is considered as the central controller to take charge of the dispatch of all the DERs within a distribution network. Through the exchange of boundary power flows and control signals, the independent system operator (ISO) coordinates all the DSOs to achieve certain social objective. In this paper, we study the interactions between the ISO and all the DSOs in both the day-ahead market and the real-time balancing market. Particularly, we identify that the locational marginal price (LMP) based real-time market is unfair and discourages the integration of DERs. To achieve a win-win solution for both the ISO and the DSOs, we propose a real-time coordination mechanism to determine the power dispatch and the corresponding charge/payments via a Nash bargaining problem. Numerical results show that our proposed mechanism guarantees that the ISO and all the DSOs can cooperatively maximize the social welfare and share the benefits fairly due to the cooperation.
 
 # Summary. An optional shortened abstract.
 # summary: This paper concerns the mechanism design for online resource allocation in a strategic setting. In this setting, a single supplier allocates capacity-limited resources to requests that arrive in a sequential and arbitrary manner. Each request is associated with an agent who may act selfishly to misreport the requirement and valuation of her request.
@@ -36,9 +33,9 @@ featured: false
 links:
  - icon: ieee
    icon_pack: ai
-   name: "IEEE Xplore "
-   url: "https://ieeexplore.ieee.org/document/8885993"
-
+   name: "IEEE Xplore"
+   url: "https://ieeexplore.ieee.org/abstract/document/8340746"
+   
 url_pdf: https://www.sigmetrics.org/mama/abstracts/Tan.pdf
 url_code: ''
 url_dataset: ''

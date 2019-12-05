@@ -1,9 +1,11 @@
 ---
-title: Transactive Energy
+title: Market Mechanisms for Integration of Transactive Energy in Smart Grid
 summary: An example of using the in-built project page.
 tags:
-- Energy
-- Pricing
+- Smart Grid
+- Mechanism Design
+- Online Algorithms
+- Algorithmic Game Theory
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

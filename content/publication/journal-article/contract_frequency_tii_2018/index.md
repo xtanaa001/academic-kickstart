@@ -9,7 +9,7 @@ authors:
   - "**Xiaoqi Tan**"
   - Bo Sun
   - Danny H.K. Tsang
-tags: ["Energy Economics", "Optimization"]
+tags: ["Smart Grid", "Optimization"]
 categories: []
 date: 2018-06-15T09:14:50-05:00
 lastmod: 2019-11-18T09:14:50-05:00

@@ -3,12 +3,11 @@
 
 title: "Pareto Optimal Operation of Distributed Battery Energy Storage Systems for Energy Arbitrage under Dynamic Pricing"
 subtitle: ""
-summary: ""
 authors:
   - "**Xiaoqi Tan**"
   - Yuan Wu
   - Danny H.K. Tsang
-tags: ["Energy Economics", "Optimization"]
+tags: ["Smart Grid", "Optimization"]
 categories: []
 date: 2016-07-15T09:14:50-05:00
 lastmod: 2019-11-18T09:14:50-05:00
@@ -44,7 +43,7 @@ publication_short: ""
 abstract: "The optimal operation of a distributed battery energy storage system (BESS) for energy arbitrage under dynamic pricing is studied in this paper, and the Pareto optimal arbitrage policy that balances the economic value and lifetime tradeoff of the BESS is obtained. Specifically, the lifetime performance of the BESS is represented by its average lifetime, i.e., the average operational duration within which its capacity stays above a certain threshold, and the value performance of the BESS is defined as the total average arbitrage value within its entire lifetime. We propose a constrained stochastic shortest path (CSSP) model to characterize the optimal value-lifetime performance pair. By exploiting the hidden structure of this CSSP problem, an efficient parallel algorithm is proposed to compute the optimal policy. We further prove the condition under which the optimal policy is Pareto optimal. This implies that the achievable optimal value-lifetime performance pair is globally optimal as long as the system-wide utility is monotonically increasing in both the value performance and the lifetime performance. We validate our proposed model and algorithm via real battery specifications and electricity market data, and the results show promising insights for both infrastructure planning and operational management of BESSs in practice."
 
 # Summary. An optional shortened abstract.
-summary: The optimal operation of a distributed battery energy storage system (BESS) for energy arbitrage under dynamic pricing is studied in this paper, and the Pareto-optimal arbitrage policy that balances the tradeoff between the economic value and lifetime of the BESS is obtained.
+summary: This paper studies the optimal operation of a distributed battery energy storage system for energy arbitrage under dynamic pricing, and the Pareto-optimal arbitrage policy is obtained.
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

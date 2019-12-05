@@ -7,7 +7,10 @@ authors:
  - Yuan Wu
  - Danny H.K. Tsang
 
-tags: ["Algorithmic Economics", "Algorithmic Mechanism Design", "Online Algorithms"]
+tags: 
+ - Mechanism Design
+ - Online Algorithms
+ - Algorithmic Game Theory
 date: "2019-11-10T00:00:00Z"
 # doi: ""
 

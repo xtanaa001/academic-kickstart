@@ -9,7 +9,11 @@ authors:
   - Alberto Leon-Garcia
   - Yuan Wu
   - Danny H.K. Tsang
-tags: ["Energy Economics", "Algorithmic Mechanism Design", "Online Algorithms"]
+tags: 
+  - Smart Grid
+  - Mechanism Design
+  - Online Algorithms
+  - Algorithmic Game Theory
 categories: []
 date: 2019-10-15T09:14:50-05:00
 lastmod: 2019-11-18T09:14:50-05:00
