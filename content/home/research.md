@@ -2,7 +2,7 @@
 # A Skills section created with the Featurette widget.
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 11  # Order that this section will appear.
 
 title = "Research"
@@ -39,9 +39,9 @@ subtitle = ""
   icon = "project-diagram"
   icon_pack = "fas"
   name = "Networks"
-  description = "I am interested in networks of various types, including **communication and energy networks**"
+  description = "I study how **networking, commmunication and smart grid** cope with challenges emerging from dynamic and self-interested agent behaviors."
 
-# Networks in the face of changing and possibly unpredictable and strategic environments
+ # Networks in the face of changing and possibly unpredictable and strategic environments
  # My research is application driven and centers on communication and energy networks
  # ranging from changing user behaviors to network connectivity and resource availability
  # Communication and Energy Networks.
@@ -53,7 +53,7 @@ subtitle = ""
   icon = "subscript"
   icon_pack = "fas"
   name = "Algorithms"
-  description = "I develop **online/distributed algorithms** for the optimization of networks with multiple agents and unpredictable dynamics."
+  description = "I specialize in the design and analysis of **online algorithms**, with applications to real-time scheduling and online optimization problems."
 
 # for optimization and machine learning problems
 # for efficient decision making in the face of dynamics and uncertain future information
@@ -68,7 +68,7 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Incentives"
-  description = "I study **algorithmic game theory (mechanism design)** for resource allocation in the presence of self-interested agents."
+  description = "I study **mechanism design** and **algorithmic game theory** for adaptive resource allocation and pricing in the presence of self-interested agents."
 
 # I design computationally-efficient economic mechanisms for resource allocation and pricing
 # algorithmic game theory/mechanism design for  for resource allocation with strategic user behaviors.

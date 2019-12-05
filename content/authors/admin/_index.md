@@ -24,8 +24,8 @@ organizations:
 
 interests:
   - Online Algorithms
-  - Distributed Algorithms
-  # - Algorithmic Economics
+  # - Distributed Algorithms
+  - Mechanism Design
   - Algorithmic Game Theory
   # - Distributed Algorithms
   # - Online Machine Learning
@@ -113,10 +113,10 @@ email: ""
 
 # I am interested in online algorithms, distributed algorithms and algorithmic game theory.  My research centers on optimizing the performance of networks in the presence of private data held by self-interested agents. My research features online algorithms, distributed algorithms and algorithmic game theory, 
 # **communication and energy networks** understanding how networks address computational challenges emerging from the presence  using tools from online/distributed algorithms and algorithmic game theory/mechanism design I am particularly interested in online algorithms and algorithmic game theory, with their applications.   Some applications [communication and energy networks](/research/#projects). 
+
+# My research centers on developing **incentive**-aware **algorithms** for **networked environments** in the presence of private data held by self-interested agents, using mathematical tools from computer science and economics such as online algorithms, mechanism design, and algorithmic game theory.
 ---
 
 I am currently a Postdoctoral Fellow at the Dept. of Electrical & Computer Engineering, [University of Toronto](http://someurl), hosted by Prof. [Alberto Leon-Garcia](https://www.nal.utoronto.ca/). 
 
 I received my Ph.D. degree in Electronic and Computer Engineering from [Hong Kong University of Science and Technology](https://www.ust.hk), advised by Prof. [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/). From Oct. 2015 to April 2016, I was also affiliated with the School of Engineering and Applied Science, [Harvard University](https://www.harvard.edu/), hosted by Prof. [Na (Lina) Li](https://nali.seas.harvard.edu/).
-
-My research centers on developing **algorithms** and **incentives** for **networked environments** in the presence of private data held by self-interested agents. 
