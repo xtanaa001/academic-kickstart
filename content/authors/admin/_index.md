@@ -31,7 +31,7 @@ interests:
   # - Online Machine Learning
   # - Network Optimization
   - Networking
-  - Communication
+  - Cloud/Edge Computing
   - Smart Grid 
   # - Network Economics
   # - Network Optimization

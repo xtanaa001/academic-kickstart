@@ -39,7 +39,7 @@ subtitle = ""
   icon = "project-diagram"
   icon_pack = "fas"
   name = "Networks"
-  description = "I study how **networking, commmunication and smart grid** cope with challenges emerging from dynamic and self-interested agent behaviors."
+  description = "I study how **networking**, **cloud/edge computing** and **smart grid** cope with challenges emerging from dynamic and self-interested user hebaviors."
 
  # Networks in the face of changing and possibly unpredictable and strategic environments
  # My research is application driven and centers on communication and energy networks
@@ -68,7 +68,7 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Incentives"
-  description = "I study **mechanism design** and **algorithmic game theory** for adaptive resource allocation and pricing in the presence of self-interested agents."
+  description = "I study **mechanism design** and **algorithmic game theory** for incentive-aware resource allocation and pricing in the face of self-interested agents."
 
 # I design computationally-efficient economic mechanisms for resource allocation and pricing
 # algorithmic game theory/mechanism design for  for resource allocation with strategic user behaviors.
