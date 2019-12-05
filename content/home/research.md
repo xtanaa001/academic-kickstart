@@ -68,7 +68,7 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Incentives"
-  description = "I study **mechanism design** and **algorithmic game theory** for incentive-aware resource allocation and pricing in the face of self-interested agents."
+  description = "I study incentive-aware resource allocation and pricing in networked environments based on **algorithmic game theory** and **mechanism design**."
 
 # I design computationally-efficient economic mechanisms for resource allocation and pricing
 # algorithmic game theory/mechanism design for  for resource allocation with strategic user behaviors.
