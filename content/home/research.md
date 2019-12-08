@@ -53,9 +53,9 @@ subtitle = ""
   icon = "subscript"
   icon_pack = "fas"
   name = "Algorithms"
-  description = "I specialize in the design of [online algorithms](/tags/online-algorithms) for problems that decisions must be made sequentially based on a piece-by-piece input."
+  description = "I specialize in the design and analysis of [online algorithms](/tags/online-algorithms), with applications to real-time scheduling and online optimization problems."
 
-# for optimization and machine learning problems
+#  problems that decisions must be made sequentially based on a piece-by-piece input
 # for efficient decision making in the face of dynamics and uncertain future information
 # in the face of dynamics,  I develop online and distributed algorithms for network optimization in the face of dynamics, ranging from changing user behaviors to network connectivity and resource availability
 # I develop online and distributed algorithms for network optimization  ranging from changing user behaviors to network connectivity and resource availability in the face of dynamics, ranging from changing user behaviors to network connectivity and resource availability
