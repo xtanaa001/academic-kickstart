@@ -24,7 +24,7 @@ links:
  - icon: ieee
    icon_pack: ai
    name: IEEE Xplore
-   url: ""
+   url: "https://ieeexplore.ieee.org/abstract/document/8892481"
  - icon: arxiv
    icon_pack: ai
    name: arXiv Report

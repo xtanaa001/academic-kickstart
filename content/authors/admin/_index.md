@@ -24,30 +24,11 @@ organizations:
 
 interests:
   - Online Algorithms
-  # - Distributed Algorithms
   - Mechanism Design
   - Algorithmic Game Theory
-  # - Distributed Algorithms
-  # - Online Machine Learning
-  # - Network Optimization
   - Networking
   - Cloud/Edge Computing
   - Smart Grid 
-  # - Network Economics
-  # - Network Optimization
-  # - Network/Energy Economics
-  # - Communication
-  # - "Networking: IoT, NFV and SDN"
-  # - Communication
-  # - Smart Grid
-  # - Communication Networks
-  # - Cloud/Edge Computing
-  # - IoT, NFV and SDN
-  #- "**Algorithms**: online/distributed algorithms."
-  #- "**Economics**: mechanism design, network economics, and energy economics." 
-  #- "**Networks**: communication and energy networks."
-  # - "**Networking**: cloud and edge computing, IoT,  NFV and SDN"
-  # - "**Energy**: Economics + Sustainability"
 
 education:
   courses:

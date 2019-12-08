@@ -1,5 +1,5 @@
 ---
-title: 'Academic: the website builder for Hugo'
+title: 'Top Conferences Journals in Networking Area'
 subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
 summary: Create a beautifully simple website in under 10 minutes.
 authors:
@@ -9,7 +9,7 @@ tags:
 categories:
 - Demo
 date: "2016-04-20T00:00:00Z"
-lastmod: "2019-04-17T00:00:00Z"
+# lastmod: "2019-04-17T00:00:00Z"
 featured: false
 draft: false
 

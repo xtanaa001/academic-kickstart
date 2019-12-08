@@ -29,9 +29,9 @@ summary: This paper concerns the mechanism design for online resource allocation
 # - Source Themes
 featured: false
 
-links:
- - name: "Journal Version in IEEE JSAC "
-   url: "http://arxiv.org/pdf/1512.04133v1"
+# links:
+# - name: "Journal Version in IEEE JSAC "
+#   url: "http://arxiv.org/pdf/1512.04133v1"
 url_pdf: https://www.sigmetrics.org/mama/abstracts/Tan.pdf
 url_code: ''
 url_dataset: ''

@@ -1,7 +1,7 @@
 ---
 title: A paper on online combinatorial auctions accepted to IEEE JSAC
-authors:
-- admin
+#authors:
+#- admin
 
 date: 2019-11-12
 math: true
