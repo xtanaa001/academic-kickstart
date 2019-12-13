@@ -94,7 +94,8 @@ renders as
 
 ```mermaid
 graph TD;
-  A-->B;
+  Networks-Platforms --> Algorithms;
+  Networks-Platforms --> Incentives;
   A-->C;
   B-->D;
   C-->D;

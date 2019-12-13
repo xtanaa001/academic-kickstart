@@ -24,10 +24,13 @@ organizations:
 
 interests:
   - Online Algorithms
+  - Distributed Algorithms
   - Mechanism Design
   - Algorithmic Game Theory
+  #- Algorithmic Economics
+  # - "**Platforms**: on-demand service platforms"
   - Networking
-  - Cloud/Edge Computing
+  - Cloud Computing
   - Smart Grid 
 
 education:

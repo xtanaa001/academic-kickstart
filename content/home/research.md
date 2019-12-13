@@ -2,7 +2,7 @@
 # A Skills section created with the Featurette widget.
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 11  # Order that this section will appear.
 
 title = "Research Summary"
@@ -13,7 +13,6 @@ subtitle = ""
 # Add/remove as many `[[feature]]` blocks below as you like.
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
-
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -39,7 +38,10 @@ subtitle = ""
   icon = "project-diagram"
   icon_pack = "fas"
   name = "Networks"
-  description = "I study how [networking](/tags/networking/), [cloud/edge computing](/tags/cloud/edge-computing/) and [smart grid](/tags/smart-grid/) cope with challenges emerging from dynamic and self-interested user behaviors."
+  description = "I study how communication and energy networks cope with challenges emerging from dynamic and on-demand service requests."
+
+
+ # I study how [networking](/tags/networking/), [cloud/edge computing](/tags/cloud/edge-computing/) and [smart grid](/tags/smart-grid/) cope with challenges emerging from dynamic and self-interested user behaviors.
 
  # Networks in the face of changing and possibly unpredictable and strategic environments
  # My research is application driven and centers on communication and energy networks
@@ -53,7 +55,7 @@ subtitle = ""
   icon = "subscript"
   icon_pack = "fas"
   name = "Algorithms"
-  description = "I specialize in the design and analysis of [online algorithms](/tags/online-algorithms), with applications to real-time scheduling and online optimization problems."
+  description = "I specialize in the design and analysis of online/distributed algorithms for the optimization of networked systems with multiple agents."
 
 #  problems that decisions must be made sequentially based on a piece-by-piece input
 # for efficient decision making in the face of dynamics and uncertain future information
@@ -68,11 +70,13 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Incentives"
-  description = "I design incentive-aware algorithms for adaptive resource allocation and pricing based on [algorithmic game theory](/tags/algorithmic-game-theory/) and [mechanism design](/tags/mechanism-design/)."
+  description = "I develop incentive-aware algorithms for adaptive resource allocation and pricing  based on algorithmic game theory and mechanism design."
 
 # I design computationally-efficient economic mechanisms for resource allocation and pricing
 # algorithmic game theory/mechanism design for  for resource allocation with strategic user behaviors.
 # Design of economic mechanisms for resource allocation with strategic user behaviors.
 # the intersection between economics and computation
 # My research features algorithmic and economic aspects of networks, with major focus on communication and energy networks.
+
+# [Click here to have a graphical view of my research summary.](/img/hero-academic.png)
 +++
