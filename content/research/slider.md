@@ -54,7 +54,7 @@ height = ""
 
 [[item]]
   title = "**Incentives**"
-  content = "Mechanism Design, Resource Allocation and Pricing"
+  content = "Mechanism Design for Resource Allocation and Pricing"
   align = "center"
 
   overlay_color = "#333"  # An HTML color value.

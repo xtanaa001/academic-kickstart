@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 35  # Order that this section will appear.
 
 title = "Incentives"
-subtitle = "Mechanism Design, Resource Allocation and Pricing"
+subtitle = "Mechanism Design for Resource Allocation and Pricing"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
