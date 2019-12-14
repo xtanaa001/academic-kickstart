@@ -7,7 +7,7 @@ authors:
   - "**Xiaoqi Tan**"
   - Yuan Wu
   - Danny H.K. Tsang
-tags: ["Smart Grid", "Optimization"]
+tags: ["Smart Grid"]
 categories: []
 date: 2016-07-15T09:14:50-05:00
 lastmod: 2019-11-18T09:14:50-05:00

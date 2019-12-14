@@ -7,6 +7,10 @@ authors:
 date: "2019-06-10T00:00:00Z"
 # doi: ""
 
+tags: 
+  - Mechanism Design
+  - Online Algorithms
+
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2019-11-10T00:00:00Z"
 

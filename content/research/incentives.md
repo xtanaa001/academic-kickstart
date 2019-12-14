@@ -5,11 +5,11 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 35  # Order that this section will appear.
 
-title = "Research Overview"
-# subtitle = "[Click to See Overview >>](/img/hero-academic.png)"
+title = "Incentives"
+subtitle = "Mechanism Design, Resource Allocation and Pricing"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -48,14 +48,6 @@ title = "Research Overview"
  
  # CSS class.
  css_class = ""
-
-# {{< figure library="true" src="hero-academic.png" title="Research Overview" lightbox="true" >}}
-# My research centers around resource allocation and pricing in networked systems. I study how [communication networks](/tags/networking/), [cloud computing](/tags/cloud/edge-computing/) and [smart grid](/tags/smart-grid/) cope with challenges emerging from dynamic and self-interested user behaviors. I specialize in the design and analysis of online/distributed algorithms for the optimization of networked systems with multiple agents. I develop incentive-aware algorithms for adaptive resource allocation and pricing  based on algorithmic mechanism design. 
-
-# - online algorithms, 
-# - mechanism design, 
-# - machine learning,
-# - communication networks, 
-# - cloud computing
-# - smart grid.
 +++
+
+My research features the design and operation of communication networks in the face of dynamics, ranging from changing and possibly strategic user behaviors to network connectivity and resource availability. To achieve this, my research features interdisciplinarity and uses tools from mathematics and economics such as online algorithms, algorithmic game theory/mechanism design, and optimization. 

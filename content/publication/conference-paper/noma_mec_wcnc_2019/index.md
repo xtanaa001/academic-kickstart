@@ -7,9 +7,9 @@ authors:
  - Yu Sing Xiao
  - Danny H.K. Tsang
 date: "2019-04-10T00:00:00Z"
+
 tags: 
- - Cloud/Edge Computing
- - Networking
+ - Communication Networks
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2019-11-10T00:00:00Z"

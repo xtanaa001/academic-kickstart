@@ -8,8 +8,7 @@ authors:
 tags: 
  - Mechanism Design
  - Online Algorithms
- - Cloud/Edge Computing
- - Algorithmic Game Theory
+ - Cloud Computing
 categories: []
 date: "2019-10-17T00:00:00Z"
 # doi: ""

@@ -7,6 +7,9 @@ authors:
 date: "2014-11-10T00:00:00Z"
 # doi: ""
 
+tags: 
+  - Smart Grid
+
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2019-11-10T00:00:00Z"
 
