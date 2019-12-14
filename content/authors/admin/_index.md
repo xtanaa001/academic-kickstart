@@ -97,10 +97,14 @@ email: ""
 # **communication and energy networks** understanding how networks address computational challenges emerging from the presence  using tools from online/distributed algorithms and algorithmic game theory/mechanism design I am particularly interested in online algorithms and algorithmic game theory, with their applications.   Some applications [communication and energy networks](/research/#projects). 
 
 # My research centers on developing **incentive**-aware **algorithms** for **networked environments** in the presence of private data held by self-interested agents, using mathematical tools from computer science and economics such as online algorithms, mechanism design, and algorithmic game theory.
+
+# My research interests include [Online Algorithms](/tags/online-algorithms), [Mechanism Design](/tags/mechanism-design), and [Machine Learning](/tags/machine-learning), with their applications to 
+
+# [online algorithms](/tags/online-algorithms) and [market mechanisms](/tags/market-mechanisms). incentive-aligned systems  online algorithms and market mechanisms for the allocation of resources and services in the presence of self-interested users and uncertainty
 ---
 
 I am currently a Postdoctoral Fellow at the Dept. of Electrical & Computer Engineering, [University of Toronto](http://someurl), hosted by Prof. [Alberto Leon-Garcia](https://www.nal.utoronto.ca/). 
 
 I received my Ph.D. degree in Electronic and Computer Engineering from [Hong Kong University of Science and Technology](https://www.ust.hk), advised by Prof. [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/). From Oct. 2015 to April 2016, I was also affiliated with the School of Engineering and Applied Science, [Harvard University](https://www.harvard.edu/), hosted by Prof. [Na (Lina) Li](https://nali.seas.harvard.edu/).
 
-My research interests include [Online Algorithms](/tags/online-algorithms), [Mechanism Design](/tags/mechanism-design), and [Machine Learning](/tags/machine-learning), with their applications to [Comunication Networks](/tags/networking), [Cloud Computing](/tags/cloud-computing) and [Smart Grid](/tags/smart-grid).
+My research centers around designing incentive-aligned systems for resource allocation and scheduling in networked environments. The main application area includes [comunication networks](/tags/networking), [cloud computing](/tags/cloud-computing) and [smart grid](/tags/smart-grid).

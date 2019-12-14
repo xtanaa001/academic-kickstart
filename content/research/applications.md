@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Networks"
-subtitle = "Computer and Communication Networks"
+title = "Application Areas"
+subtitle = "Incentive-Aware Systems in Networked Environments"
 
 
 
@@ -73,10 +73,20 @@ subtitle = "Computer and Communication Networks"
 # {{% /alert %}}
 +++
 
+Design of incentive-aligned systems for resource allocation and scheduling in networked environments in the presence of dynamics, ranging from changing and possibly strategic user behaviors to network connectivity and resource availability. Typical examples of such systems arise in
+
+- **Smart Grid**: the power grid is undergoing a dramatic transformation...
+
+- **Cloud Computing**: placing computing-intensive tasks at a centralized cloud has been proven not only efficient in the computational point of view, but also ecconomically. 
 
 
-Computer and communication networks in the face of dynamics, ranging from changing and possibly strategic user behaviors to network connectivity and resource availability. To achieve this, my research features interdisciplinarity and uses tools from mathematics and economics such as online algorithms, algorithmic game theory/mechanism design, and optimization. 
+- **Communication Networks**: the computer and communication networks have 
+
+
 
 {{< figure library="true" src="network_routing.png" title="A caption" lightbox="true" >}}
+
+
+Communication Networks, Cloud Computing and Smart Grid
 
 **Recent Publications**:

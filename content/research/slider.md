@@ -16,8 +16,8 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "**Networks**"
-  content = "Computer and Communication Networks"
+  title = "**Application Areas**"
+  content = "Incentive-Aware Systems in Networked Environments"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -34,18 +34,18 @@ height = ""
   # cta_icon_pack = "fas"
   # cta_icon = "graduation-cap"
 
-[[item]]
-  title = "**Markets**"
-  content = "Markets for Cloud Computing and Smart Grid"
-  align = "center"
+#  [[item]]
+#  title = "**Markets**"
+#  content = "Markets for Cloud Computing and Smart Grid"
+#  align = "center"
 
-  overlay_color = "#333"  # An HTML color value.
-  overlay_img = "markets.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.6  # Darken the image. Value in range 0-1.
+#  overlay_color = "#333"  # An HTML color value.
+#  overlay_img = "markets.jpg"  # Image path relative to your `static/img/` folder.
+#  overlay_filter = 0.6  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "**Algorithms**"
-  content = "Online Algorithms, Optimization and Machine Learning"
+  title = "**Online Algorithms**"
+  content = "Online Optimization and Online Machine Learning"
   align = "center"
 
   overlay_color = "#555"  # An HTML color value.
@@ -53,12 +53,12 @@ height = ""
   overlay_filter = 0.8  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "**Incentives**"
-  content = "Mechanism Design for Resource Allocation and Pricing"
+  title = "**Mechansim Design**"
+  content = "Markets and Platforms for Resource Allocation and Pricing"
   align = "center"
 
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = "incentives.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "markets.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.6  # Darken the image. Value in range 0-1.
 
 +++
