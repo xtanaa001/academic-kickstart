@@ -10,7 +10,8 @@ authors:
 tags: 
  - Mechanism Design
  - Online Algorithms
- - Algorithmic Game Theory
+ - Incentives
+
 date: "2019-11-10T00:00:00Z"
 # doi: ""
 

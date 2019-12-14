@@ -1,10 +1,13 @@
 ---
-title: "Resource Allocation in Communication Networks: Online Algorithms, Dynamic Link Metrics and Bounded Efficiency Loss"
+title: "Value-based Admission Control and Network Routing: Online Algorithms, Dynamic Link Metrics and Bounded Efficiency Loss"
 authors:
  - "**Xiaoqi Tan**"
  - Alberto Leon-Garcia
-date: "2020-11-18T00:00:00Z"
+date: "2019-11-18T00:00:00Z"
 # doi: ""
+tags: 
+ - Online Algorithms
+ - Communication Networks
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2019-12-01T00:00:00Z"
@@ -16,7 +19,7 @@ date: "2020-11-18T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Preprint"
 publication_short: ""
 
 abstract: This paper is concerned about designing dynamic link metrics for online resource allocation in communication networks without future information. The resource allocation problem studied in this paper includes admission control, network routing and congestion management. 

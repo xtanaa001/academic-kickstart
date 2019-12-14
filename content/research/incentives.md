@@ -5,7 +5,7 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 35  # Order that this section will appear.
 
 title = "Incentives"
@@ -53,4 +53,4 @@ subtitle = "Mechanism Design for Resource Allocation and Pricing"
 My research features the design and operation of communication networks in the face of dynamics, ranging from changing and possibly strategic user behaviors to network connectivity and resource availability. To achieve this, my research features interdisciplinarity and uses tools from mathematics and economics such as online algorithms, algorithmic game theory/mechanism design, and optimization. 
 
 
-**Recent Publications**: [Online Combinatorial Auctions]({{< ref "/publication/journal-article/online_combinatorial_auction_2020/index.md" >}}), [Online Mechanism Design]({{< ref "/publication/preprint/online_allocation/index.md" >}}).
+**Recent Publications**: [Online Combinatorial Auctions]({{< ref "/publication/journal-article/online_combinatorial_auction_2020/index.md" >}}).

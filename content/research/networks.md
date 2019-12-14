@@ -5,7 +5,7 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "Networks"
@@ -54,6 +54,6 @@ Computer and communication networks in the face of dynamics, ranging from changi
 
 {{< figure library="true" src="network_routing.png" title="A caption" lightbox="true" >}}
 
-**Recent Publications**: [Network Routing]({{< ref "/publication/journal-article/online_combinatorial_auction_2020/index.md" >}}), [Multi-acess Edge Computing](/publication/preprint/noma_mec_twc_2020/).
+**Recent Publications**: [Network Routing with Service Chains]({{< ref "/publication/journal-article/online_combinatorial_auction_2020/index.md" >}}).
 
 
