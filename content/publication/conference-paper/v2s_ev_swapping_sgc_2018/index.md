@@ -10,7 +10,7 @@ date: "2018-10-10T00:00:00Z"
 
 tags: 
   - Smart Grid
-  
+
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2019-11-10T00:00:00Z"
 
@@ -21,7 +21,7 @@ tags:
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "ACM Sigmetrics Workshop on MAMA in 2019"
+publication: "2018 IEEE International Conference on Smart Grid Communications (SmartGridComm)"
 publication_short: ""
 
 abstract: We present a framework to integrate the choice of electric vehicle (EV) customers into the vehicle-to-station (V2S) routing problem for battery swapping. Instead of assigning stations to each EV customer directly, we provide a recommendation, including a list of station-price pairs that are available for EV battery swapping services, for customers to choose. Compared with assignment, recommendation is closer to reality for scenarios lacking incentives for the cooperation of customers such as the battery swapping services of private EVs. In this paper, we model customers' behavior by their choice probability given a particular recommendation, which can be readily obtained based on analytics techniques once the real data are available. We propose an online V2S recommendation algorithm, which aims at maximizing the expected revenue of a group of battery swapping stations (BSSs) and ensuring the quality service of EV customers. Leveraging the primal-dual analysis, we show that the loss of revenue due to online EV arrivals is theoretically bounded by a provable competitive ratio. Moreover, numerical tests also validate that the proposed online algorithm can significantly outperform benchmarks in maximizing revenues in online settings.

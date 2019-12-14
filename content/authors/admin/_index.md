@@ -103,4 +103,4 @@ I am currently a Postdoctoral Fellow at the Dept. of Electrical & Computer Engin
 
 I received my Ph.D. degree in Electronic and Computer Engineering from [Hong Kong University of Science and Technology](https://www.ust.hk), advised by Prof. [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/). From Oct. 2015 to April 2016, I was also affiliated with the School of Engineering and Applied Science, [Harvard University](https://www.harvard.edu/), hosted by Prof. [Na (Lina) Li](https://nali.seas.harvard.edu/).
 
-My research interests include [Online Algorithms](/tags/online-algorithms), [Mechanism Design](/tags/mechanism-design), and [Machine Learning](/tags/machine-learning), with applications to [Comunication Networks](/tags/networking), [Cloud Computing](/tags/cloud-computing) and [Smart Grid](/tags/smart-grid).
+My research interests include [Online Algorithms](/tags/online-algorithms), [Mechanism Design](/tags/mechanism-design), and [Machine Learning](/tags/machine-learning), with their applications to [Comunication Networks](/tags/networking), [Cloud Computing](/tags/cloud-computing) and [Smart Grid](/tags/smart-grid).

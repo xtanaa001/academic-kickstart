@@ -50,6 +50,10 @@ subtitle = "Computer and Communication Networks"
  css_class = ""
 +++
 
-My research features the design and operation of communication networks in the face of dynamics, ranging from changing and possibly strategic user behaviors to network connectivity and resource availability. To achieve this, my research features interdisciplinarity and uses tools from mathematics and economics such as online algorithms, algorithmic game theory/mechanism design, and optimization. 
+Computer and communication networks in the face of dynamics, ranging from changing and possibly strategic user behaviors to network connectivity and resource availability. To achieve this, my research features interdisciplinarity and uses tools from mathematics and economics such as online algorithms, algorithmic game theory/mechanism design, and optimization. 
 
 {{< figure library="true" src="network_routing.png" title="A caption" lightbox="true" >}}
+
+**Recent Publications**: [Network Routing]({{< ref "/publication/journal-article/online_combinatorial_auction_2020/index.md" >}}), [Multi-acess Edge Computing](/publication/preprint/noma_mec_twc_2020/).
+
+

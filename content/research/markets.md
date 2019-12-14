@@ -51,3 +51,5 @@ subtitle = "Markets for Cloud Computing and Smart Grid"
 +++
 
 I'm interested in algorithmic and economic aspects of networks, with particular applications to communication and energy networks. My research aims to understand and optimize the design and operation of networks in the face of dynamics, ranging from changing and possibly strategic user behaviors to network connectivity and resource availability. To achieve this, my research features interdisciplinarity and uses tools from mathematics and economics such as online algorithms, algorithmic game theory/mechanism design, and optimization. 
+
+**Recent Publications**: [Auction Mechanisms for Cloud Computing]({{< ref "/publication/journal-article/online_combinatorial_auction_2020/index.md" >}}), [Posted-Price Retailing of Transactive Energy]({{< ref "/publication/journal-article/posted_price_retailing_2020/index.md" >}}), [Real-time Pricing in Smart Grid]({{< ref "/publication/preprint/rtp_dsm_2020/index.md" >}}).

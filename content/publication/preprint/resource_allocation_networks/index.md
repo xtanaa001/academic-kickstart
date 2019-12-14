@@ -3,7 +3,7 @@ title: "Resource Allocation in Communication Networks: Online Algorithms, Dynami
 authors:
  - "**Xiaoqi Tan**"
  - Alberto Leon-Garcia
-date: "2020-01-18T00:00:00Z"
+date: "2020-11-18T00:00:00Z"
 # doi: ""
 
 # Schedule page publish date (NOT publication's date).

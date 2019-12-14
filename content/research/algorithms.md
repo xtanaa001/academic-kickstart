@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Algorithms"
-subtitle = "Online Algorithm, Optimization and Machine Learning"
+subtitle = "Online Algorithms, Optimization and Machine Learning"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -53,3 +53,6 @@ subtitle = "Online Algorithm, Optimization and Machine Learning"
 My research features the design and operation of communication networks in the face of dynamics, ranging from changing and possibly strategic user behaviors to network connectivity and resource availability. To achieve this, my research features interdisciplinarity and uses tools from mathematics and economics such as online algorithms, algorithmic game theory/mechanism design, and optimization. 
 
 {{< figure library="true" src="competitive_ratio.png" title="Achieveable regions of competitive ratios of the proposed online algorithm under three cases" lightbox="true" >}}
+
+
+**Recent Publications**: [Online Combinatorial Auctions]({{< ref "/publication/journal-article/online_combinatorial_auction_2020/index.md" >}}), [Online Resource Allocation]({{< ref "/publication/preprint/online_allocation/index.md" >}}).
