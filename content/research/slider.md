@@ -16,8 +16,8 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "**Application Areas**"
-  content = "Incentive-Aware Systems in Networked Environments"
+  title = "**Research Summary**"
+  content = "Incentive-Aligned Systems in Networked Environments"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
