@@ -5,10 +5,10 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
-title = "Application Areas"
-subtitle = "Communication Networks, Cloud Computing and Smart Grid"
+title = "Networked Systems and Platforms"
+subtitle = "Computer and Communication Networks, Cloud Computing and Smart Grid"
 
 
 
@@ -73,20 +73,14 @@ subtitle = "Communication Networks, Cloud Computing and Smart Grid"
 # {{% /alert %}}
 +++
 
-Design of incentive-aligned systems for resource allocation and scheduling in networked environments in the presence of dynamics, ranging from changing and possibly strategic user behaviors to network connectivity and resource availability. Typical examples of such systems arise in
+I develop online decision-making algorithms and incentive mechanisms for resource allocation and scheduling in networked systems and platforms, where self-interested agents may appear sequentially, interact and possibly pursue conflicting objectives in the presence of dynamics, ranging from network connectivity to resource availability. Typical examples of such systems arise in
 
-- **Smart Grid**: the power grid is undergoing a dramatic transformation...
-
-- **Cloud Computing**: placing computing-intensive tasks at a centralized cloud has been proven not only efficient in the computational point of view, but also ecconomically. 
-
-
-- **Communication Networks**: the computer and communication networks have 
-
-
+- **Computer and Communication Networks**: the computer and communication networks have 
 
 {{< figure library="true" src="network_routing.png" title="A caption" lightbox="true" >}}
 
+- **Cloud Computing**: placing computing-intensive tasks at a centralized cloud has been proven not only efficient in the computational point of view, but also ecconomically. 
 
-Communication Networks, Cloud Computing and Smart Grid
+- **Smart Grid**: the power grid is undergoing a dramatic transformation...
 
 **Recent Publications**:

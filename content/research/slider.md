@@ -15,16 +15,6 @@ height = ""
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
-[[item]]
-  title = "**Research Summary**"
-  content = "Incentive-Aligned Systems in Networked Environments"
-  align = "center"  # Choose `center`, `left`, or `right`.
-
-  # Overlay a color or image (optional).
-  # Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
-  overlay_img = "networks.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.6  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
@@ -43,22 +33,33 @@ height = ""
 #  overlay_img = "markets.jpg"  # Image path relative to your `static/img/` folder.
 #  overlay_filter = 0.6  # Darken the image. Value in range 0-1.
 
-[[item]]
-  title = "**Online Algorithms**"
-  content = "Online Optimization and Online Machine Learning"
-  align = "center"
+# [[item]]
+#  title = "**Online Algorithms**"
+#  content = "Online Optimization and Online Machine Learning"
+#  align = "center"
 
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = "algorithms.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.8  # Darken the image. Value in range 0-1.
+#  overlay_color = "#555"  # An HTML color value.
+#  overlay_img = "algorithms.jpg"  # Image path relative to your `static/img/` folder.
+#  overlay_filter = 0.8  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "**Mechansim Design**"
-  content = "Markets and Platforms for Resource Allocation and Pricing"
+  title = "**Incentive-Aware Decision Makings**"
+  # content = "Online Algorithms, Mechanism Design and Machine Learning"
   align = "center"
 
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = "markets.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.6  # Darken the image. Value in range 0-1.
+  overlay_img = "algorithms.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.8 # Darken the image. Value in range 0-1.
+
+  [[item]]
+  title = "**Networked Systems and Platforms**"
+  # content = "Communication Networks, Cloud Computing and Smart Grid"
+  align = "center"  # Choose `center`, `left`, or `right`.
+
+  # Overlay a color or image (optional).
+  # Deactivate an option by commenting out the line, prefixing it with `#`.
+  overlay_color = "#666"  # An HTML color value.
+  overlay_img = "networks.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.7  # Darken the image. Value in range 0-1.
 
 +++
