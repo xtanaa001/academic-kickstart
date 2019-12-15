@@ -5,10 +5,10 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 10  # Order that this section will appear.
 
 title = "Networked Systems and Platforms"
-subtitle = "Computer and Communication Networks, Cloud Computing and Smart Grid"
+subtitle = "Computer Networks, Cloud Computing, Smart Grid and Smart Mobility"
 
 
 
@@ -73,14 +73,16 @@ subtitle = "Computer and Communication Networks, Cloud Computing and Smart Grid"
 # {{% /alert %}}
 +++
 
-I develop online decision-making algorithms and incentive mechanisms for resource allocation and scheduling in networked systems and platforms, where self-interested agents may appear sequentially, interact and possibly pursue conflicting objectives in the presence of dynamics, ranging from network connectivity to resource availability. Typical examples of such systems arise in
+My research centers around resource allocation and scheduling in networked systems and platforms, where self-interested agents may appear sequentially, interact and possibly pursue conflicting objectives in the presence of dynamics, ranging from network connectivity to resource availability. Typical examples of such systems include:
 
-- **Computer and Communication Networks**: the computer and communication networks have 
+- **Computer Networks**: the computer and communication networks have 
 
 {{< figure library="true" src="network_routing.png" title="A caption" lightbox="true" >}}
 
 - **Cloud Computing**: placing computing-intensive tasks at a centralized cloud has been proven not only efficient in the computational point of view, but also ecconomically. 
 
 - **Smart Grid**: the power grid is undergoing a dramatic transformation...
+
+- **Smart Mobility**: the power grid is undergoing a dramatic transformation...
 
 **Recent Publications**:

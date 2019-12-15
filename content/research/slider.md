@@ -34,7 +34,7 @@ height = ""
 #  overlay_filter = 0.6  # Darken the image. Value in range 0-1.
 
 # [[item]]
-#  title = "**Online Algorithms**"
+#  title = "**Research Overview**"
 #  content = "Online Optimization and Online Machine Learning"
 #  align = "center"
 
