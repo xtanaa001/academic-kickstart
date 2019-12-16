@@ -27,7 +27,7 @@ title = "Incentive-Aware Online Decision Makings"
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = "NA"
+    tag = "incentives"
     category = ""
     publication_type = ""
     exclude_featured = false
@@ -71,8 +71,6 @@ title = "Incentive-Aware Online Decision Makings"
 # {{% alert note %}} 
 # Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 # {{% /alert %}}
-
-# Recent Publications:
 +++
 
 
@@ -88,3 +86,6 @@ Mechanism design is concerned about designing a protocol that can implement a ga
 Reinforcement learning is concerned about making sequential decisions under uncertainty based on the theory of Markov Decision Process. For 
 
 {{< figure library="true" src="competitive_ratio.png" title="Achieveable regions of competitive ratios of the proposed online algorithm under three cases" lightbox="true" >}}
+
+
+## Recent Publications:

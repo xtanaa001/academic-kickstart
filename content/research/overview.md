@@ -83,4 +83,8 @@ title = "Research Summary"
 #  - Machine Learning
 +++
  
+- **[Optimization of Networked Systems and Platforms](/research/#applications)**: Communication Networks, Cloud Computing, Smart Grid and Smart Mobility.
+
+- **[Algorithms for Incentive-Aware Online Decision Makings](/research/#incentives)**: Mechanism Design, Online Algorithms and Machine Learning.
+
 {{< figure library="true" src="research_overview.png" title="" lightbox="true" >}} 
