@@ -2,7 +2,7 @@
 # Slider widget.
 widget = "slider"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 2  # Order that this section will appear.
 
 # Slide interval.
@@ -51,7 +51,16 @@ height = ""
 #  overlay_filter = 0 # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "**Incentive-Aware Online Decision Makings**"
+  title = "**Networked Systems and Platforms**"
+  # content = "Computer Networks, Cloud Computing, Smart Grid, and Smart Mobility."
+  align = "center"
+
+  overlay_color = "#333"  # An HTML color value.
+  overlay_img = "algorithms.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.8 # Darken the image. Value in range 0-1.
+
+[[item]]
+  title = "**Online Mechanism Design**"
   # content = "Online Algorithms, Mechanism Design, and Machine Learning"
   align = "center"
 
@@ -60,7 +69,7 @@ height = ""
   overlay_filter = 0.8 # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "**Optimization of Networked Systems and Platforms**"
+  title = "**Online Auctions via Online Learning**"
   # content = "Communication Networks, Cloud Computing and Smart Grid"
   align = "center"  # Choose `center`, `left`, or `right`.
 
@@ -70,4 +79,14 @@ height = ""
   overlay_img = "networks.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.7  # Darken the image. Value in range 0-1.
 
+[[item]]
+  title = "**Multi-Agent Reinforcement Learning**"
+  # content = "Communication Networks, Cloud Computing and Smart Grid"
+  align = "center"  # Choose `center`, `left`, or `right`.
+
+  # Overlay a color or image (optional).
+  # Deactivate an option by commenting out the line, prefixing it with `#`.
+  overlay_color = "#666"  # An HTML color value.
+  overlay_img = "networks.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.7  # Darken the image. Value in range 0-1.
 +++

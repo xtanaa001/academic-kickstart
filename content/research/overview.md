@@ -4,10 +4,10 @@
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear.
 
-title = "Research Summary"
+title = "Research Overview"
 # subtitle = "Online Optimization and Online Machine Learning"
 
 
@@ -17,7 +17,7 @@ title = "Research Summary"
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 2
+  count = 4
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -71,6 +71,16 @@ title = "Research Summary"
 # {{% alert note %}} 
 # Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 # {{% /alert %}}
-+++
 
-{{< figure library="true" src="research_overview.png" title="" lightbox="true" >}}
+# - **Optimization of Networked Systems and Platforms**
+#  - Computer Networks
+#  - Cloud Computing
+#  - Smart Grid
+#  - Smart Mobility
+# - **Algorithms for Incentive-Aware Online Decision Makings**
+#  - Mechanism Design
+#  - Online Algorithms
+#  - Machine Learning
++++
+ 
+{{< figure library="true" src="research_overview.png" title="" lightbox="true" >}} 
