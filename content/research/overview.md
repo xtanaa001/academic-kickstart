@@ -83,10 +83,12 @@ title = "Research Summary"
 #  - Machine Learning
 
 # I design incentive-aware online decisions for the optimization of networked systems and platforms in the presence of self-interested agents and dynamics. 
+
+# Recent Publications:
 +++
 
 {{< figure library="true" src="research_overview.png" title="" lightbox="true" >}} 
 
-- **[Networked Systems and Platforms](/research/#applications)**: communication networks,  cloud computing, smart grid and smart urban mobility.
+- **[Networked Systems and Platforms](/research/#applications)**: cloud computing, communication networks, smart grid and smart mobility.
 
-- **[Incentive-Aware Online Decision Makings](/research/#incentives)**: online mechanism design, incentive-aware online learning, and multi-agent reinforcement learning.
+- **[Incentive-Aware Decision Makings](/research/#incentives)**: online mechanism design, incentive-aware online learning, and multi-agent reinforcement learning. 

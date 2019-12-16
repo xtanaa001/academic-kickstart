@@ -17,7 +17,7 @@ title = "Networked Systems and Platforms"
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 2
+  count = 3
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -75,23 +75,22 @@ title = "Networked Systems and Platforms"
 
 My research centers around resource allocation and scheduling in networked systems and platforms, where self-interested agents may appear sequentially, interact and possibly pursue conflicting objectives in the presence of dynamics, ranging from network connectivity to resource availability. Typical examples of such systems include:
 
-### [Computer Networks](/tags/networking)
+### Cloud Computing
+
+Placing computing-intensive tasks at a centralized cloud has been proven not only efficient in the computational point of view, but also ecconomically. 
+
+### Communication Networks
 
 The computer and communication networks have 
 
 {{< figure library="true" src="network_routing.png" title="A caption" lightbox="true" >}}
 
-### [Cloud Computing](/tags/cloud-computing)
-
-Placing computing-intensive tasks at a centralized cloud has been proven not only efficient in the computational point of view, but also ecconomically. 
-
-
-### [Smart Grid](/tags/smart-grid)
+### Smart Grid
 
 The power grid is undergoing a dramatic transformation...
 
 
-### [Smart Mobility](/tags/networking)
+### Smart Mobility
 
 The power grid is undergoing a dramatic transformation...
 
