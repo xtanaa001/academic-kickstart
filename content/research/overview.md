@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear.
 
-title = "Research Overview"
+title = "Research Summary"
 # subtitle = "Online Optimization and Online Machine Learning"
 
 
