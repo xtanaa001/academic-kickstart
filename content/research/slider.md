@@ -3,7 +3,7 @@
 widget = "slider"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 1  # Order that this section will appear.
+weight = 2  # Order that this section will appear.
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
@@ -42,17 +42,25 @@ height = ""
 #  overlay_img = "algorithms.jpg"  # Image path relative to your `static/img/` folder.
 #  overlay_filter = 0.8  # Darken the image. Value in range 0-1.
 
+# [[item]]
+#  title = ""
+#  # content = "Online Algorithms, Mechanism Design and Machine Learning"
+#  align = "left"
+#  overlay_color = "#333"  # An HTML color value.
+#  overlay_img = "overview_slider.png"  # Image path relative to your `static/img/` folder.
+#  overlay_filter = 0 # Darken the image. Value in range 0-1.
+
 [[item]]
-  title = "**Incentive-Aware Decision Makings**"
-  # content = "Online Algorithms, Mechanism Design and Machine Learning"
+  title = "**Incentive-Aware Online Decision Makings**"
+  # content = "Online Algorithms, Mechanism Design, and Machine Learning"
   align = "center"
 
   overlay_color = "#333"  # An HTML color value.
   overlay_img = "algorithms.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.8 # Darken the image. Value in range 0-1.
 
-  [[item]]
-  title = "**Networked Systems and Platforms**"
+[[item]]
+  title = "**Optimization of Networked Systems and Platforms**"
   # content = "Communication Networks, Cloud Computing and Smart Grid"
   align = "center"  # Choose `center`, `left`, or `right`.
 
