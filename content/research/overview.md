@@ -96,4 +96,4 @@ Cloud Computing, Communication Networks, and Energy Systems.
 
 Online Mechanism Design, Incentive-Aware Online Learning, and Multi-Agent Reinforcement Learning. 
 
-{{< figure library="true" src="research_overview.png" title="" lightbox="true" >}} 
+{{< figure library="true" src="research_overview.png" title="" lightbox="false" >}} 
