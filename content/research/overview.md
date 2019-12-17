@@ -89,7 +89,7 @@ title = "Research Summary"
 
 ## [Networked Systems and Platforms](/research/#applications)
 
-Cloud Computing, Communication Networks, and Energy Systems.
+Computer Networks, Cloud Computing, and Energy Systems.
 
 
 ## [Incentive-Aware Decision Makings](/research/#incentives)

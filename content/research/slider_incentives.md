@@ -2,8 +2,8 @@
 # Slider widget.
 widget = "slider"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 9  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 19  # Order that this section will appear.
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
@@ -51,7 +51,7 @@ height = ""
 #  overlay_filter = 0 # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "**Networked Systems and Platforms**"
+  title = "**Incentive-Aware Decision Makings**"
   # content = "Computer Networks, Cloud Computing, Smart Grid, and Smart Mobility."
   align = "center"
 
@@ -60,8 +60,8 @@ height = ""
   overlay_filter = 0.8 # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "**Computer Networks**"
-  # content = "Online Algorithms, Mechanism Design, and Machine Learning"
+  title = "Online Mechanism Design"
+  # content = "Online Mechanism Design"
   align = "center"
 
   overlay_color = "#333"  # An HTML color value.
@@ -69,7 +69,7 @@ height = ""
   overlay_filter = 0.8 # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "**Cloud Computing**"
+  title = "Incentive-Aware Online Learning"
   # content = "Communication Networks, Cloud Computing and Smart Grid"
   align = "center"  # Choose `center`, `left`, or `right`.
 
@@ -80,7 +80,7 @@ height = ""
   overlay_filter = 0.7  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "**Energy Systems**"
+  title = "Multi-Agent Reinforcement Learning"
   # content = "Communication Networks, Cloud Computing and Smart Grid"
   align = "center"  # Choose `center`, `left`, or `right`.
 

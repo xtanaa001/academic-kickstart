@@ -26,8 +26,8 @@ interests:
   - Online Algorithms
   - Mechanism Design
   - Machine Learning
+  - Computer Networks
   - Cloud Computing
-  - Communication Networks
   - Energy Systems
 
 education:
@@ -100,10 +100,12 @@ email: ""
 # My research interests include [Online Algorithms](/tags/online-algorithms), [Mechanism Design](/tags/mechanism-design), and [Machine Learning](/tags/machine-learning), with their applications to 
 
 # [online algorithms](/tags/online-algorithms) and [market mechanisms](/tags/market-mechanisms). incentive-aligned systems  online algorithms and market mechanisms for the allocation of resources and services in the presence of self-interested users and uncertainty
+
+# in the presence of private data held by self-interested agents, with particular applications to computer networks, cloud computing, and energy systems. 
 ---
 
 I am currently a Postdoctoral Fellow at the Dept. of Electrical & Computer Engineering, [University of Toronto](http://someurl), hosted by Prof. [Alberto Leon-Garcia](https://www.nal.utoronto.ca/). 
 
 I received my Ph.D. degree in Electronic and Computer Engineering from [Hong Kong University of Science and Technology](https://www.ust.hk), advised by Prof. [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/). From Oct. 2015 to April 2016, I was also affiliated with the School of Engineering and Applied Science, [Harvard University](https://www.harvard.edu/), hosted by Prof. [Na (Lina) Li](https://nali.seas.harvard.edu/).
 
-I design [incentive-aware decisions](/research/#incentives) for the resource allocation and scheduling of  [networked systems and platforms](/research/#applications) in the presence of self-interested agents. The main application area of my research includes cloud computing, communication networks, and energy systems. 
+I design [incentive-aware decisions](/research/#incentives) for [networked systems and platforms](/research/#applications) in the presence of private data held by self-interested agents. My research is driven by applications in computer networks, cloud computing and energy systems. 

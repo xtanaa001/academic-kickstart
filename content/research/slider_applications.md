@@ -2,7 +2,7 @@
 # Slider widget.
 widget = "slider"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 9  # Order that this section will appear.
 
 # Slide interval.
@@ -60,7 +60,7 @@ height = ""
   overlay_filter = 0.8 # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "**Computer Networks**"
+  title = "Computer Networks"
   # content = "Online Algorithms, Mechanism Design, and Machine Learning"
   align = "center"
 
@@ -69,7 +69,7 @@ height = ""
   overlay_filter = 0.8 # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "**Cloud Computing**"
+  title = "Cloud Computing"
   # content = "Communication Networks, Cloud Computing and Smart Grid"
   align = "center"  # Choose `center`, `left`, or `right`.
 
@@ -80,7 +80,7 @@ height = ""
   overlay_filter = 0.7  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "**Energy Systems**"
+  title = "Energy Systems"
   # content = "Communication Networks, Cloud Computing and Smart Grid"
   align = "center"  # Choose `center`, `left`, or `right`.
 
