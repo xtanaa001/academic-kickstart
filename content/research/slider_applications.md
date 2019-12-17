@@ -66,7 +66,7 @@ height = ""
 
   overlay_color = "#333"  # An HTML color value.
   overlay_img = "networks.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.6 # Darken the image. Value in range 0-1.
+  overlay_filter = 0.7 # Darken the image. Value in range 0-1.
 
 [[item]]
   title = "Cloud Computing"
@@ -76,7 +76,7 @@ height = ""
   # Overlay a color or image (optional).
   # Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "networks.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "computing.jpeg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.7  # Darken the image. Value in range 0-1.
 
 [[item]]
@@ -87,6 +87,6 @@ height = ""
   # Overlay a color or image (optional).
   # Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "power_grid.png"  # Image path relative to your `static/img/` folder.
+  overlay_img = "power_grid.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.7  # Darken the image. Value in range 0-1.
 +++

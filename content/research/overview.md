@@ -92,7 +92,7 @@ title = "Research Summary"
 Computer Networks, Cloud Computing, and Energy Systems.
 
 
-## [Incentive-Aware Decision Makings](/research/#incentives)
+## [Incentive-Aware Decision-Makings](/research/#incentives)
 
 Online Mechanism Design, Incentive-Aware Online Learning, and Multi-Agent Reinforcement Learning. 
 

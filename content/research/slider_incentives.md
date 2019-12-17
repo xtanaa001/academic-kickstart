@@ -65,8 +65,8 @@ height = ""
   align = "center"
 
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = "algorithms.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.8 # Darken the image. Value in range 0-1.
+  overlay_img = "markets.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.75 # Darken the image. Value in range 0-1.
 
 [[item]]
   title = "Incentive-Aware Online Learning"
@@ -76,8 +76,8 @@ height = ""
   # Overlay a color or image (optional).
   # Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "markets.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.6  # Darken the image. Value in range 0-1.
+  overlay_img = "algorithms.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.75  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = "Multi-Agent Reinforcement Learning"
@@ -87,6 +87,6 @@ height = ""
   # Overlay a color or image (optional).
   # Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "networks.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "multiagent.jpeg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.7  # Darken the image. Value in range 0-1.
 +++
