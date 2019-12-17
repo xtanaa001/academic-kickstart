@@ -85,12 +85,7 @@ The computer and communication networks have
 
 {{< figure library="true" src="network_routing.png" title="A caption" lightbox="true" >}}
 
-## Smart Grid
-
-The power grid is undergoing a dramatic transformation...
-
-
-## Smart Mobility
+## Energy Systems
 
 The power grid is undergoing a dramatic transformation...
 
