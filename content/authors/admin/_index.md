@@ -108,4 +108,5 @@ I am currently a Postdoctoral Fellow at the Dept. of Electrical & Computer Engin
 
 I received my Ph.D. degree in Electronic and Computer Engineering from [Hong Kong University of Science and Technology](https://www.ust.hk), advised by Prof. [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/). From Oct. 2015 to April 2016, I was also affiliated with the School of Engineering and Applied Science, [Harvard University](https://www.harvard.edu/), hosted by Prof. [Na (Lina) Li](https://nali.seas.harvard.edu/).
 
-I design [incentive-aware decisions](/research/#incentives) for [networked systems and platforms](/research/#applications) in the presence of private data held by self-interested agents. My research is driven by applications in computer networks, cloud computing and energy systems. 
+
+My research is driven by problems in [networked systems and platforms](/research/#applications) such as  computer networks, cloud computing and energy systems.  I am most interested in designing [incentive-aware decisions](/research/#incentives) for such real-world networks and platforms in the presence of private data held by self-interested agents. 

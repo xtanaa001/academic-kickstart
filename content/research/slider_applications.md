@@ -50,23 +50,23 @@ height = ""
 #  overlay_img = "overview_slider.png"  # Image path relative to your `static/img/` folder.
 #  overlay_filter = 0 # Darken the image. Value in range 0-1.
 
-[[item]]
-  title = "**Networked Systems and Platforms**"
-  # content = "Computer Networks, Cloud Computing, Smart Grid, and Smart Mobility."
-  align = "center"
+# [[item]]
+#  title = "Networked Systems and Platforms"
+#  content = "Computer Networks"
+#  align = "center"
 
-  overlay_color = "#333"  # An HTML color value.
-  overlay_img = "algorithms.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.8 # Darken the image. Value in range 0-1.
+#  overlay_color = "#333"  # An HTML color value.
+#  overlay_img = "algorithms.jpg"  # Image path relative to your `static/img/` folder.
+#  overlay_filter = 0.8 # Darken the image. Value in range 0-1.
 
 [[item]]
   title = "Computer Networks"
-  # content = "Online Algorithms, Mechanism Design, and Machine Learning"
+  # content = "Computer Networks"
   align = "center"
 
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = "algorithms.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.8 # Darken the image. Value in range 0-1.
+  overlay_img = "networks.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.6 # Darken the image. Value in range 0-1.
 
 [[item]]
   title = "Cloud Computing"
@@ -87,6 +87,6 @@ height = ""
   # Overlay a color or image (optional).
   # Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "networks.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "power_grid.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.7  # Darken the image. Value in range 0-1.
 +++
