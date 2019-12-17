@@ -76,16 +76,16 @@ title = "Incentive-Aware Decision Makings"
 
 I study incentive-aware decision making based on online algorithms, mechanism design and machine learning. In particular, I focus on designing sequential decision making algorithms when there is no complete information of future. Moreover, such sequential decision making problems can be substaintially challenged if there exist multiple agents with self-interested behaviors. 
 
-### Online Mechanism Design
+## Online Mechanism Design
 Mechanism design is concerned about designing a protocol that can implement a game. Online mechanism design sits at the intersection between mechanism design and online algorithm, where decisions must be made in an online fashion with incomplete future information. Posted-Price Mechanisms. 
 
-### Incentive-Aware Online Learning
+## Incentive-Aware Online Learning
 Mechanism design is concerned about designing a protocol that can implement a game. Online mechanism design sits at the intersection between mechanism design and online algorithm, where decisions must be made in an online fashion with incomplete future information. 
 
-### Multi-Agent Reinforcement Learning
+## Multi-Agent Reinforcement Learning
 Reinforcement learning is concerned about making sequential decisions under uncertainty based on the theory of Markov Decision Process. For 
 
 {{< figure library="true" src="competitive_ratio.png" title="Achieveable regions of competitive ratios of the proposed online algorithm under three cases" lightbox="true" >}}
 
 
-## Recent Publications:
+### Recent Publications

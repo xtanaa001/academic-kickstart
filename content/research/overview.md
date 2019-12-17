@@ -87,9 +87,13 @@ title = "Research Summary"
 # Recent Publications: My research centers around designing incentive-aware decisions for the resource allocation and scheduling of networked systems and platforms, where self-interested agents may appear sequentially, interact and possibly pursue conflicting objectives.
 +++
 
-- **[Networked Systems and Platforms](/research/#applications)**: cloud computing, communication networks, smart grid and smart mobility.
+## [Networked Systems and Platforms](/research/#applications)
+
+Cloud Computing, Communication Networks, Smart Grid and Smart Mobility.
 
 
-- **[Incentive-Aware Decision Makings](/research/#incentives)**: online mechanism design, incentive-aware online learning, and multi-agent reinforcement learning. 
+## [Incentive-Aware Decision Makings](/research/#incentives)
+
+Online Mechanism Design, Incentive-Aware Online Learning, and Multi-Agent Reinforcement Learning. 
 
 {{< figure library="true" src="research_overview.png" title="" lightbox="true" >}} 
