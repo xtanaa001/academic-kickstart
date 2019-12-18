@@ -61,7 +61,7 @@ height = ""
 
 [[item]]
   title = "Online Mechanism Design"
-  # content = "Online Mechanism Design"
+  content = "## Incentive-Aware Decision-Making under Uncertainty"
   align = "center"
 
   overlay_color = "#333"  # An HTML color value.
