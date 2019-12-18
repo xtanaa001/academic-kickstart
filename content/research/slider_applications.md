@@ -61,7 +61,7 @@ height = ""
 
 [[item]]
   title = "Computer Networks"
-  # content = "Computer Networks"
+  content = "## Network Slicing and Network Function Virtualization"
   align = "center"
 
   overlay_color = "#333"  # An HTML color value.
@@ -70,7 +70,7 @@ height = ""
 
 [[item]]
   title = "Cloud Computing"
-  # content = "Communication Networks, Cloud Computing and Smart Grid"
+  content = "## Resource Allocation and Pricing for the Clouds"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -81,7 +81,7 @@ height = ""
 
 [[item]]
   title = "Energy Systems"
-  # content = "Communication Networks, Cloud Computing and Smart Grid"
+  content = "## Transactive Control of Distributed Energy Resources"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
