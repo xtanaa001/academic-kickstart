@@ -4,7 +4,7 @@
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 5  # Order that this section will appear.
 
 title = "Research Summary"
@@ -98,4 +98,4 @@ I study the interplay between mechanism design, online algorithms, and machine l
 
 ## [Networked Systems, Platforms, and Markets](/research/#slider_applications)
 
-I focus on optimization problems in computer networks, cloud computing and energy systems in the presence of private data held by self-interested agents.
+I work on applications in networked systems such as computer networks, cloud computing and energy systems. I am most excited by problems where theories of online decision-making and incentives provide useful insight for the design of real platforms and markets.

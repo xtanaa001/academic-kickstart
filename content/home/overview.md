@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Online Decision-Making and Incentives"
-# subtitle = "Online Algorithms, Mechanism Design and Machine Learning"
+title = "Research Summary"
+# subtitle = "Online Optimization and Online Machine Learning"
 
 
 
@@ -17,7 +17,7 @@ title = "Online Decision-Making and Incentives"
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 2
+  count = 4
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -27,7 +27,7 @@ title = "Online Decision-Making and Incentives"
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = "incentives"
+    tag = "NA"
     category = ""
     publication_type = ""
     exclude_featured = false
@@ -48,7 +48,7 @@ title = "Online Decision-Making and Incentives"
   #   Any HTML color name or Hex value is valid.
     
   # Background color.
-  color = "white"
+  # color = "navy"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
@@ -72,19 +72,33 @@ title = "Online Decision-Making and Incentives"
 # Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 # {{% /alert %}}
 
-# ## Online Optimization
-# Reinforcement learning is concerned about making sequential decisions under uncertainty based on the theory of Markov Decision Process. For 
+# - **Optimization of Networked Systems and Platforms**
+#  - Computer Networks
+#  - Cloud Computing
+#  - Smart Grid
+#  - Smart Mobility
+# - **Algorithms for Incentive-Aware Online Decision Makings**
+#  - Mechanism Design
+#  - Online Algorithms
+#  - Machine Learning
+
+# I design incentive-aware online decisions for the optimization of networked systems and platforms in the presence of self-interested agents and dynamics. 
+
+# Recent Publications: My research centers around designing incentive-aware decisions for the resource allocation and scheduling of networked systems and platforms, where self-interested agents may appear sequentially, interact and possibly pursue conflicting objectives.
+
+# I study the interplay between mechanism design, machine learning and online algorithms, with a focus on applications in networked systems and markets.
+
+# {{< figure library="true" src="research_overview.png" title="" lightbox="false" >}} 
 +++
 
 
-I study incentive-aware decision making based on online algorithms, mechanism design and machine learning. In particular, I focus on designing sequential decision making algorithms when there is no complete information of future. Moreover, such sequential decision making problems can be substaintially challenged if there exist multiple agents with self-interested behaviors. 
+## [Online Decision-Making and Incentives](/research/#slider_incentives)
 
-## Online Mechanism Design
-Mechanism design is concerned about designing a protocol that can implement a game. Online mechanism design sits at the intersection between mechanism design and online algorithm, where decisions must be made in an online fashion with incomplete future information. Posted-Price Mechanisms. 
+I study the interplay between online algorithms, mechanism design, and machine learning.  Current topics include online mechanism design and online learning. 
 
-## Online Learning
-Mechanism design is concerned about designing a protocol that can implement a game. Online mechanism design sits at the intersection between mechanism design and online algorithm, where decisions must be made in an online fashion with incomplete future information. 
+## [Networked Systems, Platforms, and Markets](/research/#slider_applications)
 
-{{< figure library="true" src="competitive_ratio.png" title="Achieveable regions of competitive ratios of the proposed online algorithm under three cases" lightbox="true" >}}
+I work on applications in networked systems such as computer networks, cloud computing and energy systems. I am most excited by problems where theories of online decision-making and incentives provide useful insight for the design of real platforms and markets.
 
-### Recent Publications
+
+

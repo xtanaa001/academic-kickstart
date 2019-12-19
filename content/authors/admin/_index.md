@@ -104,11 +104,10 @@ email: ""
 # in the presence of private data held by self-interested agents, with particular applications to computer networks, cloud computing, and energy systems. 
 
 # In particular, I am most excited by problems where sequential decisions must be made in an online fashion  in the presence of private data held by self-interested agents. In particular, I am most excited by problems where sequential decisions must be made in an online fashion in the presence of private data held by self-interested agents.
+
+# I work on problems at the intersection of [online decision-making and incentives](/research/#slider_incentives), with a focus on applications in [networked systems, platforms and markets](/research/#slider_applications) (e.g., computer networks, cloud computing and energy systems).
 ---
 
 I am currently a Postdoctoral Fellow at the Dept. of Electrical & Computer Engineering, [University of Toronto](http://someurl), hosted by Prof. [Alberto Leon-Garcia](https://www.nal.utoronto.ca/). 
 
 I received my Ph.D. degree in Electronic and Computer Engineering from [Hong Kong University of Science and Technology](https://www.ust.hk), advised by Prof. [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/). From Oct. 2015 to April 2016, I was also affiliated with the School of Engineering and Applied Science, [Harvard University](https://www.harvard.edu/), hosted by Prof. [Na (Lina) Li](https://nali.seas.harvard.edu/).
-
-
-I work on problems at the intersection of [online decision-making and incentives](/research/#slider_incentives), with a focus on applications in [networked systems, platforms and markets](/research/#slider_applications) (e.g., computer networks, cloud computing and energy systems).
