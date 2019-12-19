@@ -94,10 +94,10 @@ title = "Research Summary"
 
 ## [Online Decision-Making and Incentives](/research/#slider_incentives)
 
-I am interested in understanding the interplay between online algorithms, mechanism design, and machine learning.  Current topics include online mechanism design and online learning. 
+I am interested in understanding the interplay between mechanism design, online algorithms,  and machine learning.  Current topics include online mechanism design and online learning. 
 
 ## [Networked Systems, Platforms, and Markets](/research/#slider_applications)
 
-I develop resource allocation and scheduling decisions for networked systems such as computer networks, cloud computing and energy systems. I am most excited by problems where theory provides useful insight for the design of real platforms and markets.
+I develop resource allocation and scheduling mechanisms for computer networks, cloud computing and energy systems. In particular, I am most excited by problems where theory provides useful insight for the design of real platforms and markets.
 
 
