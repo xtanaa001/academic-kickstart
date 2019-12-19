@@ -27,7 +27,7 @@ title = "Energy Systems"
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
+    tag = "NA"
     category = ""
     publication_type = ""
     exclude_featured = false
@@ -86,5 +86,3 @@ The power grid is undergoing a dramatic transformation...
 The power grid is undergoing a dramatic transformation...
 
 {{< figure library="true" src="three_layer_smart_cities.png" title="A caption" lightbox="true" >}}
-
-### Recent Publications

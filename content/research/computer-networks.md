@@ -27,7 +27,7 @@ title = "Computer Networks"
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = "communication networks"
+    tag = "NA"
     category = ""
     publication_type = ""
     exclude_featured = false
@@ -71,6 +71,10 @@ title = "Computer Networks"
 # {{% alert note %}} 
 # Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 # {{% /alert %}}
+
+# {{< figure library="true" src="network_routing.png" title="A caption" lightbox="true" >}}
+
+# ## Recent Publications
 +++
 
 My research centers around resource allocation and scheduling in networked systems and platforms, where self-interested agents may appear sequentially, interact and possibly pursue conflicting objectives in the presence of dynamics, ranging from network connectivity to resource availability. Typical examples of such systems include:
@@ -79,11 +83,7 @@ My research centers around resource allocation and scheduling in networked syste
 
 The computer and communication networks have 
 
-{{< figure library="true" src="network_routing.png" title="A caption" lightbox="true" >}}
 
 ## Network Utility Maximization
 
 The computer and communication networks have 
-
-
-### Recent Publications

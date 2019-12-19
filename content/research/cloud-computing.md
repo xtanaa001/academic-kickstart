@@ -27,7 +27,7 @@ title = "Cloud Computing"
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
+    tag = "NA"
     category = ""
     publication_type = ""
     exclude_featured = false
@@ -76,5 +76,3 @@ title = "Cloud Computing"
 My research centers around resource allocation and scheduling in networked systems and platforms, where self-interested agents may appear sequentially, interact and possibly pursue conflicting objectives in the presence of dynamics, ranging from network connectivity to resource availability. Typical examples of such systems include:
 
 The computer and communication networks have 
-
-### Recent Publications

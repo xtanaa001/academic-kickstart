@@ -27,7 +27,7 @@ title = "Online Mechanism Design"
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = "incentives"
+    tag = "NA"
     category = ""
     publication_type = ""
     exclude_featured = false
@@ -76,6 +76,8 @@ title = "Online Mechanism Design"
 # Reinforcement learning is concerned about making sequential decisions under uncertainty based on the theory of Markov Decision Process. For 
 
 # {{< figure library="true" src="competitive_ratio.png" title="Achieveable regions of competitive ratios of the proposed online algorithm under three cases" lightbox="true" >}}
+
+# ## Recent Publications
 +++
 
 
@@ -84,7 +86,13 @@ I study incentive-aware decision making based on online algorithms, mechanism de
 ## Posted-Price Mechanisms
 Mechanism design is concerned about designing a protocol that can implement a game. Online mechanism design sits at the intersection between mechanism design and online algorithm, where decisions must be made in an online fashion with incomplete future information. Posted-Price Mechanisms. 
 
-## Online Combinatorial Auctions
-Mechanism design is concerned about designing a protocol that can implement a game. Online mechanism design sits at the intersection between mechanism design and online algorithm, where decisions must be made in an online fashion with incomplete future information. 
+$$
+\begin{cases}
+\Phi(x) = \frac{\Phi(x) - f'(x)}{f'^{-1}(\Phi(x))}\\\\\
+\\\\\
+\Phi(0) = 0, \Phi(1)\geq \bar{p}.
+\end{cases}
+$$
 
-### Recent Publications
+## Online Combinatorial Auctions
+Mechanism design is concerned about designing a protocol that can implement a game. Online mechanism design sits at the intersection between mechanism design and online algorithm, where decisions must be made in an online fashion with incomplete future information.

@@ -27,7 +27,7 @@ title = "Online Learning"
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = "incentives"
+    tag = "NA"
     category = ""
     publication_type = ""
     exclude_featured = false
@@ -76,6 +76,8 @@ title = "Online Learning"
 # Reinforcement learning is concerned about making sequential decisions under uncertainty based on the theory of Markov Decision Process. For 
 
 # {{< figure library="true" src="competitive_ratio.png" title="Achieveable regions of competitive ratios of the proposed online algorithm under three cases" lightbox="true" >}}
+
+# ### Recent Publications
 +++
 
 
@@ -86,5 +88,3 @@ Mechanism design is concerned about designing a protocol that can implement a ga
 
 ## Auctions via Online Learning
 Mechanism design is concerned about designing a protocol that can implement a game. Online mechanism design sits at the intersection between mechanism design and online algorithm, where decisions must be made in an online fashion with incomplete future information.
-
-### Recent Publications

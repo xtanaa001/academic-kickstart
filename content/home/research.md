@@ -89,15 +89,16 @@ subtitle = "[Description by Topics >>](/research)"
 # I study the interplay between mechanism design, machine learning and online algorithms, with a focus on applications in networked systems and markets.
 
 # {{< figure library="true" src="research_overview.png" title="" lightbox="false" >}} 
+
+# ### Online Decision-Making and Incentives
+# ### Networked Systems, Platforms, and Markets
+
+# emerging from **Networked Systems, Platforms, and Markets**. I am most excited by problems
+
 +++
 
+I study **Online Decision-Making and Incentives**, and focus on understanding the interplay between mechanism design, online algorithms, and machine learning.  Current topics include [online mechanism design](/research/#online-mechanism-design) and [online learning](/research/#online-learning).
 
-### Online Decision-Making and Incentives
-
-I study the interplay between online algorithms, mechanism design, and machine learning.  Current topics of interest include [online mechanism design](/research/#online-mechanism-design) and [online learning](/research/#online-learning). 
-
-### Networked Systems, Platforms, and Markets
-
-I am interested in problems where theory provides rich insight into the design of platforms and markets in networked systems such as [computer networks](/research/#computer-networks), [cloud computing](/research/#cloud-computing) and [energy systems](/research/#energy-systems).
+I am also interested in problems emerging from **Networked Systems** where the interaction between incentives, learning and algorithms provides rich insight into the design of real platforms and markets for adaptive resource allocation. Current applications include [computer networks](/research/#computer-networks), [cloud computing](/research/#cloud-computing) and [energy systems](/research/#energy-systems).
 
 
