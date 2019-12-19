@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Research Summary"
+title = "Research"
 subtitle = "[Description by Topics >>](/research)"
 
 
@@ -94,10 +94,10 @@ subtitle = "[Description by Topics >>](/research)"
 
 ## Online Decision-Making and Incentives
 
-I study the interplay between online algorithms, mechanism design,  and machine learning.  Current topics include online mechanism design and online learning. 
+I study the interplay between online algorithms, mechanism design, and machine learning.  Current topics of interest include online mechanism design and online learning. 
 
 ## Networked Systems, Platforms, and Markets
 
-I develop resource allocation and scheduling mechanisms for computer networks, cloud computing and energy systems. In particular, I am most excited by problems where theory provides useful insight for the design of real platforms and markets.
+I work on problems where theory provides useful insight for the design of platforms and markets in computer networks, cloud computing and energy systems.
 
 
