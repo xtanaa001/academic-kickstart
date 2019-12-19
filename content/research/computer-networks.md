@@ -5,7 +5,7 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 50  # Order that this section will appear.
 
 title = "Computer Networks"
 # subtitle = "Computer Networks, Cloud Computing, Smart Grid and Smart Mobility"
@@ -79,11 +79,11 @@ title = "Computer Networks"
 
 My research centers around resource allocation and scheduling in networked systems and platforms, where self-interested agents may appear sequentially, interact and possibly pursue conflicting objectives in the presence of dynamics, ranging from network connectivity to resource availability. Typical examples of such systems include:
 
-## Network Function Virtualization
+### Network Function Virtualization
 
 The computer and communication networks have 
 
 
-## Network Utility Maximization
+### Network Utility Maximization
 
 The computer and communication networks have 

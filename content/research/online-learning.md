@@ -5,11 +5,10 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 11  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 title = "Online Learning"
 # subtitle = "Online Algorithms, Mechanism Design and Machine Learning"
-
 
 
 [content]
@@ -48,7 +47,7 @@ title = "Online Learning"
   #   Any HTML color name or Hex value is valid.
     
   # Background color.
-  color = "white"
+  # color = "white"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
@@ -83,8 +82,8 @@ title = "Online Learning"
 
 I study incentive-aware decision making based on online algorithms, mechanism design and machine learning. In particular, I focus on designing sequential decision making algorithms when there is no complete information of future. Moreover, such sequential decision making problems can be substaintially challenged if there exist multiple agents with self-interested behaviors. 
 
-## Multi-Armed Bandit
+### Multi-Armed Bandit
 Mechanism design is concerned about designing a protocol that can implement a game. Online mechanism design sits at the intersection between mechanism design and online algorithm, where decisions must be made in an online fashion with incomplete future information. Posted-Price Mechanisms. 
 
-## Auctions via Online Learning
+### Auctions via Online Learning
 Mechanism design is concerned about designing a protocol that can implement a game. Online mechanism design sits at the intersection between mechanism design and online algorithm, where decisions must be made in an online fashion with incomplete future information.

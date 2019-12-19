@@ -3,7 +3,7 @@
 widget = "slider"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 19  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
@@ -60,7 +60,7 @@ height = ""
 #  overlay_filter = 0.8 # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "# **Computer Networks**"
+  title = "Computer Networks"
   # content = "## Network Slicing and Network Function Virtualization"
   align = "center"
 
@@ -69,7 +69,7 @@ height = ""
   overlay_filter = 0.7 # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "# **Cloud Computing**"
+  title = "Cloud Computing"
   # content = "## Resource Allocation and Pricing for the Clouds"
   align = "center"  # Choose `center`, `left`, or `right`.
 
@@ -80,7 +80,7 @@ height = ""
   overlay_filter = 0.7  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "# **Data Markets**"
+  title = "Data Markets"
   # content = "## Market Design for Data Trading Platforms"  
   align = "center"  # Choose `center`, `left`, or `right`.
   # Transactive Control of Distributed Energy Resources
@@ -93,7 +93,7 @@ height = ""
 
 
 [[item]]
-  title = "# **Energy Systems**"
+  title = "Energy Systems"
   # content = "## Sustainable Energy and Mobility Future in Cities "  
   align = "center"  # Choose `center`, `left`, or `right`.
   # Transactive Control of Distributed Energy Resources

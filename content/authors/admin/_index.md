@@ -22,22 +22,22 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-  - Online Algorithms
-  - Mechanism Design
-  - Machine Learning
-  - Computer Networks
-  - Cloud Computing
-  - Energy Systems
+# interests:
+#  - Online Algorithms
+#  - Mechanism Design
+#  - Machine Learning
+#  - Computer Networks
+#  - Cloud Computing
+#  - Energy Systems
 
-education:
-  courses:
-  - course: Ph.D. in Electronic and Computer Engineering
-    institution: Hong Kong University of Science and Technology
-    year: 2012/09-2018/01
-  - course: B.Eng. in Information and Communication Engineering
-    institution: Xi'an Jiaotong University
-    year: 2008/09-2012/06
+# education:
+#  courses:
+#  - course: Ph.D. in Electronic and Computer Engineering
+#    institution: Hong Kong University of Science and Technology
+#    year: 2012/09-2018/01
+#  - course: B.Eng. in Information and Communication Engineering
+#    institution: Xi'an Jiaotong University
+#    year: 2008/09-2012/06
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -110,4 +110,9 @@ email: ""
 
 I am currently a Postdoctoral Fellow at the Dept. of Electrical & Computer Engineering, [University of Toronto](http://someurl), hosted by Prof. [Alberto Leon-Garcia](https://www.nal.utoronto.ca/). 
 
-I received my Ph.D. degree in Electronic and Computer Engineering from [Hong Kong University of Science and Technology](https://www.ust.hk), advised by Prof. [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/). From Oct. 2015 to April 2016, I was also affiliated with the School of Engineering and Applied Science, [Harvard University](https://www.harvard.edu/), hosted by Prof. [Na (Lina) Li](https://nali.seas.harvard.edu/).
+I received my Ph.D. degree in Electronic and Computer Engineering from [Hong Kong University of Science and Technology](https://www.ust.hk) in 2018, advised by Prof. [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/). From Oct. 2015 to April 2016, I was also affiliated with the School of Engineering and Applied Science, [Harvard University](https://www.harvard.edu/), hosted by Prof. [Na (Lina) Li](https://nali.seas.harvard.edu/).
+
+
+I study **Online Decision-Making and Incentives**, and focus on understanding the interplay between mechanism design, online algorithms, and machine learning.  Current topics of interest include [Online Mechanism Design](/research/#online-mechanism-design) and [Online Learning](/research/#online-learning).
+
+I am also interested in applications where the interaction between incentives, learning and algorithms provides rich insight into the design of real platforms and markets for **Networked Systems** such as [Computer Networks](/research/#computer-networks), [Cloud Computing](/research/#cloud-computing) and [Energy Systems](/research/#energy-systems).
