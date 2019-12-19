@@ -1,5 +1,5 @@
 ---
-title: "Value-based Admission Control and Network Routing: Online Algorithms, Dynamic Link Metrics and Bounded Efficiency Loss"
+title: "An Online Algorithm for Value-based Network Routing: Dynamic Link Metrics and Bounded Efficiency Loss"
 authors:
  - "**Xiaoqi Tan**"
  - Alberto Leon-Garcia
@@ -29,7 +29,7 @@ abstract: This paper is concerned about designing dynamic link metrics for onlin
 
 # tags:
 # - Source Themes
-featured: false
+featured: true
 
 links:
  - name: "arXiv"
