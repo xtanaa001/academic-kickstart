@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
 title = "Research Summary"
-# subtitle = "Online Optimization and Online Machine Learning"
+subtitle = "[Description by Topics >>](/research)"
 
 
 
@@ -92,11 +92,11 @@ title = "Research Summary"
 +++
 
 
-## [Online Decision-Making and Incentives](/research/#slider_incentives)
+## Online Decision-Making and Incentives
 
-I am interested in understanding the interplay between mechanism design, online algorithms,  and machine learning.  Current topics include online mechanism design and online learning. 
+I study the interplay between online algorithms, mechanism design,  and machine learning.  Current topics include online mechanism design and online learning. 
 
-## [Networked Systems, Platforms, and Markets](/research/#slider_applications)
+## Networked Systems, Platforms, and Markets
 
 I develop resource allocation and scheduling mechanisms for computer networks, cloud computing and energy systems. In particular, I am most excited by problems where theory provides useful insight for the design of real platforms and markets.
 
