@@ -1,25 +1,52 @@
 +++
-# A Skills section created with the Featurette widget.
-widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
+# A Recent Publications section created with the Pages widget.
+# This section displays recent blog posts from `content/publication/`.
+
+widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 11  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 10  # Order that this section will appear.
 
 title = "Research Summary"
-subtitle = ""
+# subtitle = "Online Optimization and Online Machine Learning"
 
-# Showcase personal skills or business features.
-# 
-# Add/remove as many `[[feature]]` blocks below as you like.
-# 
-# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
+
+[content]
+  # Page type to display. E.g. post, talk, or publication.
+  page_type = "publication"
+  
+  # Choose how much pages you would like to display (0 = all pages)
+  count = 4
+  
+  # Choose how many pages you would like to offset by
+  offset = 0
+
+  # Page order. Descending (desc) or ascending (asc) date.
+  order = "desc"
+
+  # Filter posts by a taxonomy term.
+  [content.filters]
+    tag = "NA"
+    category = ""
+    publication_type = ""
+    exclude_featured = false
+  
+  
+[design]
+  # Toggle between the various page layout types.
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   4 = Citation (publication only)
+  view = 4
+  
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
   #   Any HTML color name or Hex value is valid.
-
+    
   # Background color.
   # color = "navy"
   
@@ -33,50 +60,44 @@ subtitle = ""
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
-
-[[feature]]
-  icon = "project-diagram"
-  icon_pack = "fas"
-  name = "Networks"
-  description = "I study how communication and energy networks cope with challenges emerging from dynamic and on-demand service requests."
-
-
- # I study how [networking](/tags/networking/), [cloud/edge computing](/tags/cloud/edge-computing/) and [smart grid](/tags/smart-grid/) cope with challenges emerging from dynamic and self-interested user behaviors.
-
- # Networks in the face of changing and possibly unpredictable and strategic environments
- # My research is application driven and centers on communication and energy networks
- # ranging from changing user behaviors to network connectivity and resource availability
- # Communication and Energy Networks.
- # Modeling, analysis and optimization of networks, with particular applications to
- # communication and energy networks. e.g., wireless networks, cloud/edge computing and smart grid.   . (communication and energy networks in particular) in the face of dynamics, ranging from changing user behaviors to network connectivity and resource availability My research aims to optimize the design and operation of 
- # ranging from changing user behaviors to network connectivity and resource availability
   
-[[feature]]
-  icon = "subscript"
-  icon_pack = "fas"
-  name = "Algorithms"
-  description = "I specialize in the design and analysis of online/distributed algorithms for the optimization of networked systems with multiple agents."
+[advanced]
+ # Custom CSS. 
+ css_style = ""
+ 
+ # CSS class.
+ css_class = ""
+ 
+# {{% alert note %}} 
+# Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+# {{% /alert %}}
 
-#  problems that decisions must be made sequentially based on a piece-by-piece input
-# for efficient decision making in the face of dynamics and uncertain future information
-# in the face of dynamics,  I develop online and distributed algorithms for network optimization in the face of dynamics, ranging from changing user behaviors to network connectivity and resource availability
-# I develop online and distributed algorithms for network optimization  ranging from changing user behaviors to network connectivity and resource availability in the face of dynamics, ranging from changing user behaviors to network connectivity and resource availability
-# I develop online and distributed algorithms for network optimization in the face of dynamics, ranging from changing user behaviors to network connectivity and resource availability
-# ranging from changing user behaviors to network connectivity and resource availability
-#  (e.g., online algorithms) based on tools from optimization, machine learning and stochastic models I  and develop 
-#  My research features 
-  
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Incentives"
-  description = "I develop incentive-aware algorithms for adaptive resource allocation and pricing  based on algorithmic game theory and mechanism design."
+# - **Optimization of Networked Systems and Platforms**
+#  - Computer Networks
+#  - Cloud Computing
+#  - Smart Grid
+#  - Smart Mobility
+# - **Algorithms for Incentive-Aware Online Decision Makings**
+#  - Mechanism Design
+#  - Online Algorithms
+#  - Machine Learning
 
-# I design computationally-efficient economic mechanisms for resource allocation and pricing
-# algorithmic game theory/mechanism design for  for resource allocation with strategic user behaviors.
-# Design of economic mechanisms for resource allocation with strategic user behaviors.
-# the intersection between economics and computation
-# My research features algorithmic and economic aspects of networks, with major focus on communication and energy networks.
+# I design incentive-aware online decisions for the optimization of networked systems and platforms in the presence of self-interested agents and dynamics. 
 
-# [Click here to have a graphical view of my research summary.](/img/hero-academic.png)
+# Recent Publications: My research centers around designing incentive-aware decisions for the resource allocation and scheduling of networked systems and platforms, where self-interested agents may appear sequentially, interact and possibly pursue conflicting objectives.
+
+# I study the interplay between mechanism design, machine learning and online algorithms, with a focus on applications in networked systems and markets.
+
+# {{< figure library="true" src="research_overview.png" title="" lightbox="false" >}} 
 +++
+
+
+## [Online Decision-Making and Incentives](/research/#slider_incentives)
+
+I am interested in understanding the interplay between online algorithms, mechanism design, and machine learning.  Current topics include online mechanism design and online learning. 
+
+## [Networked Systems, Platforms, and Markets](/research/#slider_applications)
+
+I develop resource allocation and scheduling decisions for networked systems such as computer networks, cloud computing and energy systems. I am most excited by problems where theory provides useful insight for the design of real platforms and markets.
+
+
