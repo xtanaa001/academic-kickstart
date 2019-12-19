@@ -85,15 +85,17 @@ title = "Research Summary"
 # I design incentive-aware online decisions for the optimization of networked systems and platforms in the presence of self-interested agents and dynamics. 
 
 # Recent Publications: My research centers around designing incentive-aware decisions for the resource allocation and scheduling of networked systems and platforms, where self-interested agents may appear sequentially, interact and possibly pursue conflicting objectives.
+
+# I study the interplay between mechanism design, machine learning and online algorithms, with a focus on applications in networked systems and markets.
+
+# {{< figure library="true" src="research_overview.png" title="" lightbox="false" >}} 
 +++
 
-## [Networked Systems and Platforms](/research/#applications)
 
-Computer Networks, Cloud Computing, and Energy Systems.
+## [Online Decision-Making and Incentives](/research/#slider_incentives)
 
+I study the interplay between mechanism design, online algorithms, and machine learning.  Current topics include online mechanism design and online learning. 
 
-## [Incentive-Aware Decision-Makings](/research/#incentives)
+## [Networked Systems, Platforms, and Markets](/research/#slider_applications)
 
-Online Mechanism Design, Incentive-Aware Online Learning, and Multi-Agent Reinforcement Learning. 
-
-{{< figure library="true" src="research_overview.png" title="" lightbox="false" >}} 
+I focus on optimization problems in computer networks, cloud computing and energy systems in the presence of private data held by self-interested agents.

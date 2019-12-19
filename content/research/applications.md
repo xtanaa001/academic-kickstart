@@ -5,9 +5,9 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
-title = "Networked Systems and Platforms"
+title = "Networked Systems, Platforms, and Markets"
 # subtitle = "Computer Networks, Cloud Computing, Smart Grid and Smart Mobility"
 
 
@@ -85,7 +85,11 @@ The computer and communication networks have
 
 Placing computing-intensive tasks at a centralized cloud has been proven not only efficient in the computational point of view, but also ecconomically. 
 
-## Energy Systems
+## Data Markets
+
+The power grid is undergoing a dramatic transformation...
+
+## Smart Cities
 
 The power grid is undergoing a dramatic transformation...
 

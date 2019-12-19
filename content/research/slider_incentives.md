@@ -3,7 +3,7 @@
 widget = "slider"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 19  # Order that this section will appear.
+weight = 9  # Order that this section will appear.
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
@@ -61,7 +61,7 @@ height = ""
 
 [[item]]
   title = "Online Mechanism Design"
-  content = "## Incentive-Aware Decision-Making under Uncertainty"
+  content = "## Incentives + Online Algorithms + Competitive Analysis"
   align = "center"
 
   overlay_color = "#333"  # An HTML color value.
@@ -69,8 +69,8 @@ height = ""
   overlay_filter = 0.75 # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Incentive-Aware Online Learning"
-  # content = "Communication Networks, Cloud Computing and Smart Grid"
+  title = "Online Learning"
+  content = "## Data  + Machine Learning + Online Algorithms"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -79,14 +79,14 @@ height = ""
   overlay_img = "algorithms.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.75  # Darken the image. Value in range 0-1.
 
-[[item]]
-  title = "Multi-Agent Reinforcement Learning"
-  # content = "Communication Networks, Cloud Computing and Smart Grid"
-  align = "center"  # Choose `center`, `left`, or `right`.
+# [[item]]
+#  title = "Online Reinforcement Learning"
+#  # content = "Communication Networks, Cloud Computing and Smart Grid"
+#  align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   # Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
-  overlay_img = "multiagent.jpeg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.7  # Darken the image. Value in range 0-1.
+#  overlay_color = "#666"  # An HTML color value.
+#  overlay_img = "multiagent.jpeg"  # Image path relative to your `static/img/` folder.
+#  overlay_filter = 0.7  # Darken the image. Value in range 0-1.
 +++

@@ -3,7 +3,7 @@
 widget = "slider"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 9  # Order that this section will appear.
+weight = 19  # Order that this section will appear.
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
@@ -80,9 +80,23 @@ height = ""
   overlay_filter = 0.7  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Energy Systems"
-  content = "## Transactive Control of Distributed Energy Resources"
+  title = "Data Markets"
+  content = "## Market Design for Data Trading Platforms"  
   align = "center"  # Choose `center`, `left`, or `right`.
+  # Transactive Control of Distributed Energy Resources
+
+  # Overlay a color or image (optional).
+  # Deactivate an option by commenting out the line, prefixing it with `#`.
+  overlay_color = "#666"  # An HTML color value.
+  overlay_img = "power_grid.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.7  # Darken the image. Value in range 0-1.
+
+
+[[item]]
+  title = "Smart Cities"
+  content = "## Sustainable Energy and Mobility Future in Cities "  
+  align = "center"  # Choose `center`, `left`, or `right`.
+  # Transactive Control of Distributed Energy Resources
 
   # Overlay a color or image (optional).
   # Deactivate an option by commenting out the line, prefixing it with `#`.

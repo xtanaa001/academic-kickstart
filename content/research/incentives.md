@@ -5,9 +5,9 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 10  # Order that this section will appear.
 
-title = "Incentive-Aware Decision-Makings"
+title = "Online Decision-Making and Incentives"
 # subtitle = "Online Algorithms, Mechanism Design and Machine Learning"
 
 
@@ -71,6 +71,9 @@ title = "Incentive-Aware Decision-Makings"
 # {{% alert note %}} 
 # Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 # {{% /alert %}}
+
+# ## Online Optimization
+# Reinforcement learning is concerned about making sequential decisions under uncertainty based on the theory of Markov Decision Process. For 
 +++
 
 
@@ -79,13 +82,9 @@ I study incentive-aware decision making based on online algorithms, mechanism de
 ## Online Mechanism Design
 Mechanism design is concerned about designing a protocol that can implement a game. Online mechanism design sits at the intersection between mechanism design and online algorithm, where decisions must be made in an online fashion with incomplete future information. Posted-Price Mechanisms. 
 
-## Incentive-Aware Online Learning
+## Online Learning
 Mechanism design is concerned about designing a protocol that can implement a game. Online mechanism design sits at the intersection between mechanism design and online algorithm, where decisions must be made in an online fashion with incomplete future information. 
 
-## Multi-Agent Reinforcement Learning
-Reinforcement learning is concerned about making sequential decisions under uncertainty based on the theory of Markov Decision Process. For 
-
 {{< figure library="true" src="competitive_ratio.png" title="Achieveable regions of competitive ratios of the proposed online algorithm under three cases" lightbox="true" >}}
-
 
 ### Recent Publications
