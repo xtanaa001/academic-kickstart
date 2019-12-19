@@ -1,5 +1,5 @@
 ---
-title: "Market Design for Data Trading with Network Constraints"
+title: "Incentive-Aware Learning for Data-Trading Platforms with Network Constraints"
 authors:
  - "**Xiaoqi Tan**"
  - Alberto Leon-Garcia
