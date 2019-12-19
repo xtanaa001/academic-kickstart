@@ -92,12 +92,12 @@ subtitle = "[Description by Topics >>](/research)"
 +++
 
 
-## Online Decision-Making and Incentives
+### Online Decision-Making and Incentives
 
 I study the interplay between online algorithms, mechanism design, and machine learning.  Current topics of interest include online mechanism design and online learning. 
 
-## Networked Systems, Platforms, and Markets
+### Networked Systems, Platforms, and Markets
 
-I work on problems where theory provides useful insight for the design of platforms and markets in computer networks, cloud computing and energy systems.
+I am interested in problems where theory provides useful insight for the design of real platforms and markets in computer networks, cloud computing and energy systems.
 
 
