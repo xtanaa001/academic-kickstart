@@ -60,24 +60,24 @@ height = ""
 #  overlay_filter = 0.8 # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Online Mechanism Design"
-  # content = "Incentives + Online Algorithms + Competitive Analysis"
+  title = "# **Online Mechanism Design**"
+  content = "Incentive-Aware Online Decision-Making under Uncertainty"
   align = "center"
 
   overlay_color = "#333"  # An HTML color value.
   overlay_img = "markets.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.85 # Darken the image. Value in range 0-1.
+  overlay_filter = 0.6 # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Online Learning"
-  # content = "## Data  + Machine Learning + Online Algorithms"
+  title = "# **Online Learning**"
+  content = "Data-Driven Online Decision-Making under Uncertainty"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   # Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "algorithms.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.85  # Darken the image. Value in range 0-1.
+  overlay_img = "learning.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.7  # Darken the image. Value in range 0-1.
 
 # [[item]]
 #  title = "Online Reinforcement Learning"

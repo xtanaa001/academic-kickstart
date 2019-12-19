@@ -97,8 +97,8 @@ subtitle = "[Description by Topics >>](/research)"
 
 +++
 
-I study **Online Decision-Making and Incentives**, and focus on understanding the interplay between mechanism design, online algorithms, and machine learning.  Current topics of interest include [online mechanism design](/research/#online-mechanism-design) and [online learning](/research/#online-learning).
+I study **Online Decision-Making and Incentives**, and focus on understanding the interplay between mechanism design, online algorithms, and machine learning.  Current topics of interest include online mechanism design and online learning.
 
-I am also interested in problems emerging from **Networked Systems** where the interaction between incentives, learning and algorithms provides rich insight into the design of real platforms and markets in the presence of self-interested agents. My main applications include [computer networks](/research/#computer-networks), [cloud computing](/research/#cloud-computing) and [energy systems](/research/#energy-systems).
+I am also interested in problems emerging from **Networked Systems** where the interaction between incentives, learning and algorithms provides rich insight into the design of real platforms and markets in the presence of self-interested agents. My main applications include computer networks, cloud computing and energy systems.
 
 
