@@ -61,7 +61,7 @@ height = ""
 
 [[item]]
   title = "# **Online Mechanism Design**"
-  content = "## Incentive-Aware Online Decision-Making under Uncertainty"
+  # content = "## Incentive-Aware Online Decision-Making"
   align = "center"
 
   overlay_color = "#333"  # An HTML color value.
@@ -70,7 +70,7 @@ height = ""
 
 [[item]]
   title = "# **Online Learning**"
-  content = "## Data-Driven Online Decision-Making under Uncertainty"
+  # content = "## Data-Driven Online Decision-Making"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).

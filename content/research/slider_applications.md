@@ -61,7 +61,7 @@ height = ""
 
 [[item]]
   title = "# **Computer Networks**"
-  content = "## Network Slicing and Network Function Virtualization"
+  # content = "## Network Slicing and Network Function Virtualization"
   align = "center"
 
   overlay_color = "#333"  # An HTML color value.
@@ -70,7 +70,7 @@ height = ""
 
 [[item]]
   title = "# **Cloud Computing**"
-  content = "## Resource Allocation and Pricing for the Clouds"
+  # content = "## Resource Allocation and Pricing for the Clouds"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -81,7 +81,7 @@ height = ""
 
 [[item]]
   title = "# **Data Markets**"
-  content = "## Market Design for Data Trading Platforms"  
+  # content = "## Market Design for Data Trading Platforms"  
   align = "center"  # Choose `center`, `left`, or `right`.
   # Transactive Control of Distributed Energy Resources
 
@@ -94,7 +94,7 @@ height = ""
 
 [[item]]
   title = "# **Energy Systems**"
-  content = "## Sustainable Energy and Mobility Future in Cities "  
+  # content = "## Sustainable Energy and Mobility Future in Cities "  
   align = "center"  # Choose `center`, `left`, or `right`.
   # Transactive Control of Distributed Energy Resources
 
