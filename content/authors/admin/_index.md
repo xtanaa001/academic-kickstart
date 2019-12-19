@@ -108,9 +108,9 @@ email: ""
 # I work on problems at the intersection of [online decision-making and incentives](/research/#slider_incentives), with a focus on applications in [networked systems, platforms and markets](/research/#slider_applications) (e.g., computer networks, cloud computing and energy systems).
 ---
 
-I am currently a Postdoctoral Fellow at the Dept. of Electrical & Computer Engineering, [University of Toronto](http://someurl), hosted by Prof. [Alberto Leon-Garcia](https://www.nal.utoronto.ca/). 
+I am a Postdoctoral Fellow at ECE, [University of Toronto](http://someurl), hosted by Professor [Alberto Leon-Garcia](https://www.nal.utoronto.ca/). 
 
-I received my Ph.D. degree in Electronic and Computer Engineering from [Hong Kong University of Science and Technology](https://www.ust.hk) in 2018, advised by Prof. [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/). From Oct. 2015 to April 2016, I was also affiliated with the School of Engineering and Applied Science, [Harvard University](https://www.harvard.edu/), hosted by Prof. [Na (Lina) Li](https://nali.seas.harvard.edu/).
+I received my Ph.D. degree in ECE from [Hong Kong University of Science and Technology](https://www.ust.hk) in 2018, advised by Professor [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/). From Oct. 2015 to April 2016, I was also affiliated with the School of Engineering and Applied Science, [Harvard University](https://www.harvard.edu/), hosted by Professor [Na (Lina) Li](https://nali.seas.harvard.edu/).
 
 
 I study **Online Decision-Making and Incentives**, and focus on understanding the interplay between mechanism design, online algorithms, and machine learning.  Current topics of interest include [Online Mechanism Design](/research/#online-mechanism-design) and [Online Learning](/research/#online-learning).
