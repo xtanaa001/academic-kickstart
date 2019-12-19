@@ -4,10 +4,10 @@
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 22 # Order that this section will appear.
 
-title = "Networked Systems, Platforms, and Markets"
+title = "Energy Systems"
 # subtitle = "Computer Networks, Cloud Computing, Smart Grid and Smart Mobility"
 
 
@@ -48,7 +48,7 @@ title = "Networked Systems, Platforms, and Markets"
   #   Any HTML color name or Hex value is valid.
     
   # Background color.
-  color = "white"
+  # color = "white"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
@@ -75,21 +75,13 @@ title = "Networked Systems, Platforms, and Markets"
 
 My research centers around resource allocation and scheduling in networked systems and platforms, where self-interested agents may appear sequentially, interact and possibly pursue conflicting objectives in the presence of dynamics, ranging from network connectivity to resource availability. Typical examples of such systems include:
 
-## Computer Networks
-
-The computer and communication networks have 
-
-{{< figure library="true" src="network_routing.png" title="A caption" lightbox="true" >}}
-
-## Cloud Computing
-
-Placing computing-intensive tasks at a centralized cloud has been proven not only efficient in the computational point of view, but also ecconomically. 
-
-## Data Markets
+## Smart Grid
 
 The power grid is undergoing a dramatic transformation...
 
-## Smart Cities
+{{< figure library="true" src="three_layer_smart_cities.png" title="A caption" lightbox="true" >}}
+
+## Urban Mobility Systems
 
 The power grid is undergoing a dramatic transformation...
 

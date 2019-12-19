@@ -5,10 +5,10 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
-title = "Online Decision-Making and Incentives"
-# subtitle = "Online Algorithms, Mechanism Design and Machine Learning"
+title = "Computer Networks"
+# subtitle = "Computer Networks, Cloud Computing, Smart Grid and Smart Mobility"
 
 
 
@@ -27,7 +27,7 @@ title = "Online Decision-Making and Incentives"
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = "incentives"
+    tag = "communication networks"
     category = ""
     publication_type = ""
     exclude_featured = false
@@ -48,7 +48,7 @@ title = "Online Decision-Making and Incentives"
   #   Any HTML color name or Hex value is valid.
     
   # Background color.
-  color = "white"
+  # color = "white"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
@@ -71,20 +71,19 @@ title = "Online Decision-Making and Incentives"
 # {{% alert note %}} 
 # Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 # {{% /alert %}}
-
-# ## Online Optimization
-# Reinforcement learning is concerned about making sequential decisions under uncertainty based on the theory of Markov Decision Process. For 
 +++
 
+My research centers around resource allocation and scheduling in networked systems and platforms, where self-interested agents may appear sequentially, interact and possibly pursue conflicting objectives in the presence of dynamics, ranging from network connectivity to resource availability. Typical examples of such systems include:
 
-I study incentive-aware decision making based on online algorithms, mechanism design and machine learning. In particular, I focus on designing sequential decision making algorithms when there is no complete information of future. Moreover, such sequential decision making problems can be substaintially challenged if there exist multiple agents with self-interested behaviors. 
+## Network Function Virtualization
 
-## Online Mechanism Design
-Mechanism design is concerned about designing a protocol that can implement a game. Online mechanism design sits at the intersection between mechanism design and online algorithm, where decisions must be made in an online fashion with incomplete future information. Posted-Price Mechanisms. 
+The computer and communication networks have 
 
-## Online Learning
-Mechanism design is concerned about designing a protocol that can implement a game. Online mechanism design sits at the intersection between mechanism design and online algorithm, where decisions must be made in an online fashion with incomplete future information. 
+{{< figure library="true" src="network_routing.png" title="A caption" lightbox="true" >}}
 
-{{< figure library="true" src="competitive_ratio.png" title="Achieveable regions of competitive ratios of the proposed online algorithm under three cases" lightbox="true" >}}
+## Network Utility Maximization
+
+The computer and communication networks have 
+
 
 ### Recent Publications

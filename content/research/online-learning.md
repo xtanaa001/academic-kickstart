@@ -4,11 +4,11 @@
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 11  # Order that this section will appear.
 
-title = "Networked Systems, Platforms, and Markets"
-# subtitle = "Computer Networks, Cloud Computing, Smart Grid and Smart Mobility"
+title = "Online Learning"
+# subtitle = "Online Algorithms, Mechanism Design and Machine Learning"
 
 
 
@@ -17,7 +17,7 @@ title = "Networked Systems, Platforms, and Markets"
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 3
+  count = 2
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -27,7 +27,7 @@ title = "Networked Systems, Platforms, and Markets"
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
+    tag = "incentives"
     category = ""
     publication_type = ""
     exclude_featured = false
@@ -71,28 +71,20 @@ title = "Networked Systems, Platforms, and Markets"
 # {{% alert note %}} 
 # Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 # {{% /alert %}}
+
+# ## Online Optimization
+# Reinforcement learning is concerned about making sequential decisions under uncertainty based on the theory of Markov Decision Process. For 
+
+# {{< figure library="true" src="competitive_ratio.png" title="Achieveable regions of competitive ratios of the proposed online algorithm under three cases" lightbox="true" >}}
 +++
 
-My research centers around resource allocation and scheduling in networked systems and platforms, where self-interested agents may appear sequentially, interact and possibly pursue conflicting objectives in the presence of dynamics, ranging from network connectivity to resource availability. Typical examples of such systems include:
 
-## Computer Networks
+I study incentive-aware decision making based on online algorithms, mechanism design and machine learning. In particular, I focus on designing sequential decision making algorithms when there is no complete information of future. Moreover, such sequential decision making problems can be substaintially challenged if there exist multiple agents with self-interested behaviors. 
 
-The computer and communication networks have 
+## Multi-Armed Bandit
+Mechanism design is concerned about designing a protocol that can implement a game. Online mechanism design sits at the intersection between mechanism design and online algorithm, where decisions must be made in an online fashion with incomplete future information. Posted-Price Mechanisms. 
 
-{{< figure library="true" src="network_routing.png" title="A caption" lightbox="true" >}}
-
-## Cloud Computing
-
-Placing computing-intensive tasks at a centralized cloud has been proven not only efficient in the computational point of view, but also ecconomically. 
-
-## Data Markets
-
-The power grid is undergoing a dramatic transformation...
-
-## Smart Cities
-
-The power grid is undergoing a dramatic transformation...
-
-{{< figure library="true" src="three_layer_smart_cities.png" title="A caption" lightbox="true" >}}
+## Auctions via Online Learning
+Mechanism design is concerned about designing a protocol that can implement a game. Online mechanism design sits at the intersection between mechanism design and online algorithm, where decisions must be made in an online fashion with incomplete future information.
 
 ### Recent Publications

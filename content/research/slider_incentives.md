@@ -61,16 +61,16 @@ height = ""
 
 [[item]]
   title = "Online Mechanism Design"
-  content = "## Incentives + Online Algorithms + Competitive Analysis"
+  # content = "Incentives + Online Algorithms + Competitive Analysis"
   align = "center"
 
   overlay_color = "#333"  # An HTML color value.
   overlay_img = "markets.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.75 # Darken the image. Value in range 0-1.
+  overlay_filter = 0.85 # Darken the image. Value in range 0-1.
 
 [[item]]
   title = "Online Learning"
-  content = "## Data  + Machine Learning + Online Algorithms"
+  # content = "## Data  + Machine Learning + Online Algorithms"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
