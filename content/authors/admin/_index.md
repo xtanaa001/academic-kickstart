@@ -14,7 +14,7 @@ role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Dept. of Electrical & Computer Engineering
+- name: Electrical & Computer Engineering
   url: "https://www.ece.utoronto.ca"
 - name:  University of Toronto
   url: "https://www.utoronto.ca"
@@ -118,9 +118,9 @@ email: ""
 # [Online Mechanism Design](/research/#online-mechanism-design) and [Online Learning](/research/#online-learning). I am most excited by problems where  theory provides rich insight into the design of real networks, platforms,and markets. 
 ---
 
-I am currently a Postdoctoral Fellow at ECE, [University of Toronto](http://someurl), hosted by Professor [Alberto Leon-Garcia](https://www.nal.utoronto.ca/). 
+I am currently a Postdoctoral Fellow at the [Department of Electrical & Computer Engineering](https://www.ece.utoronto.ca), [University of Toronto](http://someurl), hosted by Prof. [Alberto Leon-Garcia](https://www.nal.utoronto.ca/). 
 
-Before that, I received my Ph.D. degree in ECE from [Hong Kong University of Science and Technology](https://www.ust.hk) in 2018, advised by Professor [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/). From Oct. 2015 to April 2016, I was also affiliated with the School of Engineering and Applied Science, [Harvard University](https://www.harvard.edu/), hosted by Professor [Na (Lina) Li](https://nali.seas.harvard.edu/).
+Before that, I received my Ph.D. in Electronic and Computer Engineering from [Hong Kong University of Science and Technology](https://www.ust.hk) in 2018, advised by Prof. [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/). From Oct. 2015 to April 2016, I was also affiliated with the School of Engineering and Applied Science, [Harvard University](https://www.harvard.edu/), hosted by Prof. [Na (Lina) Li](https://nali.seas.harvard.edu/).
 
 
-I study the interplay between **mechanism design**, **machine learning**, and **online algorithms**, with a focus on applications in **networked systems and platforms**  (e.g., computer networks, cloud computing, and energy systems).  For more details about my work, please see [Research](/research) page.
+I study the interplay between Mechanism Design, Machine Learning, and Online Algorithms, with a focus on applications in Networked Systems and Platforms  (e.g., computer networks, cloud computing, and energy systems).  For more details about my work, please see [Research](/research) page.
