@@ -108,6 +108,14 @@ email: ""
 # I work on problems at the intersection of [online decision-making and incentives](/research/#slider_incentives), with a focus on applications in [networked systems, platforms and markets](/research/#slider_applications) (e.g., computer networks, cloud computing and energy systems).
 
 # I am also interested in applications where the interaction between incentives, learning and algorithms provides rich insight into the design of real platforms and markets for **Networked Systems** such as [Computer Networks](/research/#computer-networks), [Cloud Computing](/research/#cloud-computing) and [Energy Systems](/research/#energy-systems).
+
+# ### This website is still under construction! Information shown here may be incomplete or even misleading!
+
+# I am most excited by problems where the theoretic study of incentives, learning and algorithms provides rich insight for the design of real-world networks, platforms, and markets in the presence of private data held by self-interested agents. 
+
+# For more details, please see [Research](/research) and [Publications](/publication). I am most excited by problems where the theoretic study of incentives, learning, and algorithms provides rich insight for the design of real-world networks and platforms in the presence of private data held by self-interested agents. Current applications include [Computer Networks](/research/computer-networks), [Cloud Computing](/research/cloud-computing) and [Energy Systems](/research/energy-systems). 
+
+# [Online Mechanism Design](/research/#online-mechanism-design) and [Online Learning](/research/#online-learning).
 ---
 
 I am currently a Postdoctoral Fellow at ECE, [University of Toronto](http://someurl), hosted by Professor [Alberto Leon-Garcia](https://www.nal.utoronto.ca/). 
@@ -115,11 +123,4 @@ I am currently a Postdoctoral Fellow at ECE, [University of Toronto](http://some
 Before that, I received my Ph.D. degree in ECE from [Hong Kong University of Science and Technology](https://www.ust.hk) in 2018, advised by Professor [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/). From Oct. 2015 to April 2016, I was also affiliated with the School of Engineering and Applied Science, [Harvard University](https://www.harvard.edu/), hosted by Professor [Na (Lina) Li](https://nali.seas.harvard.edu/).
 
 
-I study the interplay between online algorithms, mechanism design,  and machine learning, with a focus on applications in [Computer Networks](/research/#computer-networks), [Cloud Computing](/research/#cloud-computing) and [Energy Systems](/research/#energy-systems). Current topics of interest include: 
-
-- [Online Mechanism Design](/research/#online-mechanism-design).
-- [Online and Stochastic Optimization](/research/).
-- [Algorithmic Aspects of Online Learning](/research/#online-learning).
-- [Data-Driven Online Decision-Making](/research/#online-learning). 
-
-### This website is still under construction! Information shown here may be incomplete or even misleading!
+I study the interplay between **Online Algorithms**, **Mechanism Design**, and **Machine Learning**, with a focus on applications in **Computer Networks**, **Cloud Computing** and **Energy Systems**.  I am most excited by problems where  theory provides rich insight into the design of real networks, platforms, and markets. For more details about my work, please see [Research](/research) page.
