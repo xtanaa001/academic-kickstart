@@ -115,7 +115,7 @@ email: ""
 
 # For more details, please see [Research](/research) and [Publications](/publication). I am most excited by problems where the theoretic study of incentives, learning, and algorithms provides rich insight for the design of real-world networks and platforms in the presence of private data held by self-interested agents. Current applications include [Computer Networks](/research/computer-networks), [Cloud Computing](/research/cloud-computing) and [Energy Systems](/research/energy-systems). 
 
-# [Online Mechanism Design](/research/#online-mechanism-design) and [Online Learning](/research/#online-learning).
+# [Online Mechanism Design](/research/#online-mechanism-design) and [Online Learning](/research/#online-learning). I am most excited by problems where  theory provides rich insight into the design of real networks, platforms,and markets. 
 ---
 
 I am currently a Postdoctoral Fellow at ECE, [University of Toronto](http://someurl), hosted by Professor [Alberto Leon-Garcia](https://www.nal.utoronto.ca/). 
@@ -123,4 +123,4 @@ I am currently a Postdoctoral Fellow at ECE, [University of Toronto](http://some
 Before that, I received my Ph.D. degree in ECE from [Hong Kong University of Science and Technology](https://www.ust.hk) in 2018, advised by Professor [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/). From Oct. 2015 to April 2016, I was also affiliated with the School of Engineering and Applied Science, [Harvard University](https://www.harvard.edu/), hosted by Professor [Na (Lina) Li](https://nali.seas.harvard.edu/).
 
 
-I study the interplay between **Online Algorithms**, **Mechanism Design**, and **Machine Learning**, with a focus on applications in **Computer Networks**, **Cloud Computing** and **Energy Systems**.  I am most excited by problems where  theory provides rich insight into the design of real networks, platforms, and markets. For more details about my work, please see [Research](/research) page.
+I study the interplay between $\textsf{online algorithms}$,  $\textsf{mechanism design}$, and $\textsf{machine learning}$, with a focus on applications in computer networks, cloud computing, and energy systems.  For more details about my work, please see [Research](/research) page.
