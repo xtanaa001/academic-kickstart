@@ -59,6 +59,15 @@ height = ""
 #  overlay_img = "algorithms.jpg"  # Image path relative to your `static/img/` folder.
 #  overlay_filter = 0.8 # Darken the image. Value in range 0-1.
 
+# [[item]]
+  # title = ""
+  # content = "## Incentive-Aware Online Decision-Making"
+  # align = "center"
+
+  # overlay_color = "#333"  # An HTML color value.
+  # overlay_img = "overview_slider.png"  # Image path relative to your `static/img/` folder.
+  # overlay_filter = 0 # Darken the image. Value in range 0-1.
+
 [[item]]
   title = "Online Mechanism Design"
   # content = "## Incentive-Aware Online Decision-Making"

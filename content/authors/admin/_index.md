@@ -106,6 +106,8 @@ email: ""
 # In particular, I am most excited by problems where sequential decisions must be made in an online fashion  in the presence of private data held by self-interested agents. In particular, I am most excited by problems where sequential decisions must be made in an online fashion in the presence of private data held by self-interested agents.
 
 # I work on problems at the intersection of [online decision-making and incentives](/research/#slider_incentives), with a focus on applications in [networked systems, platforms and markets](/research/#slider_applications) (e.g., computer networks, cloud computing and energy systems).
+
+# I am also interested in applications where the interaction between incentives, learning and algorithms provides rich insight into the design of real platforms and markets for **Networked Systems** such as [Computer Networks](/research/#computer-networks), [Cloud Computing](/research/#cloud-computing) and [Energy Systems](/research/#energy-systems).
 ---
 
 I am currently a Postdoctoral Fellow at ECE, [University of Toronto](http://someurl), hosted by Professor [Alberto Leon-Garcia](https://www.nal.utoronto.ca/). 
@@ -113,9 +115,8 @@ I am currently a Postdoctoral Fellow at ECE, [University of Toronto](http://some
 Before that, I received my Ph.D. degree in ECE from [Hong Kong University of Science and Technology](https://www.ust.hk) in 2018, advised by Professor [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/). From Oct. 2015 to April 2016, I was also affiliated with the School of Engineering and Applied Science, [Harvard University](https://www.harvard.edu/), hosted by Professor [Na (Lina) Li](https://nali.seas.harvard.edu/).
 
 
-I study **Online Decision-Making and Incentives**, and focus on understanding the interplay between mechanism design, online algorithms, and machine learning.  Current topics of interest include [Online Mechanism Design](/research/#online-mechanism-design) and [Online Learning](/research/#online-learning).
+I study **Online Decision-Making and Incentives**, and focus on understanding the interplay between mechanism design, online algorithms, and machine learning. Current topics of interest include [Online Mechanism Design](/research/#online-mechanism-design) and [Online Learning](/research/#online-learning).
 
-I am also interested in applications where the interaction between incentives, learning and algorithms provides rich insight into the design of real platforms and markets for **Networked Systems** such as [Computer Networks](/research/#computer-networks), [Cloud Computing](/research/#cloud-computing) and [Energy Systems](/research/#energy-systems).
-
+I am also interested in applications where the theoretic study of incentives, learning and algorithms provides rich insight for the **Optimization of Networked Systems**  in the presence of private data held by self-interested agents. Current applications of interest include [Computer Networks](/research/#computer-networks), [Cloud Computing](/research/#cloud-computing) and [Energy Systems](/research/#energy-systems). 
 
 ### This website is still under construction! Information shown here may be incomplete or even misleading!

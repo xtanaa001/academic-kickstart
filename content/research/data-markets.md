@@ -5,9 +5,9 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 90 # Order that this section will appear.
+weight = 70  # Order that this section will appear.
 
-title = "Energy Systems"
+title = "Data Markets"
 # subtitle = "Computer Networks, Cloud Computing, Smart Grid and Smart Mobility"
 
 
@@ -75,14 +75,4 @@ title = "Energy Systems"
 
 My research centers around resource allocation and scheduling in networked systems and platforms, where self-interested agents may appear sequentially, interact and possibly pursue conflicting objectives in the presence of dynamics, ranging from network connectivity to resource availability. Typical examples of such systems include:
 
-### Smart Grid
-
-The power grid is undergoing a dramatic transformation...
-
-{{< figure library="true" src="three_layer_smart_cities.png" title="A caption" lightbox="true" >}}
-
-### Urban Mobility Systems
-
-The power grid is undergoing a dramatic transformation...
-
-{{< figure library="true" src="three_layer_smart_cities.png" title="A caption" lightbox="true" >}}
+The computer and communication networks have 
