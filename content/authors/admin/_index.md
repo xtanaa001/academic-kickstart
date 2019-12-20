@@ -115,9 +115,11 @@ I am currently a Postdoctoral Fellow at ECE, [University of Toronto](http://some
 Before that, I received my Ph.D. degree in ECE from [Hong Kong University of Science and Technology](https://www.ust.hk) in 2018, advised by Professor [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/). From Oct. 2015 to April 2016, I was also affiliated with the School of Engineering and Applied Science, [Harvard University](https://www.harvard.edu/), hosted by Professor [Na (Lina) Li](https://nali.seas.harvard.edu/).
 
 
-My research generally lies at the intersection of online algorithms, mechanism design, and machine learning. 
-Current topics of interest include algorithmic aspects of [Online Mechanism Design](/research/#online-mechanism-design) and [Data-Driven Online Decision-Making](/research/#online-learning). 
+I study the interplay between online algorithms, mechanism design,  and machine learning, with a focus on applications in [Computer Networks](/research/#computer-networks), [Cloud Computing](/research/#cloud-computing) and [Energy Systems](/research/#energy-systems). Current topics of interest include: 
 
-I am most excited by problems where the theoretic study of incentives, learning and algorithms provides rich insight for the design of real-world networks, platforms, and markets in the presence of private data held by self-interested agents. Current applications include [Computer Networks](/research/#computer-networks), [Cloud Computing](/research/#cloud-computing) and [Energy Systems](/research/#energy-systems). 
+- [Online Mechanism Design](/research/#online-mechanism-design).
+- [Online and Stochastic Optimization](/research/).
+- [Algorithmic Aspects of Online Learning](/research/#online-learning).
+- [Data-Driven Online Decision-Making](/research/#online-learning). 
 
 ### This website is still under construction! Information shown here may be incomplete or even misleading!

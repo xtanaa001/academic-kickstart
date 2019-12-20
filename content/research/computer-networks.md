@@ -77,7 +77,7 @@ title = "Computer Networks"
 # ## Recent Publications
 +++
 
-My research centers around resource allocation and scheduling in networked systems and platforms, where self-interested agents may appear sequentially, interact and possibly pursue conflicting objectives in the presence of dynamics, ranging from network connectivity to resource availability. Typical examples of such systems include:
+I am also particularly excited by problems where the theoretic study of incentives, learning and algorithms provides rich insight for the design of real-world networks, platforms, and markets in the presence of private data held by self-interested agents, with a focus on applications in [Computer Networks](/research/#computer-networks), [Cloud Computing](/research/#cloud-computing) and [Energy Systems](/research/#energy-systems). 
 
 ### Network Function Virtualization
 
