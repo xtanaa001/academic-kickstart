@@ -123,4 +123,4 @@ I am currently a Postdoctoral Fellow at ECE, [University of Toronto](http://some
 Before that, I received my Ph.D. degree in ECE from [Hong Kong University of Science and Technology](https://www.ust.hk) in 2018, advised by Professor [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/). From Oct. 2015 to April 2016, I was also affiliated with the School of Engineering and Applied Science, [Harvard University](https://www.harvard.edu/), hosted by Professor [Na (Lina) Li](https://nali.seas.harvard.edu/).
 
 
-I study the interplay between $\textsf{online algorithms}$,  $\textsf{mechanism design}$, and $\textsf{machine learning}$, with a focus on applications in computer networks, cloud computing, and energy systems.  For more details about my work, please see [Research](/research) page.
+I study the interplay between **mechanism design**, **machine learning**, and **online algorithms**, with a focus on applications in **networked systems and platforms**  (e.g., computer networks, cloud computing, and energy systems).  For more details about my work, please see [Research](/research) page.
