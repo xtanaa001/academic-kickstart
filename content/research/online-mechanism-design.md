@@ -27,7 +27,7 @@ title = "Online Mechanism Design"
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = "NA"
+    tag = "incentives"
     category = ""
     publication_type = ""
     exclude_featured = false
@@ -96,3 +96,5 @@ $$
 
 ### Online Combinatorial Auctions
 Mechanism design is concerned about designing a protocol that can implement a game. Online mechanism design sits at the intersection between mechanism design and online algorithm, where decisions must be made in an online fashion with incomplete future information.
+
+## Recent Publications

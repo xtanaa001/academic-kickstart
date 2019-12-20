@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Online Learning"
+title = "Data-Driven Online Decision-Making"
 # subtitle = "Online Algorithms, Mechanism Design and Machine Learning"
 
 
@@ -26,7 +26,7 @@ title = "Online Learning"
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = "NA"
+    tag = "incentives"
     category = ""
     publication_type = ""
     exclude_featured = false
@@ -87,3 +87,5 @@ Mechanism design is concerned about designing a protocol that can implement a ga
 
 ### Auctions via Online Learning
 Mechanism design is concerned about designing a protocol that can implement a game. Online mechanism design sits at the intersection between mechanism design and online algorithm, where decisions must be made in an online fashion with incomplete future information.
+
+## Recent Publications

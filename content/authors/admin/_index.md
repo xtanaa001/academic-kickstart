@@ -115,8 +115,9 @@ I am currently a Postdoctoral Fellow at ECE, [University of Toronto](http://some
 Before that, I received my Ph.D. degree in ECE from [Hong Kong University of Science and Technology](https://www.ust.hk) in 2018, advised by Professor [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/). From Oct. 2015 to April 2016, I was also affiliated with the School of Engineering and Applied Science, [Harvard University](https://www.harvard.edu/), hosted by Professor [Na (Lina) Li](https://nali.seas.harvard.edu/).
 
 
-I study **Online Decision-Making and Incentives**, and focus on understanding the interplay between mechanism design, online algorithms, and machine learning. Current topics of interest include [Online Mechanism Design](/research/#online-mechanism-design) and [Online Learning](/research/#online-learning).
+My research generally lies at the intersection of online algorithms, mechanism design, and machine learning. 
+Current topics of interest include algorithmic aspects of [Online Mechanism Design](/research/#online-mechanism-design) and [Data-Driven Online Decision-Making](/research/#online-learning). 
 
-I am also interested in applications where the theoretic study of incentives, learning and algorithms provides rich insight for the **Optimization of Networked Systems**  in the presence of private data held by self-interested agents. Current applications of interest include [Computer Networks](/research/#computer-networks), [Cloud Computing](/research/#cloud-computing) and [Energy Systems](/research/#energy-systems). 
+I am also interested in applications where the theoretic study of incentives, learning and algorithms provides rich insight for the optimization of networked systems in the presence of private data held by self-interested agents. Current applications include [Computer Networks](/research/#computer-networks), [Cloud Computing](/research/#cloud-computing) and [Energy Systems](/research/#energy-systems). 
 
 ### This website is still under construction! Information shown here may be incomplete or even misleading!
