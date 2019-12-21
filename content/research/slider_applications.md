@@ -80,7 +80,7 @@ height = ""
   overlay_filter = 0.7  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Data Trading Platforms"
+  title = "Mobility Systems"
   # content = "## Market Design for Data Trading Platforms"  
   align = "center"  # Choose `center`, `left`, or `right`.
   # Transactive Control of Distributed Energy Resources
