@@ -87,12 +87,22 @@ I study incentive-aware decision making based on online algorithms, mechanism de
 Mechanism design is concerned about designing a protocol that can implement a game. Online mechanism design sits at the intersection between mechanism design and online algorithm, where decisions must be made in an online fashion with incomplete future information. Posted-Price Mechanisms. 
 
 $$
-	\text{maximize}  \sum_{n=1}^N v_n x_n - \sum_{t=1}^T f\left(\sum_{n=1}^N r_n^tx_n\right),
-	\text{subject to} \sum_{n=1}^N r_n^tx_n\leq 1, \forall  t\in\mathcal{T},
-	x_n = \{0,1\},\forall n\in\mathcal{N}.
+\begin{aligned}
+& \text{maximize}  & & \sum _ {n=1}^N v_n x_n - \sum _ {t=1}^T f\left(\sum _ {n=1}^N r_n^tx_n\right),\\\\\
+& \text{subject to} & & \sum _ {n=1}^N r_n^tx_n\leq 1, \forall  t = \{1,2,\cdots, T},\\\\\
+& & & x_n = \{0,1\},\forall n = \{1,2,\cdots,N\}.
+\end{aligned}
 $$
 
 ### Online Convex Optimization
 Mechanism design is concerned about designing a protocol that can implement a game. Online mechanism design sits at the intersection between mechanism design and online algorithm, where decisions must be made in an online fashion with incomplete future information.
+
+$$
+\begin{aligned}
+& \text{maximize}  & & \sum _ {t=1}^T f_t\left( x_t\right),\\\\\
+& \text{subject to} & & \sum _ {t=1}^T x_t \leq 1,\\\\\
+& & & x_t \in \mathcal{X}_t, \forall t = \{1,2,\cdots,T\}.
+\end{aligned}
+$$
 
 ## Recent Publications
