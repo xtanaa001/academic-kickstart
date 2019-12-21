@@ -117,7 +117,7 @@ email: ""
 
 # [Online Mechanism Design](/research/#online-mechanism-design) and [Online Learning](/research/#online-learning). I am most excited by problems where  theory provides rich insight into the design of real networks, platforms,and markets. 
 
-# in the presence of private data held by self-interested agents.  
+# in the presence of private data held by self-interested agents.  For more details about my work, please see [Research](/research) page.
 ---
 
 I am a postdoc at the [University of Toronto](http://someurl), hosted by Prof. [Alberto Leon-Garcia](https://www.nal.utoronto.ca/). 
@@ -125,6 +125,4 @@ I am a postdoc at the [University of Toronto](http://someurl), hosted by Prof. [
 I obtained my Ph.D. in ECE from the Hong Kong University of Science and Technology in 2018, advised by Prof. [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/). From Oct. 2015 to April 2016, I was a visiting research fellow at the School of Engineering and Applied Science, Harvard University, working with Prof. [Na (Lina) Li](https://nali.seas.harvard.edu/).
 
 
-I study the interplay between mechanism design, machine learning, and online algorithms, with a focus on applications in networked systems and platforms  (e.g., computer networks, cloud computing, and energy systems). 
-
-For more details about my work, please see [Research](/research) page.
+I work on problems at the intersection of mechanism design, machine learning, and online algorithms, with a focus on applications in networked systems and platforms  (e.g., computer networks, cloud computing, and energy systems). 
