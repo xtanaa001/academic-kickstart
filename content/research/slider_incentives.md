@@ -78,7 +78,7 @@ height = ""
   overlay_filter = 0.6 # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Data-Driven Online Decision-Making"
+  title = "Online Learning"
   # content = "## Data-Driven Online Decision-Making"
   align = "center"  # Choose `center`, `left`, or `right`.
 
