@@ -119,7 +119,7 @@ email: ""
 
 # in the presence of private data held by self-interested agents.  For more details about my work, please see [Research](/research) page. 
 
-# More specifically, I am most excited by problems where the theoretic study of incentives, learning and algorithms provides rich insight for the design of real-world networks, platforms, and markets in the presence of private data held by self-interested agents. For more details about my work, please see [Research](/research) page. 
+# More specifically, I am most excited by problems where the theoretic study of incentives, learning and algorithms provides rich insight for the design of real-world networks, platforms, and markets in the presence of private data held by self-interested agents. 
 ---
 
 I am a postdoc at the [University of Toronto](http://someurl), hosted by Prof. [Alberto Leon-Garcia](https://www.nal.utoronto.ca/). 
@@ -127,4 +127,4 @@ I am a postdoc at the [University of Toronto](http://someurl), hosted by Prof. [
 Before that, I obtained my Ph.D. in ECE from the Hong Kong University of Science and Technology in 2018, advised by Prof. [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/). From Oct. 2015 to April 2016, I was a visiting research fellow at the School of Engineering and Applied Science, Harvard University, working with Prof. [Na (Lina) Li](https://nali.seas.harvard.edu/).
 
 
-I work on problems at the intersection of mechanism design, machine learning, and online algorithms, with a focus on applications in computer networks, cloud computing, and energy systems.
+I work on problems at the intersection of mechanism design, machine learning, and online algorithms, with a focus on applications in computer networks, cloud computing, and energy systems. For more details about my work, please see [Research](/research) page. 
