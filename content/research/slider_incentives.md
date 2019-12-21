@@ -78,7 +78,18 @@ height = ""
   overlay_filter = 0.8 # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Online Learning"
+  title = "Online Optimization"
+  # content = "Communication Networks, Cloud Computing and Smart Grid"
+  align = "center"  # Choose `center`, `left`, or `right`.
+
+  # Overlay a color or image (optional).
+  # Deactivate an option by commenting out the line, prefixing it with `#`.
+  overlay_color = "#666"  # An HTML color value.
+  overlay_img = "multiagent.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.7  # Darken the image. Value in range 0-1.
+
+[[item]]
+  title = "Online Machine Learning"
   # content = "## Data-Driven Online Decision-Making"
   align = "center"  # Choose `center`, `left`, or `right`.
 
@@ -87,15 +98,4 @@ height = ""
   overlay_color = "#666"  # An HTML color value.
   overlay_img = "algorithms.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.8  # Darken the image. Value in range 0-1.
-
-# [[item]]
-#  title = "Online Reinforcement Learning"
-#  # content = "Communication Networks, Cloud Computing and Smart Grid"
-#  align = "center"  # Choose `center`, `left`, or `right`.
-
-  # Overlay a color or image (optional).
-  # Deactivate an option by commenting out the line, prefixing it with `#`.
-#  overlay_color = "#666"  # An HTML color value.
-#  overlay_img = "multiagent.jpeg"  # Image path relative to your `static/img/` folder.
-#  overlay_filter = 0.7  # Darken the image. Value in range 0-1.
 +++

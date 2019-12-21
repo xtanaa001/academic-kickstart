@@ -5,10 +5,11 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 25  # Order that this section will appear.
 
-title = "Online Machine Learning"
+title = "Online Optimization"
 # subtitle = "Online Algorithms, Mechanism Design and Machine Learning"
+
 
 
 [content]
@@ -76,16 +77,22 @@ title = "Online Machine Learning"
 
 # {{< figure library="true" src="competitive_ratio.png" title="Achieveable regions of competitive ratios of the proposed online algorithm under three cases" lightbox="true" >}}
 
-# ### Recent Publications
+# ## Recent Publications
 +++
 
 
 I study incentive-aware decision making based on online algorithms, mechanism design and machine learning. In particular, I focus on designing sequential decision making algorithms when there is no complete information of future. Moreover, such sequential decision making problems can be substaintially challenged if there exist multiple agents with self-interested behaviors. 
 
-### Multi-Armed Bandit
+###  Online Combinatorial Optimization
 Mechanism design is concerned about designing a protocol that can implement a game. Online mechanism design sits at the intersection between mechanism design and online algorithm, where decisions must be made in an online fashion with incomplete future information. Posted-Price Mechanisms. 
 
-### Auctions via Online Learning
+$$
+	\text{maximize}  \sum_{n=1}^N v_n x_n - \sum_{t=1}^T f\left(\sum_{n=1}^N r_n^tx_n\right),
+	\text{subject to} \sum_{n=1}^N r_n^tx_n\leq 1, \forall  t\in\mathcal{T},
+	x_n = \{0,1\},\forall n\in\mathcal{N}.
+$$
+
+### Online Convex Optimization
 Mechanism design is concerned about designing a protocol that can implement a game. Online mechanism design sits at the intersection between mechanism design and online algorithm, where decisions must be made in an online fashion with incomplete future information.
 
 ## Recent Publications
