@@ -81,7 +81,7 @@ The power grid is undergoing a dramatic transformation...
 
 {{< figure library="true" src="three_layer_smart_cities.png" title="A caption" lightbox="true" >}}
 
-### Urban Mobility Systems
+### Electric Mobility-on-Demand Systems
 
 The power grid is undergoing a dramatic transformation...
 
