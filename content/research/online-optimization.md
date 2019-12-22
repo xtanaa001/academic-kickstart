@@ -88,8 +88,8 @@ Mechanism design is concerned about designing a protocol that can implement a ga
 
 $$
 \begin{align}
-& \text{maximize}  & & \sum _ {n=1}^N v_n x_n - f\left(\sum _ {n=1}^N r_nx_n\right),\\\\\
-& \text{subject to} & & \sum _ {n=1}^N r_n x_n\leq 1, \\\\\
+& \max  & & \sum _ {n=1}^N v_n x_n - f\left(\sum _ {n=1}^N r_nx_n\right),\\\\\
+& s.t. & & \sum _ {n=1}^N r_n x_n\leq 1, \\\\\
 & & & x_n = \{0,1\}, \forall n = \{1,2,\cdots,N\}.
 \end{align}
 $$
@@ -99,8 +99,8 @@ Mechanism design is concerned about designing a protocol that can implement a ga
 
 $$
 \begin{aligned}
-& \text{maximize}  & & \sum _ {t=1}^T f_t\left( x_t\right),\\\\\
-& \text{subject to} & & \sum _ {t=1}^T x_t \leq 1,\\\\\
+& \max  & & \sum _ {t=1}^T f_t\left( x_t\right),\\\\\
+& s.t. & & \sum _ {t=1}^T x_t \leq 1,\\\\\
 & & & x_t \in \mathcal{X}_t, \forall t = \{1,2,\cdots,T\}.
 \end{aligned}
 $$
