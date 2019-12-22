@@ -87,11 +87,11 @@ I study incentive-aware decision making based on online algorithms, mechanism de
 Mechanism design is concerned about designing a protocol that can implement a game. Online mechanism design sits at the intersection between mechanism design and online algorithm, where decisions must be made in an online fashion with incomplete future information. Posted-Price Mechanisms. 
 
 $$
-\begin{aligned}
-& \text{maximize}  & & \sum _ {n=1}^N v_n x_n - \sum _ {t=1}^T f\left(\sum _ {n=1}^N r_n^tx_n\right),\\\\\
-& \text{subject to} & & \sum _ {n=1}^N r_n^tx_n\leq 1, \forall  t = \{1,2,\cdots, T},\\\\\
-& & & x_n = \{0,1\},\forall n = \{1,2,\cdots,N\}.
-\end{aligned}
+\begin{align}
+& \text{maximize}  & & \sum _ {n=1}^N v_n x_n - f\left(\sum _ {n=1}^N r_nx_n\right),\\\\\
+& \text{subject to} & & \sum _ {n=1}^N r_n x_n\leq 1, \\\\\
+& & & x_n = \{0,1\}, \forall n = \{1,2,\cdots,N\}.
+\end{align}
 $$
 
 ### Online Convex Optimization
