@@ -120,11 +120,12 @@ email: ""
 # in the presence of private data held by self-interested agents.  For more details about my work, please see [Research](/research) page. 
 
 # More specifically, I am most excited by problems where the theoretic study of incentives, learning and algorithms provides rich insight for the design of real-world networks, platforms, and markets in the presence of private data held by self-interested agents. 
+
+# I am most excited by problems where theory provides rich insight into the design of real-world platforms in the presence of private data held by self-interested agents. 
 ---
 
-I am a postdoc at the [University of Toronto](https://utoronto.ca), hosted by Prof. [Alberto Leon-Garcia](https://www.nal.utoronto.ca/). 
+I am currently a Postdoc at the [Dept. of Electrical & Computer Engineering](https://www.ece.utoronto.ca), [University of Toronto](https://utoronto.ca), hosted by Prof. [Alberto Leon-Garcia](https://www.nal.utoronto.ca/). 
 
-Before that, I obtained my Ph.D. in ECE from [HKUST](https://www.ust.hk/) in 2018, advised by Prof. [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/). From Oct. 2015 to April 2016, I was also affiliated with the School of Engineering and Applied Science, Harvard University, hosted by Prof. [Na (Lina) Li](https://nali.seas.harvard.edu/).
+Prior to my current position, I obtained my Ph.D. in [Electronic and Computer Engineering](https://ece.ust.hk/) from the [Hong Kong University of Science and Technology](https://www.ust.hk/) in 2018, advised by Prof. [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/). From Oct. 2015 to April 2016, I was also affiliated with the School of Engineering and Applied Science, Harvard University, hosted by Prof. [Na (Lina) Li](https://nali.seas.harvard.edu/).
 
-
-I work on problems at the intersection of mechanism design, machine learning, and online algorithms, with a focus on applications in networked systems and platforms (e.g., computer networks, cloud computing, smart grid, and smart mobility). I am most excited by problems where theory provides rich insight into the design of real-world platforms in the presence of private data held by self-interested agents that may appear sequentially. For more details about my work, please see [Research](/research) page. 
+I study the interplay between mechanism design, machine learning, and online algorithms, with a focus on applications in networked systems and platforms (e.g., computer networks, cloud computing, smart grid, and smart mobility). For more details about my work, please see [Research](/research) page. 
