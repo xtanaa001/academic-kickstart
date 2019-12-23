@@ -119,7 +119,7 @@ email: ""
 
 # in the presence of private data held by self-interested agents.  For more details about my work, please see [Research](/research) page. 
 
-# More specifically, I am most excited by problems where the theoretic study of incentives, learning and algorithms provides rich insight for the design of real-world networks, platforms, and markets in the presence of private data held by self-interested agents. 
+# More specifically, I am most excited by problems where the theoretic study of incentives, learning and algorithms provides rich insight for the design of real-world networks, platforms, and markets in the presence of private data held by self-interested agents.  
 
 # I study the interplay between online algorithms, mechanism design, and machine learning, with a focus on applications in networked systems and platforms (e.g., computer networks, cloud computing, smart grid,and smart mobility). For more details about my work, please see [Research](/research) page. 
 ---
@@ -129,4 +129,4 @@ I am a postdoc at the [Dept. of Electrical & Computer Engineering](https://www.e
 Prior to my current position, I obtained my Ph.D. in electronic and computer engineering from the [Hong Kong University of Science and Technology](https://www.ust.hk/) in 2018, advised by Prof. [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/). From Oct. 2015 to April 2016, I was also affiliated with the School of Engineering and Applied Science, Harvard University, hosted by Prof. [Na (Lina) Li](https://nali.seas.harvard.edu/).
 
 
-I am broadly interested in the **optimization of networked systems**, with a focus on understanding the **interplay between mechanism design, machine learning, and online algorithms**. For more details about my work, please see [Research](/research) page. 
+I am broadly interested in the **optimization of networked systems**, with particular applications to computer networks, cloud computing and smart grid. My research tends to focus on the interplay between mechanism design, machine learning, and online algorithms, with a focus on understanding the synergy between incentives, learning and algorithms for the optimization of real-world networked systems in the presence of private data held by self-interested agents. For more details about my work, please see [Research](/research) page. 
