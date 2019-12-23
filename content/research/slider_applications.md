@@ -60,7 +60,7 @@ height = ""
 #  overlay_filter = 0.8 # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Computer Networks"
+  title = "Data Networks"
   # content = "## Network Slicing and Network Function Virtualization"
   align = "center"
 
@@ -79,21 +79,21 @@ height = ""
   overlay_img = "computing.jpeg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.7  # Darken the image. Value in range 0-1.
 
+# [[item]]
+#  title = "Mobility Systems"
+#  # content = "## Market Design for Data Trading Platforms"  
+#  align = "center"  # Choose `center`, `left`, or `right`.
+#  # Transactive Control of Distributed Energy Resources
+
+#  # Overlay a color or image (optional).
+#  # Deactivate an option by commenting out the line, prefixing it with `#`.
+#  overlay_color = "#666"  # An HTML color value.
+#  overlay_img = "power_grid.jpg"  # Image path relative to your `static/img/` folder.
+#  overlay_filter = 0.7  # Darken the image. Value in range 0-1.
+
+
 [[item]]
-  title = "Mobility Systems"
-  # content = "## Market Design for Data Trading Platforms"  
-  align = "center"  # Choose `center`, `left`, or `right`.
-  # Transactive Control of Distributed Energy Resources
-
-  # Overlay a color or image (optional).
-  # Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
-  overlay_img = "power_grid.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.7  # Darken the image. Value in range 0-1.
-
-
-[[item]]
-  title = "Energy Systems"
+  title = "Smart Grid"
   # content = "## Sustainable Energy and Mobility Future in Cities "  
   align = "center"  # Choose `center`, `left`, or `right`.
   # Transactive Control of Distributed Energy Resources

@@ -78,7 +78,7 @@ height = ""
   overlay_filter = 0.8 # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Online Optimization"
+  title = "Data-Driven Mechanism Design"
   # content = "Communication Networks, Cloud Computing and Smart Grid"
   align = "center"  # Choose `center`, `left`, or `right`.
 

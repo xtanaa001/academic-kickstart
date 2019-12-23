@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 25  # Order that this section will appear.
 
-title = "Online Optimization"
+title = "Data-Driven Mechanism Design"
 # subtitle = "Online Algorithms, Mechanism Design and Machine Learning"
 
 
