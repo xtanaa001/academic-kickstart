@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Data Networks"
+title = "Computer Networks"
 # subtitle = "Computer Networks, Cloud Computing, Smart Grid and Smart Mobility"
 
 

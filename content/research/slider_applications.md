@@ -60,7 +60,7 @@ height = ""
 #  overlay_filter = 0.8 # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Data Networks"
+  title = "Computer Networks"
   # content = "## Network Slicing and Network Function Virtualization"
   align = "center"
 
