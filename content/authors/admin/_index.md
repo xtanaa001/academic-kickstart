@@ -140,4 +140,4 @@ I am a postdoc at the [Dept. of Electrical & Computer Engineering](https://www.e
 Prior to my current position, I obtained my Ph.D. in electronic and computer engineering from the [Hong Kong University of Science and Technology](https://www.ust.hk/) in 2018, advised by Prof. [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/).  From Oct. 2015 to April 2016, I was a visiting student with the School of Engineering and Applied Science, Harvard University, hosted by Prof. [Na (Lina) Li](https://nali.seas.harvard.edu/).
 
 
-I study the interplay between **mechanism design**, **online algorithms**, and **machine learning**, with a focus on applications in **networked systems** such as [computer networks](/research/#computer-networks), [cloud computing](/research/#cloud-computing), and [smart grid](/research/#smart-grid). 
+I study the interplay between mechanism design, online algorithms, and machine learning, with a focus on applications in networked systems such as [computer networks](/research/#computer-networks), [cloud computing](/research/#cloud-computing), and [smart grid](/research/#smart-grid). 
