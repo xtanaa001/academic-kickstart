@@ -135,9 +135,9 @@ email: ""
 
 ---
 
-I am a postdoc at the [Dept. of Electrical & Computer Engineering](https://www.ece.utoronto.ca), [University of Toronto](https://utoronto.ca), hosted by Prof. [Alberto Leon-Garcia](https://www.nal.utoronto.ca/). Prior to my current position, I obtained my Ph.D. in electronic and computer engineering from the [Hong Kong University of Science and Technology](https://www.ust.hk/) in 2018, advised by Prof. [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/).  From Oct. 2015 to April 2016, I was a visiting student with the School of Engineering and Applied Science, Harvard University, hosted by Prof. [Na (Lina) Li](https://nali.seas.harvard.edu/).
+I am a postdoc at the [Dept. of Electrical & Computer Engineering](https://www.ece.utoronto.ca), [University of Toronto](https://utoronto.ca), hosted by Prof. [Alberto Leon-Garcia](https://www.nal.utoronto.ca/). 
+
+Prior to my current position, I obtained my Ph.D. in electronic and computer engineering from the [Hong Kong University of Science and Technology](https://www.ust.hk/) in 2018, advised by Prof. [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/).  From Oct. 2015 to April 2016, I was a visiting student with the School of Engineering and Applied Science, Harvard University, hosted by Prof. [Na (Lina) Li](https://nali.seas.harvard.edu/).
 
 
-I am broadly interested in the interplay between _mechanism design_, _machine learning_, and  _sequential decision-making_, with a focus on applications in _networked systems_ such as computer networks, cloud computing, and smart grid. 
-
-A large part of my current research focuses on the design of _incentive-aware online algorithms_ for sequential resource allocation in the presence of self-interested agents and uncertainty. For more details about my research, please see [Research](/research) page. 
+I work on problems at the intersection of **mechanism design**, **machine learning**, and **sequential decision-making**, with a focus on applications in networked systems such as computer networks, cloud computing, and smart grid. For more details about my research, please see [Research](/research) page. 
