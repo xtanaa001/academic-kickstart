@@ -131,13 +131,17 @@ email: ""
 
 # In more detail: I study networks of interacting and self-interested agents, and focus on the design of incentive-aware algorithms that can lead to desired objectives in such networked systems. 
 
-# A large part of my current research focuses on the design of online mechanisms for resource allocation and pricing in networks with interacting and self-interested agents.
-
+# I work on problems at the intersection of mechanism design, online algorithms, and sequential decision-making, with a focus on applications in networked systems (e.g., computer networks, cloud computing, and smart grid). For more details about my research, please see [Research](/research) page. 
+# - Algorithmic mechanism design and game theory.
+# - Online algorithms in optimization, mechanism design, and machine learning. 
+# - Algorithms for sequential decision-making under uncertainty.
 ---
 
-I am a postdoc at the [Dept. of Electrical & Computer Engineering](https://www.ece.utoronto.ca), [University of Toronto](https://utoronto.ca), hosted by Prof. [Alberto Leon-Garcia](https://www.nal.utoronto.ca/). 
+I am a postdoc at the [Department of Electrical & Computer Engineering](https://www.ece.utoronto.ca), [University of Toronto](https://utoronto.ca), hosted by Prof. [Alberto Leon-Garcia](https://www.nal.utoronto.ca/). 
 
 Prior to my current position, I obtained my Ph.D. in electronic and computer engineering from the [Hong Kong University of Science and Technology](https://www.ust.hk/) in 2018, advised by Prof. [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/).  From Oct. 2015 to April 2016, I was a visiting student with the School of Engineering and Applied Science, Harvard University, hosted by Prof. [Na (Lina) Li](https://nali.seas.harvard.edu/).
 
 
-I work on problems at the intersection of mechanism design, online algorithms, and sequential decision-making, with a focus on applications in networked systems (e.g., computer networks, cloud computing, and smart grid). For more details about my research, please see [Research](/research) page. 
+I work on problems at the intersection of **incentives**, **algorithms**, and **learning**, with a focus on applications in *communication*, *computing*, and *energy systems*. For more details about my research, please see [Research](/research) and [Publication](/publication) page. 
+
+## This website is still under construction! Information shown here may be incomplete or even misleading!
