@@ -24,9 +24,10 @@ organizations:
 
 # interests:
 #  - Online Algorithms
-#  - Mechanism Design
 #  - Machine Learning
-#  - Computer Networks
+#  - Mechanism Design
+#  - Algorithmic Game Theory
+#  - Sequential Decision Making
 #  - Cloud Computing
 #  - Energy Systems
 
@@ -135,6 +136,12 @@ email: ""
 # - Algorithmic mechanism design and game theory.
 # - Online algorithms in optimization, mechanism design, and machine learning. 
 # - Algorithms for sequential decision-making under uncertainty.
+
+# Current topics of interest include i) algorithmic mechanism design, ii) online algorithms in optimization and machine learning, and iii) sequential decision-making under uncertainty.
+
+# For more details, please see [Research](/research) and [Publication](/publication) page. 
+
+## This website is still under construction! Information shown here may be incomplete or even misleading!
 ---
 
 I am a postdoc at the [Department of Electrical & Computer Engineering](https://www.ece.utoronto.ca), [University of Toronto](https://utoronto.ca), hosted by Prof. [Alberto Leon-Garcia](https://www.nal.utoronto.ca/). 
@@ -142,6 +149,4 @@ I am a postdoc at the [Department of Electrical & Computer Engineering](https://
 Prior to my current position, I obtained my Ph.D. in electronic and computer engineering from the [Hong Kong University of Science and Technology](https://www.ust.hk/) in 2018, advised by Prof. [Danny H.K. Tsang](https://eetsang.home.ece.ust.hk/).  From Oct. 2015 to April 2016, I was a visiting student with the School of Engineering and Applied Science, Harvard University, hosted by Prof. [Na (Lina) Li](https://nali.seas.harvard.edu/).
 
 
-I work on problems at the intersection of **incentives**, **algorithms**, and **learning**, with a focus on applications in *communication*, *computing*, and *energy systems*. For more details about my research, please see [Research](/research) and [Publication](/publication) page. 
-
-## This website is still under construction! Information shown here may be incomplete or even misleading!
+I study the interplay between [incentives, algorithms, and learning](/research/#slider_incentives), with a focus on applications in [networking and energy systems](/research/#slider_applications). 

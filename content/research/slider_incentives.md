@@ -69,7 +69,7 @@ height = ""
   # overlay_filter = 0 # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Online Mechanism Design"
+  title = "Mechanism Design"
   # content = "## Incentive-Aware Online Decision-Making"
   align = "center"
 
@@ -78,7 +78,7 @@ height = ""
   overlay_filter = 0.8 # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Data-Driven Mechanism Design"
+  title = "Online Algorithms"
   # content = "Communication Networks, Cloud Computing and Smart Grid"
   align = "center"  # Choose `center`, `left`, or `right`.
 
@@ -89,7 +89,7 @@ height = ""
   overlay_filter = 0.7  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Online Machine Learning"
+  title = "Machine Learning"
   # content = "## Data-Driven Online Decision-Making"
   align = "center"  # Choose `center`, `left`, or `right`.
 
